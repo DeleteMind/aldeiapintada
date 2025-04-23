@@ -16,11 +16,12 @@ export default function Header() {
   };
 
   return (
-    <header className="z-[10000] sticky top-0 w-full flex justify-center items-center p-6 bg-zinc-900/20 backdrop-blur-md ">
+    <header className="z-[10000] sticky top-0 w-full flex justify-center items-center p-6 ">
+      
       {/* Logo */}
-      <Link className="hover:ring-2 hover:ring-green-300  shrink-0" href="/">
+      <Link className="" href="/">
         <Image
-          className="bg-zinc-100 "
+          className=""
           src="/Aldeia Pintada_Cor_PNG.png"
           alt="Aldeia Pintada Logo"
           width={100}
@@ -48,17 +49,23 @@ export default function Header() {
       {/* icons */}
       <div className="flex flex-row gap-3 justify-center">
         <Link href="https://www.facebook.com/aldeiapintada/" target="_blank">
-          <FaFacebookF className="text-zinc-50 hover:text-green-200" size={16} />
+          <FaFacebookF
+            className="text-black hover:text-green-200"
+            size={16}
+          />
         </Link>
         <Link href="https://www.instagram.com/aldeiapintada/" target="_blank">
-        <FaInstagram className="text-zinc-50 hover:text-green-200"  size={16}/>
+          <FaInstagram
+            className="text-black hover:text-green-200"
+            size={16}
+          />
         </Link>
         <Link href="https://linktr.ee/aldeiapintada" target="_blank">
-        <TbBrandLinktree className="text-zinc-50 hover:text-green-200" size={16}/>
-        
+          <TbBrandLinktree
+            className="text-black hover:text-green-200"
+            size={16}
+          />
         </Link>
-        
-        
       </div>
       {/* Nav Links - Mobile */}
       {isMenuOpen && (
@@ -103,7 +110,7 @@ function NavLink({ href, children, onClick }: NavLinkProps) {
       className={`
         px-4 py-2 text-lg
         hover:text-green-300 tracking-wider font-semibold
-        ${isActive ? "text-green-300" : "text-zinc-50"}
+        ${isActive ? "text-green-300" : "text-black"}
       `}
       onClick={onClick}
     >
