@@ -4,6 +4,9 @@ import Link from "next/link";
 import { useState } from "react";
 import { PiListBold, PiXBold } from "react-icons/pi";
 import { usePathname } from "next/navigation";
+import { TbBrandLinktree } from "react-icons/tb";
+import { FaFacebookF } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -13,15 +16,12 @@ export default function Header() {
   };
 
   return (
-    <header className="z-[10000] sticky top-0 w-full flex justify-between items-center p-6 bg-zinc-900/50 backdrop-blur-md border-b border-zinc-900">
+    <header className="z-[10000] sticky top-0 w-full flex justify-center items-center p-6 bg-zinc-900/20 backdrop-blur-md ">
       {/* Logo */}
-      <Link
-        className="hover:ring-2 hover:ring-pink-300  shrink-0"
-        href="/"
-      >
+      <Link className="hover:ring-2 hover:ring-green-300  shrink-0" href="/">
         <Image
           className="bg-zinc-100 "
-          src=""
+          src="/Aldeia Pintada_Cor_PNG.png"
           alt="Aldeia Pintada Logo"
           width={100}
           height={100}
@@ -37,7 +37,7 @@ export default function Header() {
       </button>
 
       {/* Nav Links - Desktop */}
-      <nav className="hidden md:flex flex-row gap-4 flex-wrap justify-center">
+      <nav className="hidden md:flex flex-row gap-4 flex-wrap justify-center mx-20">
         <NavLink href="/about">ALDEIA</NavLink>
         <NavLink href="/merch">PINTURA</NavLink>
         <NavLink href="/gallery">PROGRAMAÇÃO</NavLink>
@@ -45,16 +45,42 @@ export default function Header() {
         <NavLink href="">ARQUIVO</NavLink>
         <NavLink href="">CONTACTOS</NavLink>
       </nav>
-
+      {/* icons */}
+      <div className="flex flex-row gap-3 justify-center">
+        <Link href="https://www.facebook.com/aldeiapintada/" target="_blank">
+          <FaFacebookF className="text-zinc-50 hover:text-green-200" size={16} />
+        </Link>
+        <Link href="https://www.instagram.com/aldeiapintada/" target="_blank">
+        <FaInstagram className="text-zinc-50 hover:text-green-200"  size={16}/>
+        </Link>
+        <Link href="https://linktr.ee/aldeiapintada" target="_blank">
+        <TbBrandLinktree className="text-zinc-50 hover:text-green-200" size={16}/>
+        
+        </Link>
+        
+        
+      </div>
       {/* Nav Links - Mobile */}
       {isMenuOpen && (
         <nav className="md:hidden absolute top-full left-0 right-0 flex flex-col items-center gap-2 py-4 bg-zinc-900/95 backdrop-blur-md border-b border-zinc-900 text-lg">
-          <NavLink href="/about" onClick={handleLinkClick}>ALDEIA</NavLink>
-          <NavLink href="/merch" onClick={handleLinkClick}>PINTURA</NavLink>
-          <NavLink href="/gallery" onClick={handleLinkClick}>PROGRAMAÇÃO</NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>ATIVIDADES</NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>ARQUIVO</NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>CONTACTOS</NavLink>
+          <NavLink href="/about" onClick={handleLinkClick}>
+            ALDEIA
+          </NavLink>
+          <NavLink href="/merch" onClick={handleLinkClick}>
+            PINTURA
+          </NavLink>
+          <NavLink href="/gallery" onClick={handleLinkClick}>
+            PROGRAMAÇÃO
+          </NavLink>
+          <NavLink href="/contact" onClick={handleLinkClick}>
+            ATIVIDADES
+          </NavLink>
+          <NavLink href="/contact" onClick={handleLinkClick}>
+            ARQUIVO
+          </NavLink>
+          <NavLink href="/contact" onClick={handleLinkClick}>
+            CONTACTOS
+          </NavLink>
         </nav>
       )}
     </header>
@@ -77,7 +103,7 @@ function NavLink({ href, children, onClick }: NavLinkProps) {
       className={`
         px-4 py-2 text-lg
         hover:text-green-300 tracking-wider font-semibold
-        ${isActive ? "text-pink-300" : "text-zinc-50"}
+        ${isActive ? "text-green-300" : "text-zinc-50"}
       `}
       onClick={onClick}
     >
