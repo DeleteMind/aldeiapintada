@@ -1,27 +1,21 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <main className="">
-      <div>
-        <Image
-          src="/fotoPáginaPrincipal.jpg"
-          alt="Aldeia Pintada"
-          width={1000}
-          height={500}
-          className="object-cover w-full h-96 "
-        />
-      </div>
+    <main className="flex flex-col gap-12 pb-8 -m-42">
+      <img
+        src="/fotoPáginaPrincipal.jpg"
+        alt="Responsive image with aspect ratio"
+        className="w-full h-[42rem] object-cover"
+      />
 
-      <div className=" flex items-center flex-col justify-center pt-16 pb-8 gap-4">
-        <p className="text-[1.7rem]">
+      <div className="flex flex-col items-center justify-end gap-4 ">
+        <p className="text-[1.7rem] text-black">
           Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
           concelho da Batalha, lugar singular e com muito para contar.
         </p>
-        <button className="bg-green-200 text-black px-2 py-2 rounded-md  hover:bg-green-300"> Saber Mais</button>
+        <button className="bg-amber-500 text-black px-2 py-2 rounded-md hover:bg-amber-400">
+          Saber Mais
+        </button>
       </div>
-
-      <p></p>
     </main>
   );
 }

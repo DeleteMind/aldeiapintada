@@ -16,8 +16,7 @@ export default function Header() {
   };
 
   return (
-    <header className="z-[10000] sticky top-0 w-full flex justify-center items-center p-6 ">
-      
+    <header className="z-[10000] sticky top-0 w-full flex justify-center items-center h-42">
       {/* Logo */}
       <Link className="" href="/">
         <Image
@@ -49,16 +48,10 @@ export default function Header() {
       {/* icons */}
       <div className="flex flex-row gap-3 justify-center">
         <Link href="https://www.facebook.com/aldeiapintada/" target="_blank">
-          <FaFacebookF
-            className="text-black hover:text-green-200"
-            size={16}
-          />
+          <FaFacebookF className="text-black hover:text-green-200" size={16} />
         </Link>
         <Link href="https://www.instagram.com/aldeiapintada/" target="_blank">
-          <FaInstagram
-            className="text-black hover:text-green-200"
-            size={16}
-          />
+          <FaInstagram className="text-black hover:text-green-200" size={16} />
         </Link>
         <Link href="https://linktr.ee/aldeiapintada" target="_blank">
           <TbBrandLinktree
@@ -69,7 +62,7 @@ export default function Header() {
       </div>
       {/* Nav Links - Mobile */}
       {isMenuOpen && (
-        <nav className="md:hidden absolute top-full left-0 right-0 flex flex-col items-center gap-2 py-4 bg-zinc-900/95 backdrop-blur-md border-b border-zinc-900 text-lg">
+        <nav className="md:hidden absolute top-full left-0 right-0 flex flex-col items-center gap-2 py-4 bg-white backdrop-blur-md  text-lg">
           <NavLink href="/about" onClick={handleLinkClick}>
             ALDEIA
           </NavLink>
@@ -108,7 +101,7 @@ function NavLink({ href, children, onClick }: NavLinkProps) {
     <Link
       href={href}
       className={`
-        px-4 py-2 text-lg
+        px-4 py-2 text-xs md:text-sm
         hover:text-green-300 tracking-wider font-semibold
         ${isActive ? "text-green-300" : "text-black"}
       `}
