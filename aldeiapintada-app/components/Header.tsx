@@ -48,14 +48,14 @@ export default function Header() {
       {/* icons */}
       <div className="flex flex-row gap-3 justify-center">
         <Link href="https://www.facebook.com/aldeiapintada/" target="_blank">
-          <FaFacebookF className="text-black hover:text-green-200" size={16} />
+          <FaFacebookF className="text-black hover:text-[#00b499] " size={16} />
         </Link>
         <Link href="https://www.instagram.com/aldeiapintada/" target="_blank">
-          <FaInstagram className="text-black hover:text-green-200" size={16} />
+          <FaInstagram className="text-black hover:text-[#00b499] " size={16} />
         </Link>
         <Link href="https://linktr.ee/aldeiapintada" target="_blank">
           <TbBrandLinktree
-            className="text-black hover:text-green-200"
+            className="text-black hover:text-[#00b499] "
             size={16}
           />
         </Link>

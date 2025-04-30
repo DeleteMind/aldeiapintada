@@ -21,7 +21,7 @@ export default function Home() {
           Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
           concelho da Batalha, lugar singular e com muito para contar.
         </h1>
-        <button className="bg-amber-500 text-black px-2 py-2 rounded-md hover:bg-amber-400">
+        <button className="bg-[#ef6149] text-black px-2 py-2 rounded-md hover:bg-[#ef8471] ">
           Saber Mais
         </button>
       </div>
