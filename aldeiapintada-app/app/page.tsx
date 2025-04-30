@@ -1,10 +1,14 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <main className="flex flex-col gap-12 pb-8 -m-42">
-      <img
+      <Image
         src="/fotoPáginaPrincipal.jpg"
         alt="Responsive image with aspect ratio"
         className="w-full h-[42rem] object-cover"
+        width={1000}
+        height={1000}
       />
 
       <div className="flex flex-col items-center justify-end gap-4 ">
