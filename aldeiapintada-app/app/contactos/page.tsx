@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 
-export default function Aldeia() {
+export default function Contactos() {
     return (
         <main>
             <Header />

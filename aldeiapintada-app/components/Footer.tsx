@@ -1,16 +1,32 @@
+import Link from "next/link";
+import Image from "next/image";
+
 export default function Footer() {
   return (
-    <footer className="mt-auto p-4 bg-gray-100 text-center h-full">
-      <p className="text-sm">
-        © 2023 Aldeia Pintada. Todos os direitos reservados.
+    <footer className="mt-auto  h-full flex justify-center items-center relative">
+      
+      <div className="">
+      <p className="text-sm mx-auto text-center pt-4">
+        © 2025 Aldeia Pintada.  <br />Todos os direitos reservados.
       </p>
-      <div className="flex justify-center gap-4">
-        <a href="/privacy-policy" className="text-sm hover:underline">
-          Política de Privacidade
-        </a>
-        <a href="/terms-of-service" className="text-sm hover:underline">
-          Termos de Serviço
-        </a>
+      </div>
+     <div className="flex mr-6 justify-center items-center absolute  right-0">
+        <div className="flex flex-col justify-center items-end text-sm ">
+          <p>SEGUE-NOS  </p>
+          <Link href="https://www.facebook.com/aldeiapintada/" target="_blank">
+            FACEBOOK
+          </Link>
+          <Link href="https://www.instagram.com/aldeiapintada/" target="_blank">
+          INSTAGRAM
+          </Link>
+        </div>
+        <Image
+          src="/Logo_pretoBranco.jpeg"
+          alt="Logo_preto_e_branco"
+          className="w-[8rem] h-[8rem] object-cover"
+          width={2000}
+          height={2000}
+        />
       </div>
     </footer>
   );

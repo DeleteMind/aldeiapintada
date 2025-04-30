@@ -39,11 +39,11 @@ export default function Header() {
       {/* Nav Links - Desktop */}
       <nav className="hidden md:flex flex-row gap-4 flex-wrap justify-center mx-20">
         <NavLink href="/aldeia">ALDEIA</NavLink>
-        <NavLink href="/merch">PINTURA</NavLink>
-        <NavLink href="/gallery">PROGRAMAÇÃO</NavLink>
-        <NavLink href="/contact">ATIVIDADES</NavLink>
-        <NavLink href="">ARQUIVO</NavLink>
-        <NavLink href="">CONTACTOS</NavLink>
+        <NavLink href="/pinturaMural">PINTURA MURAL</NavLink>
+        <NavLink href="/programacao">PROGRAMAÇÃO</NavLink>
+        <NavLink href="/oficinas">OFICINAS</NavLink>
+        <NavLink href="/arquivo">ARQUIVO</NavLink>
+        <NavLink href="/contactos">CONTACTOS</NavLink>
       </nav>
       {/* icons */}
       <div className="flex flex-row gap-3 justify-center">
@@ -66,19 +66,19 @@ export default function Header() {
           <NavLink href="/aldeia" onClick={handleLinkClick}>
             ALDEIA
           </NavLink>
-          <NavLink href="/merch" onClick={handleLinkClick}>
+          <NavLink href="/pintura" onClick={handleLinkClick}>
             PINTURA
           </NavLink>
-          <NavLink href="/gallery" onClick={handleLinkClick}>
+          <NavLink href="/programacao" onClick={handleLinkClick}>
             PROGRAMAÇÃO
           </NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>
+          <NavLink href="/atividades" onClick={handleLinkClick}>
             ATIVIDADES
           </NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>
+          <NavLink href="/arquivo" onClick={handleLinkClick}>
             ARQUIVO
           </NavLink>
-          <NavLink href="/contact" onClick={handleLinkClick}>
+          <NavLink href="/contactos" onClick={handleLinkClick}>
             CONTACTOS
           </NavLink>
         </nav>
@@ -102,8 +102,8 @@ function NavLink({ href, children, onClick }: NavLinkProps) {
       href={href}
       className={`
         px-4 py-2 text-xs md:text-sm
-        hover:text-green-300 tracking-wider font-semibold
-        ${isActive ? "text-green-300" : "text-black"}
+        hover:text-[#00b499] tracking-wider font-semibold
+        ${isActive ? "text-[#00b499] " : "text-black"}
       `}
       onClick={onClick}
     >
