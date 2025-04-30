@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="mt-auto p-4 bg-gray-100 text-center">
+    <footer className="mt-auto p-4 bg-gray-100 text-center h-full">
       <p className="text-sm">
         © 2023 Aldeia Pintada. Todos os direitos reservados.
       </p>

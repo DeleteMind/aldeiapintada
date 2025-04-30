@@ -38,7 +38,7 @@ export default function Header() {
 
       {/* Nav Links - Desktop */}
       <nav className="hidden md:flex flex-row gap-4 flex-wrap justify-center mx-20">
-        <NavLink href="/about">ALDEIA</NavLink>
+        <NavLink href="/aldeia">ALDEIA</NavLink>
         <NavLink href="/merch">PINTURA</NavLink>
         <NavLink href="/gallery">PROGRAMAÇÃO</NavLink>
         <NavLink href="/contact">ATIVIDADES</NavLink>
@@ -63,7 +63,7 @@ export default function Header() {
       {/* Nav Links - Mobile */}
       {isMenuOpen && (
         <nav className="md:hidden absolute top-full left-0 right-0 flex flex-col items-center gap-2 py-4 bg-white backdrop-blur-md  text-lg">
-          <NavLink href="/about" onClick={handleLinkClick}>
+          <NavLink href="/aldeia" onClick={handleLinkClick}>
             ALDEIA
           </NavLink>
           <NavLink href="/merch" onClick={handleLinkClick}>
