@@ -7,7 +7,7 @@ export default function Footer() {
       
       <div className="">
       <p className="text-sm mx-auto text-center pt-4">
-        © 2025 Aldeia Pintada.  <br />Todos os direitos reservados.
+        © 2025 Aldeia Pintada  <br />Todos os direitos reservados
       </p>
       </div>
      <div className="flex mr-6 justify-center items-center absolute  right-0">

@@ -19,9 +19,9 @@ export default function Home() {
       <div className="relative z-10 flex flex-col items-center justify-end gap-4 mt-[35rem] mb-24 ">
         <h1 className="text-[1.7rem] text-black">
           Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
-          concelho da Batalha, lugar singular e com muito para contar.
+          concelho da Batalha, um lugar singular e com muito para contar.
         </h1>
-        <button className="bg-[#ef6149] text-black px-2 py-2 rounded-md hover:bg-[#ef8471] ">
+        <button className="bg-[#ef8471] text-black px-2 py-2 rounded-md hover:bg-[#ffb5a9]">
           Saber Mais
         </button>
       </div>
