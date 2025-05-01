@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Aldeia() {
   return (
-    <main className="flex flex-col gap-12 pb-8 relative">
+    <main className="flex flex-col  pb-8 relative">
       <Header />
 
       <Image
@@ -13,7 +13,10 @@ export default function Aldeia() {
         width={3846}
         height={2555}
       />
-       <div className="mt-[40rem]"></div>
+       <div className="mt-[35rem]"></div>
+
+
+       
     </main>
    
   );

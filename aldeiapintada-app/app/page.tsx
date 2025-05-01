@@ -2,10 +2,9 @@ import Image from "next/image";
 
 import Header from "@/components/Header";
 
-
 export default function Home() {
   return (
-    <main className="flex flex-col gap-12 pb-8 relative">
+    <main className="flex flex-col relative">
       <Header />
 
       <Image
@@ -16,7 +15,9 @@ export default function Home() {
         height={2506}
       />
 
-      <div className="relative z-10 flex flex-col items-center justify-end gap-4 mt-[35rem] mb-24 ">
+      <div className="mt-[35rem]"></div>
+
+      <div className="relative flex flex-col items-center justify-end gap-4  mb-24 ">
         <h1 className="text-[1.7rem] text-black">
           Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
           concelho da Batalha, um lugar singular e com muito para contar.
