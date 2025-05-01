@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="mt-auto  h-full flex justify-center items-center relative">
       
       <div className="">
-      <p className="text-sm mx-auto text-center pt-4">
+      <p className="text-[0.70rem] mx-auto text-center pt-4">
         © 2025 Aldeia Pintada  <br />Todos os direitos reservados
       </p>
       </div>
