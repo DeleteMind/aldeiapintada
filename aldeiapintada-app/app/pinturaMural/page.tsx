@@ -7,11 +7,11 @@ export default function pinturaMural() {
       <Header />
 
         <Image
-             src="/Header_PinturaMural.JPG"
+             src="/Header_PinturaMural.jpeg"
              alt="Imagem de fundo da página principal"
-             className="w-full h-[40em] object-cover absolute object-[25%_34%]"
-             width={3846}
-             height={2555}
+             className="w-full h-[40em] object-cover absolute object-[25%_0%]"
+             width={1600}
+             height={1062}
         />
     
     <div className="mt-[35rem]"></div>
