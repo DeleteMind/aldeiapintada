@@ -66,7 +66,7 @@ export default function Header() {
           <NavLink href="/aldeia" onClick={handleLinkClick}>
             ALDEIA
           </NavLink>
-          <NavLink href="/pintura" onClick={handleLinkClick}>
+          <NavLink href="/pinturaMural" onClick={handleLinkClick}>
             PINTURA
           </NavLink>
           <NavLink href="/programacao" onClick={handleLinkClick}>
