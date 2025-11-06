@@ -36,7 +36,7 @@ const NAV_LINKS: LinkProps[] = [
 		text: 'ALDEIA',
 	},
 	{
-		href: '/pinturaMural',
+		href: '/pintura-mural',
 		text: 'PINTURA MURAL',
 	},
 	{

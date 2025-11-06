@@ -5,12 +5,14 @@ import { Text } from '@/components/Text';
 
 export function PostCard({
 	post,
-	showDate = true,
+	collection,
+	showDate,
 }: {
 	post: OstDocument;
-	showDate?: boolean;
+	collection: 'programas' | 'pinturas';
+	showDate?: 'full' | 'year';
 }) {
-	console.log('post', post);
+	const collectionSlug = collection === 'programas' ? 'programacao' : 'pintura-mural';
 
 	return (
 		<Link
@@ -19,7 +21,7 @@ export function PostCard({
 				'text-neutral-950 hover:text-teal-500 transition-colors duration-150',
 				'hover:bg-neutral-100',
 			)}
-			href={`/programacao/${post.slug}`}
+			href={`/${collectionSlug}/${post.slug}`}
 		>
 			<Text size='lg' weight='medium' color='undefined'>
 				{post.title}
@@ -27,11 +29,13 @@ export function PostCard({
 
 			{showDate && (
 				<Text size='sm' weight='normal' color='undefined'>
-					{new Date(post.publishedAt).toLocaleDateString('pt-PT', {
-						day: '2-digit',
-						month: '2-digit',
-						year: 'numeric',
-					})}
+					{showDate === 'year'
+						? new Date(post.publishedAt).getFullYear()
+						: new Date(post.publishedAt).toLocaleDateString('pt-PT', {
+								day: '2-digit',
+								month: '2-digit',
+								year: 'numeric',
+							})}
 				</Text>
 			)}
 		</Link>

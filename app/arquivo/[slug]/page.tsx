@@ -1,11 +1,10 @@
 import { getDocumentBySlug } from 'outstatic/server';
-import { twMerge } from 'tailwind-merge';
 import Header from '@/components/Header';
 import { Text } from '@/components/Text';
 import { markdownToHtml } from '@/lib/markdownToHtml';
-import type { ProgramacaoPost as ProgramacaoPostType } from '@/lib/types';
+import type { ProgramacaoPost } from '@/lib/types';
 
-export default async function ProgramacaoPost({
+export default async function ArquivoPost({
 	params,
 }: {
 	params: Promise<{ slug: string }>;
@@ -19,7 +18,7 @@ export default async function ProgramacaoPost({
 		'coverImage',
 		'archive',
 		'tags',
-	]) as unknown as ProgramacaoPostType;
+	]) as unknown as ProgramacaoPost;
 	console.log('post', post);
 
 	const content = await markdownToHtml(post?.content || '');
@@ -28,12 +27,7 @@ export default async function ProgramacaoPost({
 		<>
 			<Header href={post?.coverImage} objectPosition={60} />
 
-			<article
-				className={twMerge(
-					'w-full p-6 flex flex-col gap-6 max-w-5xl mx-auto',
-					!post?.coverImage && 'pt-16',
-				)}
-			>
+			<article className='w-full p-6 flex flex-col gap-6'>
 				<Text size='5xl' weight='bold' color='primary'>
 					{post?.title}
 				</Text>
