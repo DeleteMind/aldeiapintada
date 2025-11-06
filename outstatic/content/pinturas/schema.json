@@ -6,6 +6,11 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "tipoDeIntervencao"
+    },
+    "local": {
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "local"
     }
   }
 }
