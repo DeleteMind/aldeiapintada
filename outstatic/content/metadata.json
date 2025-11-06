@@ -1,6 +1,6 @@
 {
-  "commit": "0e7d17dbca14448e41f9274237ef5715825e4337",
-  "generated": "2025-11-06T19:07:32.630Z",
+  "commit": "7c3029fb4f3830714c3e4b19046502ab69cbb39f",
+  "generated": "2025-11-06T19:23:52.610Z",
   "metadata": [
     {
       "__outstatic": {
@@ -79,8 +79,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0e7d17dbca14448e41f9274237ef5715825e4337",
-        "hash": "1333372074",
+        "commit": "7c3029fb4f3830714c3e4b19046502ab69cbb39f",
+        "hash": "647674628",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
       },
       "author": {
