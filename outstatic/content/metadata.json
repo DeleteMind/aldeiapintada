@@ -1,6 +1,6 @@
 {
-  "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
-  "generated": "2025-11-06T19:50:28.348Z",
+  "commit": "c0631e80c75d80c253ff5d394fcc5d9fd510cbb7",
+  "generated": "2025-11-06T19:50:38.441Z",
   "metadata": [
     {
       "__outstatic": {
@@ -50,28 +50,6 @@
     },
     {
       "__outstatic": {
-        "commit": "dec66316abc241cde9575437938107640094a5e4",
-        "hash": "2442377876",
-        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
-      },
-      "artwork": "Aldeia Pintada, Diogo Monteiro",
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "pinturas",
-      "data": "Outubro, 2020",
-      "fotografia": "Diogo Monteiro",
-      "local": "Estrada de São João, Torre",
-      "producao": "Aldeia Pintada + habitantes locais",
-      "publishedAt": "2020-11-04T00:00:00.000Z",
-      "slug": "o-lugarinho-da-torre",
-      "status": "draft",
-      "tipoDeIntervencao": "Pintura mural",
-      "title": "O LUGARINHO DA TORRE  "
-    },
-    {
-      "__outstatic": {
         "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
         "hash": "2245811133",
         "path": "outstatic/content/programas/oficina.mdx"
@@ -98,6 +76,28 @@
           "value": "oficina"
         }
       ]
+    },
+    {
+      "__outstatic": {
+        "commit": "c0631e80c75d80c253ff5d394fcc5d9fd510cbb7",
+        "hash": "2442377876",
+        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "data": "Outubro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2020-11-04T00:00:00.000Z",
+      "slug": "o-lugarinho-da-torre",
+      "status": "draft",
+      "tipoDeIntervencao": "Pintura mural",
+      "title": "O LUGARINHO DA TORRE  "
     }
   ]
 }
