@@ -1,6 +1,6 @@
 {
-  "commit": "ebd832f75fe35336c3e3661b644952d31ef680d9",
-  "generated": "2025-11-06T18:15:54.067Z",
+  "commit": "790186a672c2933f378bb6c4341c9e61616bf248",
+  "generated": "2025-11-06T18:17:42.144Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,8 +44,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ebd832f75fe35336c3e3661b644952d31ef680d9",
-        "hash": "2570891258",
+        "commit": "790186a672c2933f378bb6c4341c9e61616bf248",
+        "hash": "372289013",
         "path": "outstatic/content/programas/oficina.mdx"
       },
       "author": {
@@ -57,6 +57,12 @@
       "publishedAt": "2025-11-06T18:12:37.111Z",
       "slug": "oficina",
       "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
       "title": "oficina 1",
       "type": [
         {
