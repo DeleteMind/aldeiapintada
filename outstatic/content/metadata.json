@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-11-06T16:09:40.421Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3743128037",
+        "path": "outstatic/content/programas/test.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2025-11-06T16:05:08.621Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "Test"
+    }
+  ]
+}

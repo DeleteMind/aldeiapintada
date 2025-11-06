@@ -1,6 +1,6 @@
 {
   "commit": "",
-  "generated": "Thu, 06 Nov 2025 16:07:57 GMT",
+  "generated": "2025-11-06T16:09:40.421Z",
   "media": [
     {
       "__outstatic": {
@@ -99,6 +99,17 @@
       "alt": "",
       "filename": "08.JPG",
       "publishedAt": "2025-11-06T16:07:56.795Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "569831727",
+        "path": "public/images/0rfhlgnmriad1-M1Nj.jpeg"
+      },
+      "alt": "",
+      "filename": "0rfhlgnmriad1-M1Nj.jpeg",
+      "publishedAt": "2025-11-06T16:09:40.415Z",
       "type": "image"
     },
     {
