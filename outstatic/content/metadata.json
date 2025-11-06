@@ -1,23 +1,7 @@
 {
-  "commit": "19eaa1ed155e9d3bcd89d92dc58508bed1e3a10d",
-  "generated": "2025-11-06T18:17:49.194Z",
+  "commit": "2009ead4c2f302e9ef71adf21200fce358f1b2b3",
+  "generated": "2025-11-06T18:35:05.551Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "612dff1c4d2b6b3e7c412be243652cf97ae4b663",
-        "hash": "4062300283",
-        "path": "outstatic/content/pinturas/pintura-1.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "pinturas",
-      "publishedAt": "2020-11-11T00:00:00.000Z",
-      "slug": "pintura-1",
-      "status": "published",
-      "title": "Pintura 1"
-    },
     {
       "__outstatic": {
         "commit": "790186a672c2933f378bb6c4341c9e61616bf248",
@@ -76,6 +60,22 @@
           "value": "evento"
         }
       ]
+    },
+    {
+      "__outstatic": {
+        "commit": "2009ead4c2f302e9ef71adf21200fce358f1b2b3",
+        "hash": "1540415808",
+        "path": "outstatic/content/pinturas/pintura-1.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "publishedAt": "1958-11-13T00:00:00.000Z",
+      "slug": "pintura-1",
+      "status": "published",
+      "title": "Pintura 1"
     }
   ]
 }
