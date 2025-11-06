@@ -16,8 +16,7 @@ interface ImageItem {
 
 interface ImageCarouselProps {
 	images: ImageItem[];
-	imageWidth?: number;
-	imageHeight?: number;
+	imageHeight?: number; // Now only used for container height class, not individual images
 	slidesPerView?: number;
 	spaceBetween?: number;
 	autoplayDelay?: number;
@@ -30,8 +29,7 @@ interface ImageCarouselProps {
 }
 export default function ImageCarousel({
 	images,
-	imageWidth = 300,
-	imageHeight = 300,
+	imageHeight = 384, // Default height in pixels for h-96 (384px)
 	slidesPerView = 1,
 	spaceBetween = 20,
 	autoplayDelay = 3000,
@@ -56,16 +54,27 @@ export default function ImageCarousel({
 				autoplay={{ delay: autoplayDelay, disableOnInteraction: false }}
 				breakpoints={breakpoints}
 				className={className}
+				style={
+					{
+						'--swiper-navigation-color': 'rgb(20 184 166)',
+						'--swiper-pagination-color': 'rgb(20 184 166)',
+						'--swiper-pagination-bullet-inactive-color': 'rgb(156 163 175)',
+					} as React.CSSProperties
+				}
 			>
 				{images.map((image) => (
-					<SwiperSlide key={`${image.src}-${image.alt}`}>
-						<Image
-							src={image.src}
-							alt={image.alt}
-							width={imageWidth}
-							height={imageHeight}
-							className='rounded-lg object-cover'
-						/>
+					<SwiperSlide
+						key={`${image.src}-${image.alt}`}
+						style={{ height: `${imageHeight}px` }}
+					>
+						<div className='relative w-full h-full rounded-lg overflow-hidden'>
+							<Image
+								src={image.src}
+								alt={image.alt}
+								fill
+								className='object-cover'
+							/>
+						</div>
 					</SwiperSlide>
 				))}
 			</Swiper>

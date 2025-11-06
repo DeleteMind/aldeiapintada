@@ -12,71 +12,72 @@ export default function Aldeia() {
 				invertTextColor={true}
 			/>
 
-			<main className='flex flex-col p-5 gap-20 pt-20 items-center'>
-				<Text size='2xl' className='max-w-5xl'>
-					<Text size='2xl' weight='medium'>
-						A Aldeia Pintada
-					</Text>{' '}
-					é uma{' '}
-					<Text size='2xl' weight='medium'>
-						Associação Cultural
-					</Text>{' '}
-					que surge na{' '}
-					<Text size='2xl' weight='medium'>
-						Torre{' '}
-					</Text>{' '}
-					da Magueixa, uma aldeia do concelho da Batalha, hoje conhecida apenas
-					por Torre,{' '}
-					<Text size='2xl' weight='medium'>
-						um lugar singular e com muito para contar.
-					</Text>{' '}
-					A ideia nasce da vontade de documentar o seu{' '}
-					<Text size='2xl' weight='medium'>
-						património
-					</Text>{' '}
-					e usá-lo como{' '}
-					<Text size='2xl' weight='medium'>
-						estímulo para a criação artística e programação cultural.
-					</Text>{' '}
-					<br />
-					<br />
-					As{' '}
-					<Text size='2xl' weight='medium'>
-						histórias, as lendas, os cantares ou as vivências,
-					</Text>{' '}
-					recolhidas em{' '}
-					<Text size='2xl' weight='medium'>
-						diálogo com os habitantes,
-					</Text>{' '}
-					são a base para intervenções como a{' '}
-					<Text size='2xl' weight='medium'>
-						pintura de murais,
-					</Text>{' '}
-					o{' '}
-					<Text size='2xl' weight='medium'>
-						vídeo, a música ou a instalação.
-					</Text>{' '}
-					Para além de{' '}
-					<Text size='2xl' weight='medium'>
-						presentear as pessoas da terra,
-					</Text>{' '}
-					este projeto pretende também{' '}
-					<Text size='2xl' weight='medium'>
-						dar a conhecer melhor o lugar ao forasteiro
-					</Text>{' '}
-					que por ali passa,{' '}
-					<Text size='2xl' weight='medium'>
-						valorizando a memória e identidade local
-					</Text>{' '}
-					ou simplesmente{' '}
-					<Text size='2xl' weight='medium'>
-						trazer cor à aldeia.
+			<main className='flex flex-col px-6 gap-20 py-20 items-center'>
+				<section className='max-w-5xl'>
+					<Text size='2xl'>
+						<Text size='2xl' weight='medium'>
+							A Aldeia Pintada
+						</Text>{' '}
+						é uma{' '}
+						<Text size='2xl' weight='medium'>
+							Associação Cultural
+						</Text>{' '}
+						que surge na{' '}
+						<Text size='2xl' weight='medium'>
+							Torre{' '}
+						</Text>{' '}
+						da Magueixa, uma aldeia do concelho da Batalha, hoje conhecida
+						apenas por Torre,{' '}
+						<Text size='2xl' weight='medium'>
+							um lugar singular e com muito para contar.
+						</Text>{' '}
+						A ideia nasce da vontade de documentar o seu{' '}
+						<Text size='2xl' weight='medium'>
+							património
+						</Text>{' '}
+						e usá-lo como{' '}
+						<Text size='2xl' weight='medium'>
+							estímulo para a criação artística e programação cultural.
+						</Text>{' '}
+						<br />
+						<br />
+						As{' '}
+						<Text size='2xl' weight='medium'>
+							histórias, as lendas, os cantares ou as vivências,
+						</Text>{' '}
+						recolhidas em{' '}
+						<Text size='2xl' weight='medium'>
+							diálogo com os habitantes,
+						</Text>{' '}
+						são a base para intervenções como a{' '}
+						<Text size='2xl' weight='medium'>
+							pintura de murais,
+						</Text>{' '}
+						o{' '}
+						<Text size='2xl' weight='medium'>
+							vídeo, a música ou a instalação.
+						</Text>{' '}
+						Para além de{' '}
+						<Text size='2xl' weight='medium'>
+							presentear as pessoas da terra,
+						</Text>{' '}
+						este projeto pretende também{' '}
+						<Text size='2xl' weight='medium'>
+							dar a conhecer melhor o lugar ao forasteiro
+						</Text>{' '}
+						que por ali passa,{' '}
+						<Text size='2xl' weight='medium'>
+							valorizando a memória e identidade local
+						</Text>{' '}
+						ou simplesmente{' '}
+						<Text size='2xl' weight='medium'>
+							trazer cor à aldeia.
+						</Text>
 					</Text>
-				</Text>
+				</section>
 
 				<ImageCarousel
-					imageHeight={600}
-					imageWidth={600}
+					imageHeight={400}
 					images={[
 						{ src: '/images/galeria-1.jpg', alt: 'Galeria imagem 1' },
 						{ src: '/images/galeria-2.jpg', alt: 'Galeria imagem 2' },
@@ -89,11 +90,11 @@ export default function Aldeia() {
 					]}
 				/>
 
-				<section className='flex flex-col items-center gap-20'>
+				<section className='flex flex-col items-center gap-20 max-w-5xl'>
 					<Text size='5xl' weight='bold'>
 						MAPA DA ALDEIA
 					</Text>
-					<Text>
+					<Text size='xl'>
 						Permite a descoberta de todos de todas as pinturas murais realizadas
 						até ao momento, bem como de informações sobre as mesmas. Leva-nos
 						também a lugares que destacamos na nossa aldeia como “pontos de

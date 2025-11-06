@@ -1,36 +1,54 @@
-import Link from "next/link";
-import Image from "next/image";
+import Image from 'next/image';
+import { Text } from './Text';
 
 export default function Footer() {
-  const currentYear = new Date().getFullYear();
-  return (
-    <footer className="mt-auto  h-full flex justify-center items-center relative">
-      
-      <div className="">
-      <p className="text-[0.70rem] mx-auto text-center pt-4">
-        © {currentYear} Aldeia Pintada  <br />Todos os direitos reservados
-      </p>
-      </div>
-     <div className="flex mr-6 justify-center items-center absolute  right-0">
-        <div className="flex flex-col justify-center items-end text-sm ">
-          <p>SEGUE-NOS </p>
-          
-          <Link className="hover:text-[#00b499]" href="https://www.facebook.com/aldeiapintada/" target="_blank">
-            FACEBOOK
-          </Link>
-          <Link className="hover:text-[#00b499]" href="https://www.instagram.com/aldeiapintada/" target="_blank">
-          INSTAGRAM
-          </Link>
-          
-        </div>
-        <Image
-          src="/Logo_pretoBranco.jpeg"
-          alt="Logo_preto_e_branco"
-          className="w-[6rem] h-[6rem] object-cover"
-          width={2000}
-          height={2000}
-        />
-      </div>
-    </footer>
-  );
+	const currentYear = new Date().getFullYear();
+
+	return (
+		<footer className='w-full h-fit flex flex-row justify-between items-center px-8 py-6 border-0 border-t border-neutral-200'>
+			<section className='lg:w-[200px]' />
+
+			<section className=''>
+				<Text size='sm' color='secondary'>
+					© {currentYear} Aldeia Pintada <br />
+					Todos os direitos reservados.
+				</Text>
+			</section>
+
+			<section className='flex flex-row items-center'>
+				<div className='flex flex-col items-end'>
+					<Text size='sm' color='secondary' weight='semibold' className='w-fit'>
+						SEGUE-NOS
+					</Text>
+
+					<div className='flex flex-col'>
+						<Text
+							size='sm'
+							weight='medium'
+							href='https://www.facebook.com/aldeiapintada'
+							newTab
+						>
+							FACEBOOK
+						</Text>
+						<Text
+							size='sm'
+							weight='medium'
+							href='https://www.instagram.com/aldeiapintada'
+							newTab
+						>
+							INSTAGRAM
+						</Text>
+					</div>
+				</div>
+
+				<Image
+					src='/Logo_pretoBranco.jpeg'
+					alt='Logo_preto_e_branco'
+					className='size-18 lg:size-24 object-cover'
+					width={100}
+					height={100}
+				/>
+			</section>
+		</footer>
+	);
 }

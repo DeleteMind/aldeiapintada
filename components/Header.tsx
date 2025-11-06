@@ -113,17 +113,17 @@ export default function Header({
 			<header
 				ref={headerRef}
 				className={twMerge(
-					'z-10000 sticky top-0 w-full flex justify-center items-center h-24 transition-all duration-300 px-5',
+					'z-10000 sticky top-0 w-full flex justify-center items-center h-24 transition-[background-color,box-shadow] duration-300 px-5',
 					isScrolled && [
 						'backdrop-blur-lg shadow-xs',
-						invertTextColor ? 'bg-black/40' : 'bg-white/40',
+						invertTextColor ? 'bg-black/30' : 'bg-white/30',
 					],
 				)}
 			>
 				{/* Logo */}
 				<Link className='bg-transparent hover:bg-transparent p-0' href='/'>
 					<Image
-						className=''
+						className='size-24'
 						src='/Aldeia Pintada_Cor_PNG.png'
 						alt='Aldeia Pintada Logo'
 						width={100}
@@ -171,7 +171,12 @@ export default function Header({
 
 				{/* Nav Buttons (Mobile) */}
 				{isMenuOpen && (
-					<nav className='md:hidden absolute top-full left-0 right-0 flex flex-col items-center gap-2 py-4 bg-white backdrop-blur-md text-lg'>
+					<nav
+						className={twMerge(
+							'absolute top-full inset-x-0 flex flex-col items-center gap-2 py-4 backdrop-blur-lg shadow-xs z-50',
+							invertTextColor ? 'bg-black/30' : 'bg-white/30',
+						)}
+					>
 						{NAV_LINKS.map((link) => {
 							const isActive = pathname === link.href;
 
@@ -183,6 +188,7 @@ export default function Header({
 									text={link.text}
 									href={link.href}
 									active={isActive}
+									invertTextColor={invertTextColor}
 									onClick={() => setIsMenuOpen(false)}
 								/>
 							);

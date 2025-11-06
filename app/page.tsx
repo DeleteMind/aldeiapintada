@@ -1,19 +1,22 @@
 import { Button } from '@/components/Button';
 import Header from '@/components/Header';
+import { Text } from '@/components/Text';
 
 export default function Home() {
 	return (
-		<main className='flex flex-col relative'>
-			<Header href='/fotoPáginaPrincipal.jpg' objectPosition={40} />
+		<>
+			<Header href='/fotoPáginaPrincipal.jpg' objectPosition={60} />
 
-			<div className='relative flex flex-col items-center justify-end gap-4 '>
-				<h1 className='text-[1.7rem] text-black'>
-					Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
-					concelho da Batalha, um lugar singular e com muito para contar.
-				</h1>
+			<main className='flex flex-col px-6 gap-20 py-20 items-center'>
+				<section className='relative flex flex-col items-center justify-end gap-20 max-w-5xl'>
+					<Text size='2xl'>
+						Uma Associação Cultural que surge na Torre, <br /> uma aldeia do
+						concelho da Batalha, um lugar singular e com muito para contar.
+					</Text>
 
-				<Button href='/aldeia'>Saber Mais</Button>
-			</div>
-		</main>
+					<Button href='/aldeia'>Saber Mais</Button>
+				</section>
+			</main>
+		</>
 	);
 }

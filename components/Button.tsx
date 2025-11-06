@@ -61,7 +61,7 @@ export function Button({
 					size='sm'
 					color='undefined'
 					weight='medium'
-					className='hover:text-[#00b499] transition-colors duration-150 text-shadow-md'
+					className='hover:text-[#00b499] transition-colors duration-150 text-shadow-sm'
 				>
 					{text}
 				</Text>
