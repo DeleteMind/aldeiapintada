@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2025-11-06T16:09:40.421Z",
+  "commit": "723a8ed417b42685e62b7b0c69d12fa1c6d9115f",
+  "generated": "2025-11-06T16:16:05.876Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "3743128037",
+        "commit": "723a8ed417b42685e62b7b0c69d12fa1c6d9115f",
+        "hash": "3107723801",
         "path": "outstatic/content/programas/test.mdx"
       },
       "author": {
@@ -15,7 +15,7 @@
       "collection": "programas",
       "publishedAt": "2025-11-06T16:05:08.621Z",
       "slug": "test",
-      "status": "draft",
+      "status": "published",
       "title": "Test"
     }
   ]
