@@ -12,6 +12,12 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "archive"
+    },
+    "type": {
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "type",
+      "values": []
     }
   }
 }
