@@ -1,36 +1,7 @@
 {
-  "commit": "dec66316abc241cde9575437938107640094a5e4",
-  "generated": "2025-11-06T19:50:22.717Z",
+  "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
+  "generated": "2025-11-06T19:50:28.348Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "790186a672c2933f378bb6c4341c9e61616bf248",
-        "hash": "372289013",
-        "path": "outstatic/content/programas/oficina.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T18:12:37.111Z",
-      "slug": "oficina",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "oficina 1",
-      "type": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ]
-    },
     {
       "__outstatic": {
         "commit": "b5a531eeb2d7aa0645018dcd9f086a099fe7dd59",
@@ -98,6 +69,35 @@
       "status": "draft",
       "tipoDeIntervencao": "Pintura mural",
       "title": "O LUGARINHO DA TORRE  "
+    },
+    {
+      "__outstatic": {
+        "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
+        "hash": "2245811133",
+        "path": "outstatic/content/programas/oficina.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2025-11-06T18:12:37.111Z",
+      "slug": "oficina",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "oficina 1",
+      "type": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ]
     }
   ]
 }
