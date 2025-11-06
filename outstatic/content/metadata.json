@@ -1,6 +1,6 @@
 {
-  "commit": "3add9227b9cb02b3257282d711cea6be8473ca2c",
-  "generated": "2025-11-06T19:50:17.506Z",
+  "commit": "dec66316abc241cde9575437938107640094a5e4",
+  "generated": "2025-11-06T19:50:22.717Z",
   "metadata": [
     {
       "__outstatic": {
@@ -30,28 +30,6 @@
           "value": "oficina"
         }
       ]
-    },
-    {
-      "__outstatic": {
-        "commit": "36a73c713434750b75538b724c586c63f20497e3",
-        "hash": "3314709848",
-        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
-      },
-      "artwork": "Aldeia Pintada, Diogo Monteiro",
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "pinturas",
-      "data": "Outubro, 2020",
-      "fotografia": "Diogo Monteiro",
-      "local": "Estrada de São João, Torre",
-      "producao": "Aldeia Pintada + habitantes locais",
-      "publishedAt": "2020-11-04T00:00:00.000Z",
-      "slug": "o-lugarinho-da-torre",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura mural",
-      "title": "O LUGARINHO DA TORRE  "
     },
     {
       "__outstatic": {
@@ -98,6 +76,28 @@
       "slug": "pintura-2",
       "status": "draft",
       "title": "Pintura 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "dec66316abc241cde9575437938107640094a5e4",
+        "hash": "2442377876",
+        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "data": "Outubro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2020-11-04T00:00:00.000Z",
+      "slug": "o-lugarinho-da-torre",
+      "status": "draft",
+      "tipoDeIntervencao": "Pintura mural",
+      "title": "O LUGARINHO DA TORRE  "
     }
   ]
 }
