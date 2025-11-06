@@ -1,6 +1,6 @@
 {
-  "commit": "a78ed8429f180056be18d847d7903baad0a4dae7",
-  "generated": "2025-11-06T16:59:18.775Z",
+  "commit": "55c7b945772873fff15d630903f25ff3df3f9913",
+  "generated": "2025-11-06T17:09:06.857Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,8 +20,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a78ed8429f180056be18d847d7903baad0a4dae7",
-        "hash": "3519463492",
+        "commit": "55c7b945772873fff15d630903f25ff3df3f9913",
+        "hash": "2469077887",
         "path": "outstatic/content/programas/test.mdx"
       },
       "author": {
@@ -29,6 +29,7 @@
         "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
       },
       "collection": "programas",
+      "coverImage": "/images/0rfhlgnmriad1-M1Nj.jpeg",
       "publishedAt": "2025-11-06T16:05:08.621Z",
       "slug": "test",
       "status": "published",
