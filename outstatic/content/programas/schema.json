@@ -12,21 +12,6 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "archive"
-    },
-    "type": {
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "type",
-      "values": [
-        {
-          "value": "evento",
-          "label": "evento"
-        },
-        {
-          "value": "oficina",
-          "label": "oficina"
-        }
-      ]
     }
   }
 }
