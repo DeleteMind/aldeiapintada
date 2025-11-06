@@ -110,8 +110,10 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 			className={twMerge(
 				'z-10000 sticky top-0 w-full flex justify-center not-lg:justify-between items-center h-24 transition-[background-color,box-shadow] duration-300 px-5',
 				isScrolled && [
-					'backdrop-blur-lg shadow-xs',
-					invertTextColor ? 'bg-black/30' : 'bg-white/30',
+					'lg:backdrop-blur-md shadow-xs',
+					invertTextColor
+						? 'lg:bg-black/30 bg-neutral-50'
+						: 'lg:bg-white/30 bg-neutral-50',
 				],
 			)}
 		>
@@ -169,8 +171,8 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 			{isMenuOpen && (
 				<nav
 					className={twMerge(
-						'absolute top-full inset-x-0 flex flex-col items-center gap-2 py-4 backdrop-blur-lg shadow-xs z-50',
-						invertTextColor ? 'bg-black/30' : 'bg-white/30',
+						'absolute top-full inset-x-0 flex flex-col items-center gap-2 py-4 shadow-xs z-50',
+						'bg-neutral-50',
 					)}
 				>
 					{NAV_LINKS.map((link) => {
@@ -184,7 +186,6 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 								text={link.text}
 								href={link.href}
 								active={isActive}
-								invertTextColor={invertTextColor}
 								onClick={() => setIsMenuOpen(false)}
 							/>
 						);
