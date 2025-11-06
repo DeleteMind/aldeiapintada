@@ -1,6 +1,6 @@
 {
-  "commit": "6cef904c75ce3269d8b98da5e4d827b1dc5ac15d",
-  "generated": "2025-11-06T18:12:33.317Z",
+  "commit": "741586cdba5ea9bcb0baf28634ed4b780f9c9eae",
+  "generated": "2025-11-06T18:13:43.527Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,6 +23,29 @@
         {
           "label": "evento",
           "value": "evento"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "741586cdba5ea9bcb0baf28634ed4b780f9c9eae",
+        "hash": "3338898109",
+        "path": "outstatic/content/programas/oficina.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2025-11-06T18:12:37.111Z",
+      "slug": "oficina",
+      "status": "draft",
+      "title": "oficina",
+      "type": [
+        {
+          "label": "oficina",
+          "value": "oficina"
         }
       ]
     }
