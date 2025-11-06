@@ -1,6 +1,6 @@
 {
-  "commit": "2ece888c449562c34b0aafd32552c709071fc646",
-  "generated": "2025-11-06T18:37:06.215Z",
+  "commit": "49c1542ec6545c9aca1cdacb42f9033df1853d01",
+  "generated": "2025-11-06T19:02:25.832Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,22 +63,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2009ead4c2f302e9ef71adf21200fce358f1b2b3",
-        "hash": "1540415808",
-        "path": "outstatic/content/pinturas/pintura-1.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "pinturas",
-      "publishedAt": "1958-11-13T00:00:00.000Z",
-      "slug": "pintura-1",
-      "status": "published",
-      "title": "Pintura 1"
-    },
-    {
-      "__outstatic": {
         "commit": "2ece888c449562c34b0aafd32552c709071fc646",
         "hash": "1350630589",
         "path": "outstatic/content/pinturas/pintura-2.mdx"
@@ -92,6 +76,22 @@
       "slug": "pintura-2",
       "status": "published",
       "title": "Pintura 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "49c1542ec6545c9aca1cdacb42f9033df1853d01",
+        "hash": "110474411",
+        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "publishedAt": "2020-11-04T00:00:00.000Z",
+      "slug": "o-lugarinho-da-torre",
+      "status": "published",
+      "title": "O LUGARINHO DA TORRE  "
     }
   ]
 }
