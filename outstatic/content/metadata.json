@@ -1,6 +1,6 @@
 {
-  "commit": "e11aaf061fca1de55547ca4ea5d4d2fee6897521",
-  "generated": "2025-11-06T18:35:49.071Z",
+  "commit": "a7bbe409fd6dce0276ca9419983d7b1159627a8c",
+  "generated": "2025-11-06T18:36:14.506Z",
   "metadata": [
     {
       "__outstatic": {
@@ -79,8 +79,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e11aaf061fca1de55547ca4ea5d4d2fee6897521",
-        "hash": "2119745203",
+        "commit": "a7bbe409fd6dce0276ca9419983d7b1159627a8c",
+        "hash": "185466987",
         "path": "outstatic/content/pinturas/pintura-2.mdx"
       },
       "author": {
@@ -90,7 +90,7 @@
       "collection": "pinturas",
       "publishedAt": "2025-11-06T18:35:27.159Z",
       "slug": "pintura-2",
-      "status": "draft",
+      "status": "published",
       "title": "Pintura 2"
     }
   ]
