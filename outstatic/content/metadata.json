@@ -1,11 +1,11 @@
 {
-  "commit": "ccdef29658acf3f5874c9ee388224fedf65bb42b",
-  "generated": "2025-11-06T18:08:28.361Z",
+  "commit": "6cef904c75ce3269d8b98da5e4d827b1dc5ac15d",
+  "generated": "2025-11-06T18:12:33.317Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "ccdef29658acf3f5874c9ee388224fedf65bb42b",
-        "hash": "1065895091",
+        "commit": "6cef904c75ce3269d8b98da5e4d827b1dc5ac15d",
+        "hash": "1576797055",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
       "archive": false,
@@ -18,7 +18,13 @@
       "publishedAt": "2025-11-06T16:05:08.621Z",
       "slug": "serracao-da-velha",
       "status": "published",
-      "title": "SERRAÇÃO DA VELHA"
+      "title": "SERRAÇÃO DA VELHA",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
     }
   ]
 }

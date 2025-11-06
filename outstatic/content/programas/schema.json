@@ -17,7 +17,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "type",
-      "values": []
+      "values": [
+        {
+          "value": "evento",
+          "label": "evento"
+        }
+      ]
     }
   }
 }
