@@ -16,6 +16,11 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "data"
+    },
+    "artwork": {
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "artwork"
     }
   }
 }
