@@ -1,6 +1,6 @@
 {
-  "commit": "93c6dd4bf4b1446cd0fc614e38e04913f978b547",
-  "generated": "2025-11-06T18:15:50.540Z",
+  "commit": "ebd832f75fe35336c3e3661b644952d31ef680d9",
+  "generated": "2025-11-06T18:15:54.067Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,8 +44,8 @@
     },
     {
       "__outstatic": {
-        "commit": "93c6dd4bf4b1446cd0fc614e38e04913f978b547",
-        "hash": "2919948946",
+        "commit": "ebd832f75fe35336c3e3661b644952d31ef680d9",
+        "hash": "2570891258",
         "path": "outstatic/content/programas/oficina.mdx"
       },
       "author": {
