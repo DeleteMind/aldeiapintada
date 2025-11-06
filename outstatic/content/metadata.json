@@ -1,13 +1,14 @@
 {
-  "commit": "0dcfdca567ad6f726d2155fe999bde8ae6d82228",
-  "generated": "2025-11-06T17:53:01.877Z",
+  "commit": "2f7bfe78e442ef334eb3e7277b94a2ad50ca51df",
+  "generated": "2025-11-06T18:03:32.938Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "0dcfdca567ad6f726d2155fe999bde8ae6d82228",
-        "hash": "89705445",
-        "path": "outstatic/content/programas/test.mdx"
+        "commit": "2f7bfe78e442ef334eb3e7277b94a2ad50ca51df",
+        "hash": "1065895091",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
+      "archive": false,
       "author": {
         "name": "Tino Marques",
         "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
@@ -15,7 +16,7 @@
       "collection": "programas",
       "coverImage": "",
       "publishedAt": "2025-11-06T16:05:08.621Z",
-      "slug": "test",
+      "slug": "serracao-da-velha",
       "status": "published",
       "title": "SERRAÇÃO DA VELHA"
     }
