@@ -1,23 +1,7 @@
 {
-  "commit": "ebe5858b058f5482eacaae6645cfb8a11175e329",
-  "generated": "2025-11-06T16:56:46.856Z",
+  "commit": "a78ed8429f180056be18d847d7903baad0a4dae7",
+  "generated": "2025-11-06T16:59:18.775Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "723a8ed417b42685e62b7b0c69d12fa1c6d9115f",
-        "hash": "3107723801",
-        "path": "outstatic/content/programas/test.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "publishedAt": "2025-11-06T16:05:08.621Z",
-      "slug": "test",
-      "status": "published",
-      "title": "Test"
-    },
     {
       "__outstatic": {
         "commit": "ebe5858b058f5482eacaae6645cfb8a11175e329",
@@ -33,6 +17,22 @@
       "slug": "title",
       "status": "published",
       "title": "Title"
+    },
+    {
+      "__outstatic": {
+        "commit": "a78ed8429f180056be18d847d7903baad0a4dae7",
+        "hash": "3519463492",
+        "path": "outstatic/content/programas/test.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2025-11-06T16:05:08.621Z",
+      "slug": "test",
+      "status": "published",
+      "title": "SERRAÇÃO DA VELHA"
     }
   ]
 }
