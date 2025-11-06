@@ -26,6 +26,11 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "producao"
+    },
+    "fotografia": {
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "fotografia"
     }
   }
 }
