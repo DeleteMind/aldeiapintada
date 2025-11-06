@@ -1,6 +1,6 @@
 {
-  "commit": "2009ead4c2f302e9ef71adf21200fce358f1b2b3",
-  "generated": "2025-11-06T18:35:05.551Z",
+  "commit": "e11aaf061fca1de55547ca4ea5d4d2fee6897521",
+  "generated": "2025-11-06T18:35:49.071Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,6 +76,22 @@
       "slug": "pintura-1",
       "status": "published",
       "title": "Pintura 1"
+    },
+    {
+      "__outstatic": {
+        "commit": "e11aaf061fca1de55547ca4ea5d4d2fee6897521",
+        "hash": "2119745203",
+        "path": "outstatic/content/pinturas/pintura-2.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "publishedAt": "2025-11-06T18:35:27.159Z",
+      "slug": "pintura-2",
+      "status": "draft",
+      "title": "Pintura 2"
     }
   ]
 }
