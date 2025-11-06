@@ -59,11 +59,7 @@ interface HeaderProps {
 	invertTextColor?: boolean;
 }
 
-export default function Header({
-	href,
-	objectPosition,
-	invertTextColor,
-}: HeaderProps) {
+export default function Header({ href, objectPosition, invertTextColor }: HeaderProps) {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const headerRef = useRef<HTMLElement | null>(null);
 	const [headerHeight, setHeaderHeight] = useState(0);
@@ -108,103 +104,106 @@ export default function Header({
 		return () => window.removeEventListener('scroll', handleScroll);
 	}, []);
 
-	return (
-		<>
-			<header
-				ref={headerRef}
-				className={twMerge(
-					'z-10000 sticky top-0 w-full flex justify-center items-center h-24 transition-[background-color,box-shadow] duration-300 px-5',
-					isScrolled && [
-						'backdrop-blur-lg shadow-xs',
-						invertTextColor ? 'bg-black/30' : 'bg-white/30',
-					],
-				)}
-			>
-				{/* Logo */}
-				<Link className='bg-transparent hover:bg-transparent p-0' href='/'>
-					<Image
-						className='size-24'
-						src='/Aldeia Pintada_Cor_PNG.png'
-						alt='Aldeia Pintada Logo'
-						width={100}
-						height={100}
-					/>
-				</Link>
-
-				{/* Mobile Menu Button */}
-				<Button
-					Icon={isMenuOpen ? PiXBold : PiListBold}
-					className='md:hidden'
-					onClick={() => setIsMenuOpen(!isMenuOpen)}
+	const headerElement = (
+		<header
+			ref={headerRef}
+			className={twMerge(
+				'z-10000 sticky top-0 w-full flex justify-center not-lg:justify-between items-center h-24 transition-[background-color,box-shadow] duration-300 px-5',
+				isScrolled && [
+					'backdrop-blur-lg shadow-xs',
+					invertTextColor ? 'bg-black/30' : 'bg-white/30',
+				],
+			)}
+		>
+			{/* Logo */}
+			<Link className='bg-transparent hover:bg-transparent p-0' href='/'>
+				<Image
+					className='size-24 not-lg:size-16 object-contain'
+					src='/Aldeia Pintada_Cor_PNG.png'
+					alt='Aldeia Pintada Logo'
+					width={100}
+					height={100}
 				/>
+			</Link>
 
-				{/* Nav Buttons (Desktop) */}
-				<nav className='hidden md:flex flex-row gap-4 flex-wrap justify-center mx-20'>
-					{NAV_LINKS.map((link) => {
-						const isActive = pathname === link.href;
-						return (
-							<Button
-								variant='link'
-								key={link.href}
-								href={link.href}
-								text={link.text}
-								invertTextColor={invertTextColor}
-								active={isActive}
-							/>
-						);
-					})}
-				</nav>
+			{/* Mobile Menu Button */}
+			<Button
+				Icon={isMenuOpen ? PiXBold : PiListBold}
+				className='md:hidden'
+				onClick={() => setIsMenuOpen(!isMenuOpen)}
+			/>
 
-				{/* Social Buttons */}
-				<div className='flex flex-row justify-center'>
-					{SOCIAL_LINKS.map((link) => (
+			{/* Nav Buttons (Desktop) */}
+			<nav className='hidden md:flex flex-row gap-4 flex-wrap justify-center mx-20'>
+				{NAV_LINKS.map((link) => {
+					const isActive = pathname === link.href;
+					return (
 						<Button
 							variant='link'
 							key={link.href}
 							href={link.href}
-							newTab={true}
+							text={link.text}
 							invertTextColor={invertTextColor}
-							Icon={link.Icon}
+							active={isActive}
 						/>
-					))}
-				</div>
+					);
+				})}
+			</nav>
 
-				{/* Nav Buttons (Mobile) */}
-				{isMenuOpen && (
-					<nav
-						className={twMerge(
-							'absolute top-full inset-x-0 flex flex-col items-center gap-2 py-4 backdrop-blur-lg shadow-xs z-50',
-							invertTextColor ? 'bg-black/30' : 'bg-white/30',
-						)}
-					>
-						{NAV_LINKS.map((link) => {
-							const isActive = pathname === link.href;
+			{/* Social Buttons */}
+			<div className='flex flex-row justify-center not-lg:hidden'>
+				{SOCIAL_LINKS.map((link) => (
+					<Button
+						variant='link'
+						key={link.href}
+						href={link.href}
+						newTab={true}
+						invertTextColor={invertTextColor}
+						Icon={link.Icon}
+						className='p-2'
+					/>
+				))}
+			</div>
 
-							// TODO: Fix Social Position of overlay (use floating-ui?)
-							return (
-								<Button
-									variant='link'
-									key={link.href}
-									text={link.text}
-									href={link.href}
-									active={isActive}
-									invertTextColor={invertTextColor}
-									onClick={() => setIsMenuOpen(false)}
-								/>
-							);
-						})}
-					</nav>
-				)}
-			</header>
-
-			{href && (
-				<div
-					className='relative w-full h-96'
-					style={{ marginTop: headerHeight ? -headerHeight : 0 }}
+			{/* Nav Buttons (Mobile) */}
+			{isMenuOpen && (
+				<nav
+					className={twMerge(
+						'absolute top-full inset-x-0 flex flex-col items-center gap-2 py-4 backdrop-blur-lg shadow-xs z-50',
+						invertTextColor ? 'bg-black/30' : 'bg-white/30',
+					)}
 				>
-					<Image src={href} alt='' fill className={imageClassName} priority />
-				</div>
+					{NAV_LINKS.map((link) => {
+						const isActive = pathname === link.href;
+
+						// TODO: Fix Social Position of overlay (use floating-ui?)
+						return (
+							<Button
+								variant='link'
+								key={link.href}
+								text={link.text}
+								href={link.href}
+								active={isActive}
+								invertTextColor={invertTextColor}
+								onClick={() => setIsMenuOpen(false)}
+							/>
+						);
+					})}
+				</nav>
 			)}
+		</header>
+	);
+
+	if (!href) return headerElement;
+	return (
+		<>
+			{headerElement}
+			<div
+				className='relative w-full h-96'
+				style={{ marginTop: headerHeight ? -headerHeight : 0 }}
+			>
+				<Image src={href} alt='' fill className={imageClassName} priority />
+			</div>
 		</>
 	);
 }

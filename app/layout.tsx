@@ -1,16 +1,11 @@
 import type { Metadata } from 'next';
-import { Geist_Mono, Inter } from 'next/font/google';
+import { Open_Sans } from 'next/font/google';
 import './globals.css';
 
 import Footer from '@/components/Footer';
 
-const geistMono = Geist_Mono({
-	variable: '--font-geist-mono',
-	subsets: ['latin'],
-});
-
-const inter = Inter({
-	variable: '--font-inter',
+const openSans = Open_Sans({
+	variable: '--font-open-sans',
 	subsets: ['latin'],
 });
 
@@ -27,7 +22,7 @@ export default function RootLayout({
 	return (
 		<html lang='pt-PT'>
 			<body
-				className={`${inter.variable} ${geistMono.variable} antialiased font-sans min-h-screen flex flex-col`}
+				className={`${openSans.variable} antialiased font-sans min-h-screen flex flex-col`}
 			>
 				<div className='grow'>{children}</div>
 

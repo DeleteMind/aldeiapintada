@@ -17,13 +17,13 @@ export default function Footer() {
 
 			<section className='flex flex-row items-center'>
 				<div className='flex flex-col items-end'>
-					<Text size='sm' color='secondary' weight='semibold' className='w-fit'>
+					<Text size='xs' color='secondary' weight='semibold' className='w-fit'>
 						SEGUE-NOS
 					</Text>
 
 					<div className='flex flex-col'>
 						<Text
-							size='sm'
+							size='xs'
 							weight='medium'
 							href='https://www.facebook.com/aldeiapintada'
 							newTab
@@ -31,7 +31,7 @@ export default function Footer() {
 							FACEBOOK
 						</Text>
 						<Text
-							size='sm'
+							size='xs'
 							weight='medium'
 							href='https://www.instagram.com/aldeiapintada'
 							newTab
@@ -44,7 +44,7 @@ export default function Footer() {
 				<Image
 					src='/Logo_pretoBranco.jpeg'
 					alt='Logo_preto_e_branco'
-					className='size-18 lg:size-24 object-cover'
+					className='size-20 object-cover'
 					width={100}
 					height={100}
 				/>

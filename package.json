@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "next": "16.0.1",
+    "outstatic": "^2.0.11",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "react-icons": "5.5.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
     "resend": "^6.4.1",
     "swiper": "^12.0.3",
     "tailwind-merge": "3.3.1 "
@@ -21,6 +24,7 @@
     "@biomejs/biome": "2.3.0",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
