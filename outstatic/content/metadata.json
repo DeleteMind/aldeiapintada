@@ -1,6 +1,6 @@
 {
-  "commit": "723a8ed417b42685e62b7b0c69d12fa1c6d9115f",
-  "generated": "2025-11-06T16:16:05.876Z",
+  "commit": "d56236b823a2e17935e247f1e7bf521c5ece0870",
+  "generated": "2025-11-06T16:56:39.831Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "test",
       "status": "published",
       "title": "Test"
+    },
+    {
+      "__outstatic": {
+        "commit": "d56236b823a2e17935e247f1e7bf521c5ece0870",
+        "hash": "1927926955",
+        "path": "outstatic/content/programas/title.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2025-11-06T16:55:39.414Z",
+      "slug": "title",
+      "status": "draft",
+      "title": "Title"
     }
   ]
 }
