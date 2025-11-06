@@ -11,6 +11,11 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "local"
+    },
+    "data": {
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "data"
     }
   }
 }
