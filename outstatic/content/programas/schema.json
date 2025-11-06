@@ -7,6 +7,11 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "coverImage"
+    },
+    "archive": {
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "archive"
     }
   }
 }
