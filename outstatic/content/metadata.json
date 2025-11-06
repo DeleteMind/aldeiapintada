@@ -1,6 +1,6 @@
 {
-  "commit": "612dff1c4d2b6b3e7c412be243652cf97ae4b663",
-  "generated": "2025-11-06T18:15:42.150Z",
+  "commit": "93c6dd4bf4b1446cd0fc614e38e04913f978b547",
+  "generated": "2025-11-06T18:15:50.540Z",
   "metadata": [
     {
       "__outstatic": {
@@ -28,29 +28,6 @@
     },
     {
       "__outstatic": {
-        "commit": "741586cdba5ea9bcb0baf28634ed4b780f9c9eae",
-        "hash": "3338898109",
-        "path": "outstatic/content/programas/oficina.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T18:12:37.111Z",
-      "slug": "oficina",
-      "status": "draft",
-      "title": "oficina",
-      "type": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ]
-    },
-    {
-      "__outstatic": {
         "commit": "612dff1c4d2b6b3e7c412be243652cf97ae4b663",
         "hash": "4062300283",
         "path": "outstatic/content/pinturas/pintura-1.mdx"
@@ -64,6 +41,29 @@
       "slug": "pintura-1",
       "status": "published",
       "title": "Pintura 1"
+    },
+    {
+      "__outstatic": {
+        "commit": "93c6dd4bf4b1446cd0fc614e38e04913f978b547",
+        "hash": "2919948946",
+        "path": "outstatic/content/programas/oficina.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2025-11-06T18:12:37.111Z",
+      "slug": "oficina",
+      "status": "published",
+      "title": "oficina 1",
+      "type": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ]
     }
   ]
 }
