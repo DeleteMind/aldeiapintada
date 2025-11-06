@@ -1,6 +1,6 @@
 {
-  "commit": "36a73c713434750b75538b724c586c63f20497e3",
-  "generated": "2025-11-06T19:33:36.932Z",
+  "commit": "b5a531eeb2d7aa0645018dcd9f086a099fe7dd59",
+  "generated": "2025-11-06T19:50:11.964Z",
   "metadata": [
     {
       "__outstatic": {
@@ -28,36 +28,6 @@
         {
           "label": "oficina",
           "value": "oficina"
-        }
-      ]
-    },
-    {
-      "__outstatic": {
-        "commit": "19eaa1ed155e9d3bcd89d92dc58508bed1e3a10d",
-        "hash": "2847905305",
-        "path": "outstatic/content/programas/serracao-da-velha.mdx"
-      },
-      "archive": false,
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T16:05:08.621Z",
-      "slug": "serracao-da-velha",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "SERRAÇÃO DA VELHA",
-      "type": [
-        {
-          "label": "evento",
-          "value": "evento"
         }
       ]
     },
@@ -98,6 +68,36 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura mural",
       "title": "O LUGARINHO DA TORRE  "
+    },
+    {
+      "__outstatic": {
+        "commit": "b5a531eeb2d7aa0645018dcd9f086a099fe7dd59",
+        "hash": "1288395959",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "archive": false,
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2025-11-06T16:05:08.621Z",
+      "slug": "serracao-da-velha",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "SERRAÇÃO DA VELHA",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
     }
   ]
 }
