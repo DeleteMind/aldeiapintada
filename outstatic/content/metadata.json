@@ -1,6 +1,6 @@
 {
-  "commit": "a7bbe409fd6dce0276ca9419983d7b1159627a8c",
-  "generated": "2025-11-06T18:36:14.506Z",
+  "commit": "2ece888c449562c34b0aafd32552c709071fc646",
+  "generated": "2025-11-06T18:37:06.215Z",
   "metadata": [
     {
       "__outstatic": {
@@ -79,8 +79,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a7bbe409fd6dce0276ca9419983d7b1159627a8c",
-        "hash": "185466987",
+        "commit": "2ece888c449562c34b0aafd32552c709071fc646",
+        "hash": "1350630589",
         "path": "outstatic/content/pinturas/pintura-2.mdx"
       },
       "author": {
@@ -88,7 +88,7 @@
         "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
       },
       "collection": "pinturas",
-      "publishedAt": "2025-11-06T18:35:27.159Z",
+      "publishedAt": "1958-11-06T00:00:00.000Z",
       "slug": "pintura-2",
       "status": "published",
       "title": "Pintura 2"
