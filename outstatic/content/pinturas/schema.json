@@ -1,6 +1,11 @@
 {
   "title": "pinturas",
-  "slug": "pinturas",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "tipoDeIntervencao": {
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "tipoDeIntervencao"
+    }
+  }
 }
