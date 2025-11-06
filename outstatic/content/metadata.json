@@ -1,6 +1,6 @@
 {
-  "commit": "741586cdba5ea9bcb0baf28634ed4b780f9c9eae",
-  "generated": "2025-11-06T18:13:43.527Z",
+  "commit": "612dff1c4d2b6b3e7c412be243652cf97ae4b663",
+  "generated": "2025-11-06T18:15:42.150Z",
   "metadata": [
     {
       "__outstatic": {
@@ -48,6 +48,22 @@
           "value": "oficina"
         }
       ]
+    },
+    {
+      "__outstatic": {
+        "commit": "612dff1c4d2b6b3e7c412be243652cf97ae4b663",
+        "hash": "4062300283",
+        "path": "outstatic/content/pinturas/pintura-1.mdx"
+      },
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "pinturas",
+      "publishedAt": "2020-11-11T00:00:00.000Z",
+      "slug": "pintura-1",
+      "status": "published",
+      "title": "Pintura 1"
     }
   ]
 }
