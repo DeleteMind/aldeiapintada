@@ -1,14 +1,14 @@
 {
-  "commit": "60f74601ca2cc7873fdb389e0f8d4186e1e45434",
-  "generated": "2025-11-06T18:07:37.673Z",
+  "commit": "ccdef29658acf3f5874c9ee388224fedf65bb42b",
+  "generated": "2025-11-06T18:08:28.361Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "60f74601ca2cc7873fdb389e0f8d4186e1e45434",
-        "hash": "1311773888",
+        "commit": "ccdef29658acf3f5874c9ee388224fedf65bb42b",
+        "hash": "1065895091",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
-      "archive": true,
+      "archive": false,
       "author": {
         "name": "Tino Marques",
         "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
