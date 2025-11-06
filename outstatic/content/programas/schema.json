@@ -21,6 +21,10 @@
         {
           "value": "oficina",
           "label": "oficina"
+        },
+        {
+          "value": "evento",
+          "label": "evento"
         }
       ]
     }
