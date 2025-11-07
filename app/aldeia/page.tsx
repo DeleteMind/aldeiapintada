@@ -6,11 +6,7 @@ import { Text } from '@/components/Text';
 export default function Aldeia() {
 	return (
 		<>
-			<Header
-				href='/Header_Aldeia.JPG'
-				objectPosition={60}
-				invertTextColor={true}
-			/>
+			<Header href='/Header_Aldeia.JPG' objectPosition={60} invertTextColor={true} />
 
 			<main className='flex flex-col px-6 gap-20 py-20 items-center'>
 				<section className='max-w-5xl'>
@@ -26,8 +22,8 @@ export default function Aldeia() {
 						<Text size='2xl' weight='medium'>
 							Torre{' '}
 						</Text>{' '}
-						da Magueixa, uma aldeia do concelho da Batalha, hoje conhecida
-						apenas por Torre,{' '}
+						da Magueixa, uma aldeia do concelho da Batalha, hoje conhecida apenas por
+						Torre,{' '}
 						<Text size='2xl' weight='medium'>
 							um lugar singular e com muito para contar.
 						</Text>{' '}
@@ -81,10 +77,10 @@ export default function Aldeia() {
 					images={[
 						{ src: '/images/galeria-1.jpg', alt: 'Galeria imagem 1' },
 						{ src: '/images/galeria-2.jpg', alt: 'Galeria imagem 2' },
-						{ src: '/images/galeria-3.jpg', alt: 'Galeria imagem 3' },
-						{ src: '/images/galeria-4.jpg', alt: 'Galeria imagem 4' },
+						{ src: '/images/galeria-3.JPG', alt: 'Galeria imagem 3' },
+						{ src: '/images/galeria-4.JPG', alt: 'Galeria imagem 4' },
 						{ src: '/images/galeria-5.jpg', alt: 'Galeria imagem 5' },
-						{ src: '/images/galeria-6.jpg', alt: 'Galeria imagem 6' },
+						{ src: '/images/galeria-6.JPG', alt: 'Galeria imagem 6' },
 						{ src: '/images/galeria-7.jpg', alt: 'Galeria imagem 7' },
 						{ src: '/images/galeria-8.jpg', alt: 'Galeria imagem 8' },
 					]}
@@ -95,11 +91,10 @@ export default function Aldeia() {
 						MAPA DA ALDEIA
 					</Text>
 					<Text size='xl'>
-						Permite a descoberta de todos de todas as pinturas murais realizadas
-						até ao momento, bem como de informações sobre as mesmas. Leva-nos
-						também a lugares que destacamos na nossa aldeia como “pontos de
-						interesse”, como eiras para apreciar a natureza ou uma tasca para um
-						cafezinho.
+						Permite a descoberta de todos de todas as pinturas murais realizadas até ao
+						momento, bem como de informações sobre as mesmas. Leva-nos também a lugares
+						que destacamos na nossa aldeia como “pontos de interesse”, como eiras para
+						apreciar a natureza ou uma tasca para um cafezinho.
 					</Text>
 					<Button
 						href='https://www.google.com/maps/d/u/0/viewer?mid=12uQ-54JxIuYFFuS8r99oAsB_rAsRxPbt&ll=39.65727979629874%2C-8.761598399999992&z=15&fbclid=PAAaaVJbs99rNer1I8PKnqJ8QnBj9PV6_zutPiZ79WWmN-KPMBzQCqVdYrDDg'
