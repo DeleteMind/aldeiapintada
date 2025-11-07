@@ -4,6 +4,8 @@ import { PostCard } from '@/components/PostCard';
 import { Text } from '@/components/Text';
 import type { PinturaPost } from '@/lib/types';
 
+import pinturaMuralHeader from '@/public/assets/header/pintura-mural.jpg';
+
 async function getData() {
 	return getDocuments('pinturas', [
 		'title',
@@ -35,7 +37,7 @@ export default async function Arquivo() {
 
 	return (
 		<>
-			<Header href='/Header_PinturaMural.jpeg' objectPosition={0} />
+			<Header src={pinturaMuralHeader} objectPosition={0} />
 
 			<main className='flex flex-col p-6 items-center'>
 				<section className='flex flex-col gap-4 w-full'>

@@ -4,6 +4,8 @@ import { PostCard } from '@/components/PostCard';
 import { Text } from '@/components/Text';
 import type { ProgramacaoPost } from '@/lib/types';
 
+import programacaoHeader from '@/public/assets/header/programacao.jpg';
+
 async function getData() {
 	return getDocuments('programas', [
 		'title',
@@ -22,7 +24,7 @@ export default async function Programacao() {
 
 	return (
 		<>
-			<Header href='/Header_programacao.jpg' objectPosition={60} />
+			<Header src={programacaoHeader} objectPosition={60} />
 
 			<main className='flex flex-col p-6 items-center gap-6'>
 				<section className='flex flex-col gap-4 w-full'>

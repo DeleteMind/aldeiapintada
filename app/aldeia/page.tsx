@@ -2,11 +2,20 @@ import { Button } from '@/components/Button';
 import Header from '@/components/Header';
 import ImageCarousel from '@/components/ImageCarousel';
 import { Text } from '@/components/Text';
+import galeria1 from '@/public/assets/galeria/1.jpg';
+import galeria2 from '@/public/assets/galeria/2.jpg';
+import galeria3 from '@/public/assets/galeria/3.jpg';
+import galeria4 from '@/public/assets/galeria/4.jpg';
+import galeria5 from '@/public/assets/galeria/5.jpg';
+import galeria6 from '@/public/assets/galeria/6.jpg';
+import galeria7 from '@/public/assets/galeria/7.jpg';
+import galeria8 from '@/public/assets/galeria/8.jpg';
+import aldeiaHeader from '@/public/assets/header/aldeia.jpg';
 
 export default function Aldeia() {
 	return (
 		<>
-			<Header href='/Header_Aldeia.JPG' objectPosition={60} invertTextColor={true} />
+			<Header src={aldeiaHeader} objectPosition={60} invertTextColor={true} />
 
 			<main className='flex flex-col px-6 gap-20 py-20 items-center'>
 				<section className='max-w-5xl'>
@@ -75,14 +84,14 @@ export default function Aldeia() {
 				<ImageCarousel
 					imageHeight={400}
 					images={[
-						{ src: '/images/galeria-1.jpg', alt: 'Galeria imagem 1' },
-						{ src: '/images/galeria-2.jpg', alt: 'Galeria imagem 2' },
-						{ src: '/images/galeria-3.JPG', alt: 'Galeria imagem 3' },
-						{ src: '/images/galeria-4.JPG', alt: 'Galeria imagem 4' },
-						{ src: '/images/galeria-5.jpg', alt: 'Galeria imagem 5' },
-						{ src: '/images/galeria-6.JPG', alt: 'Galeria imagem 6' },
-						{ src: '/images/galeria-7.jpg', alt: 'Galeria imagem 7' },
-						{ src: '/images/galeria-8.jpg', alt: 'Galeria imagem 8' },
+						{ src: galeria1, alt: 'Galeria imagem 1' },
+						{ src: galeria2, alt: 'Galeria imagem 2' },
+						{ src: galeria3, alt: 'Galeria imagem 3' },
+						{ src: galeria4, alt: 'Galeria imagem 4' },
+						{ src: galeria5, alt: 'Galeria imagem 5' },
+						{ src: galeria6, alt: 'Galeria imagem 6' },
+						{ src: galeria7, alt: 'Galeria imagem 7' },
+						{ src: galeria8, alt: 'Galeria imagem 8' },
 					]}
 				/>
 

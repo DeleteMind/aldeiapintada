@@ -1,5 +1,5 @@
 'use client';
-import Image from 'next/image';
+import Image, { type StaticImageData } from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
@@ -8,6 +8,7 @@ import { FaFacebookF, FaInstagram } from 'react-icons/fa';
 import { PiListBold, PiXBold } from 'react-icons/pi';
 import { TbBrandLinktree } from 'react-icons/tb';
 import { twMerge } from 'tailwind-merge';
+import logo from '@/public/assets/logo.png';
 import { Button } from './Button';
 
 interface LinkProps {
@@ -54,12 +55,12 @@ const NAV_LINKS: LinkProps[] = [
 ];
 
 interface HeaderProps {
-	href?: string; // backdrop image src
+	src?: string | StaticImageData; // backdrop image src
 	objectPosition?: 0 | 20 | 40 | 60 | 80 | 100; // y-position percentage in 20% increments (default 0)
 	invertTextColor?: boolean;
 }
 
-export default function Header({ href, objectPosition, invertTextColor }: HeaderProps) {
+export default function Header({ src, objectPosition, invertTextColor }: HeaderProps) {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const headerRef = useRef<HTMLElement | null>(null);
 	const [headerHeight, setHeaderHeight] = useState(0);
@@ -121,7 +122,7 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 			<Link className='bg-transparent hover:bg-transparent p-0' href='/'>
 				<Image
 					className='size-24 not-lg:size-16 object-contain'
-					src='/Aldeia Pintada_Cor_PNG.png'
+					src={logo}
 					alt='Aldeia Pintada Logo'
 					width={100}
 					height={100}
@@ -195,7 +196,7 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 		</header>
 	);
 
-	if (!href) return headerElement;
+	if (!src) return headerElement;
 	return (
 		<>
 			{headerElement}
@@ -203,7 +204,7 @@ export default function Header({ href, objectPosition, invertTextColor }: Header
 				className='relative w-full h-96'
 				style={{ marginTop: headerHeight ? -headerHeight : 0 }}
 			>
-				<Image src={href} alt='' fill className={imageClassName} priority />
+				<Image src={src} alt='' fill className={imageClassName} priority />
 			</div>
 		</>
 	);

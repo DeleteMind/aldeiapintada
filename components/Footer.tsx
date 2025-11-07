@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import logoBW from '@/public/assets/logo-bw.jpeg';
 import { Text } from './Text';
 
 export default function Footer() {
@@ -42,7 +43,7 @@ export default function Footer() {
 				</div>
 
 				<Image
-					src='/Logo_pretoBranco.jpeg'
+					src={logoBW}
 					alt='Logo_preto_e_branco'
 					className='size-20 object-cover'
 					width={100}

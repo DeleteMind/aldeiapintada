@@ -1,6 +1,6 @@
 'use client';
 
-import Image from 'next/image';
+import Image, { type StaticImageData } from 'next/image';
 import { Autoplay, Navigation, Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -8,7 +8,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 interface ImageItem {
-	src: string;
+	src: string | StaticImageData;
 	alt: string;
 	width?: number;
 	height?: number;
@@ -68,14 +68,7 @@ export default function ImageCarousel({
 						style={{ height: `${imageHeight}px` }}
 					>
 						<div className='relative w-full h-full rounded-lg overflow-hidden'>
-							<Image
-								src={image.src}
-								alt={image.alt}
-								fill
-								width={450}
-								height={450}
-								className='object-cover'
-							/>
+							<Image src={image.src} alt={image.alt} fill className='object-cover' />
 						</div>
 					</SwiperSlide>
 				))}

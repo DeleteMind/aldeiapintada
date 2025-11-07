@@ -3,6 +3,8 @@ import Header from '@/components/Header';
 import { PostCard } from '@/components/PostCard';
 import type { ProgramacaoPost } from '@/lib/types';
 
+import arquivoHeader from '@/public/assets/header/arquivo.jpg';
+
 async function getData() {
 	return getDocuments('programas', [
 		'title',
@@ -19,7 +21,7 @@ export default async function Arquivo() {
 
 	return (
 		<>
-			<Header href='/Header_arquivo.JPG' objectPosition={0} />
+			<Header src={arquivoHeader} objectPosition={0} />
 
 			<main className='flex flex-col p-6 items-center'>
 				<section className='flex flex-col gap-4 w-full'>
