@@ -72,6 +72,8 @@ export default function ImageCarousel({
 								src={image.src}
 								alt={image.alt}
 								fill
+								width={450}
+								height={450}
 								className='object-cover'
 							/>
 						</div>
