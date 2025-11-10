@@ -43,7 +43,7 @@ export default async function PinturaMuralPost({
 
 	return (
 		<>
-			<Header href={post?.coverImage} objectPosition={60} />
+			<Header src={post?.coverImage} objectPosition={60} />
 
 			<article
 				className={twMerge(

@@ -26,7 +26,7 @@ export default async function ProgramacaoPost({
 
 	return (
 		<>
-			<Header href={post?.coverImage} objectPosition={60} />
+			<Header src={post?.coverImage} objectPosition={60} />
 
 			<article
 				className={twMerge(

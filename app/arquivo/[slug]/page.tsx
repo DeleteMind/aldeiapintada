@@ -25,7 +25,7 @@ export default async function ArquivoPost({
 
 	return (
 		<>
-			<Header href={post?.coverImage} objectPosition={60} />
+			<Header src={post?.coverImage} objectPosition={60} />
 
 			<article className='w-full p-6 flex flex-col gap-6'>
 				<Text size='5xl' weight='bold' color='primary'>
