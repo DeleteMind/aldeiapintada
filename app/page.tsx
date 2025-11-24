@@ -13,7 +13,7 @@ export default function Home() {
 				<section className='relative flex flex-col items-center justify-end gap-20 max-w-5xl'>
 					<Text size='2xl'>
 						Uma Associação Cultural que surge na Torre, <br /> uma aldeia do concelho da
-						Batalha, um lugar singular e com muito para contar...
+						Batalha, um lugar singular e com muito para contar.
 					</Text>
 
 					<Button href='/aldeia'>Saber Mais</Button>
