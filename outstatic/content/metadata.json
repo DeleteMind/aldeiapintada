@@ -1,6 +1,6 @@
 {
-  "commit": "7b420f017760a12955e6fc836fbac52cd5b87610",
-  "generated": "2025-11-25T14:31:38.414Z",
+  "commit": "98d817228f0a4fe4ed906b3f47d34e27c11c7de7",
+  "generated": "2025-11-25T14:31:47.762Z",
   "metadata": [
     {
       "__outstatic": {
@@ -31,22 +31,6 @@
           "value": "evento"
         }
       ]
-    },
-    {
-      "__outstatic": {
-        "commit": "3add9227b9cb02b3257282d711cea6be8473ca2c",
-        "hash": "2399371683",
-        "path": "outstatic/content/pinturas/pintura-2.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "pinturas",
-      "publishedAt": "1958-11-06T00:00:00.000Z",
-      "slug": "pintura-2",
-      "status": "draft",
-      "title": "Pintura 2"
     },
     {
       "__outstatic": {
