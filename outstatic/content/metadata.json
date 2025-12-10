@@ -1,6 +1,6 @@
 {
-  "commit": "1469cf6fc0d476b0a0a927fefed3b0317c138bf6",
-  "generated": "2025-12-10T21:27:26.519Z",
+  "commit": "150a032093d67175a3260d6f73a72e2e6798cd81",
+  "generated": "2025-12-10T21:28:51.753Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,8 +55,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1469cf6fc0d476b0a0a927fefed3b0317c138bf6",
-        "hash": "43895775",
+        "commit": "150a032093d67175a3260d6f73a72e2e6798cd81",
+        "hash": "1345137659",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
       "archive": false,
@@ -68,7 +68,7 @@
       "coverImage": "",
       "publishedAt": "2025-11-06T16:05:08.621Z",
       "slug": "serracao-da-velha",
-      "status": "published",
+      "status": "draft",
       "tags": [
         {
           "label": "evento",
