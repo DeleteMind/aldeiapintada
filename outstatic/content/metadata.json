@@ -1,6 +1,6 @@
 {
-  "commit": "98d817228f0a4fe4ed906b3f47d34e27c11c7de7",
-  "generated": "2025-11-25T14:31:47.762Z",
+  "commit": "5ffb8fb368c5fec2b578bb67df6982dea0ba2991",
+  "generated": "2025-12-10T21:24:40.605Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,8 +63,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7b420f017760a12955e6fc836fbac52cd5b87610",
-        "hash": "1480645275",
+        "commit": "5ffb8fb368c5fec2b578bb67df6982dea0ba2991",
+        "hash": "3627778695",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
       },
       "artwork": "Aldeia Pintada, Diogo Monteiro",
@@ -79,7 +79,7 @@
       "producao": "Aldeia Pintada + habitantes locais",
       "publishedAt": "2020-11-04T00:00:00.000Z",
       "slug": "o-lugarinho-da-torre",
-      "status": "draft",
+      "status": "published",
       "tipoDeIntervencao": "Pintura mural",
       "title": "O LUGARINHO DA TORRE  "
     }
