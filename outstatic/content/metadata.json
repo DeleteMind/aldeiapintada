@@ -1,6 +1,6 @@
 {
-  "commit": "228b945ee49f9c1425b2020ba59edef991c99f36",
-  "generated": "2025-12-10T21:32:17.215Z",
+  "commit": "5805c4e7939584c164fb0dc4bed228b8b19ee67f",
+  "generated": "2025-12-10T21:32:59.145Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,14 +63,14 @@
     },
     {
       "__outstatic": {
-        "commit": "228b945ee49f9c1425b2020ba59edef991c99f36",
-        "hash": "3575039246",
+        "commit": "5805c4e7939584c164fb0dc4bed228b8b19ee67f",
+        "hash": "3417788439",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
       },
       "artwork": "Aldeia Pintada, Diogo Monteiro",
       "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+        "name": "",
+        "picture": ""
       },
       "collection": "pinturas",
       "data": "Outubro, 2020",
