@@ -1,37 +1,7 @@
 {
-  "commit": "5ffb8fb368c5fec2b578bb67df6982dea0ba2991",
-  "generated": "2026-03-02T14:02:47.441Z",
+  "commit": "6fc6fcb5cbdb1cf612b55b511b24f9b52a21a78d",
+  "generated": "2026-03-02T14:03:49.068Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "b5a531eeb2d7aa0645018dcd9f086a099fe7dd59",
-        "hash": "1288395959",
-        "path": "outstatic/content/programas/serracao-da-velha.mdx"
-      },
-      "archive": false,
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T16:05:08.621Z",
-      "slug": "serracao-da-velha",
-      "status": "draft",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "SERRAÇÃO DA VELHA",
-      "type": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ]
-    },
     {
       "__outstatic": {
         "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
@@ -58,6 +28,36 @@
         {
           "label": "oficina",
           "value": "oficina"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "6fc6fcb5cbdb1cf612b55b511b24f9b52a21a78d",
+        "hash": "2847905305",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "archive": false,
+      "author": {
+        "name": "Tino Marques",
+        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2025-11-06T16:05:08.621Z",
+      "slug": "serracao-da-velha",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "SERRAÇÃO DA VELHA",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
         }
       ]
     }
