@@ -100,7 +100,7 @@ export default function Aldeia() {
 						MAPA DA ALDEIA
 					</Text>
 					<Text size='xl'>
-						Permite a descoberta de todos de todas as pinturas murais realizadas até ao
+						Permite a descoberta de todas as pinturas murais realizadas até ao
 						momento, bem como de informações sobre as mesmas. Leva-nos também a lugares
 						que destacamos na nossa aldeia como “pontos de interesse”, como eiras para
 						apreciar a natureza ou uma tasca para um cafezinho.
