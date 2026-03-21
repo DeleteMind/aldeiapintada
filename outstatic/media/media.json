@@ -1,6 +1,6 @@
 {
-  "commit": "e22e900d038c6427a4cd181be7423085944ec59e",
-  "generated": "2026-03-21T22:47:58.801Z",
+  "commit": "85c9ed2b55e039ded6479df42ec73b6988188fe2",
+  "generated": "2026-03-21T22:48:55.035Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "00.jpg",
       "publishedAt": "2025-11-06T16:07:56.795Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "85c9ed2b55e039ded6479df42ec73b6988188fe2",
+        "hash": "1660670046",
+        "path": "public/images/01-A2Mz.jpg"
+      },
+      "alt": "",
+      "filename": "01-A2Mz.jpg",
+      "publishedAt": "2026-03-21T22:48:54.998Z",
       "type": "image"
     },
     {
@@ -55,6 +66,17 @@
       "alt": "",
       "filename": "01.JPG",
       "publishedAt": "2025-11-06T16:07:56.795Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "85c9ed2b55e039ded6479df42ec73b6988188fe2",
+        "hash": "2065163994",
+        "path": "public/images/02-czMz.jpg"
+      },
+      "alt": "",
+      "filename": "02-czMz.jpg",
+      "publishedAt": "2026-03-21T22:48:55.034Z",
       "type": "image"
     },
     {
