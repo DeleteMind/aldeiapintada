@@ -1,6 +1,6 @@
 {
-  "commit": "7b420f017760a12955e6fc836fbac52cd5b87610",
-  "generated": "2025-11-25T14:31:38.414Z",
+  "commit": "6c254d55710e12d470521de8a4121d0cfdcb80c7",
+  "generated": "2026-03-21T23:08:30.771Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "00.jpg",
       "publishedAt": "2025-11-06T16:07:56.795Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "6c254d55710e12d470521de8a4121d0cfdcb80c7",
+        "hash": "1660670046",
+        "path": "public/images/01-ExOT.jpg"
+      },
+      "alt": "",
+      "filename": "01-ExOT.jpg",
+      "publishedAt": "2026-03-21T23:08:30.768Z",
       "type": "image"
     },
     {
