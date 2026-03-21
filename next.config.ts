@@ -1,7 +1,14 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  /* config options here */
+	outputFileTracingIncludes: {
+		'/arquivo': ['./outstatic/content/**/*'],
+		'/arquivo/[slug]': ['./outstatic/content/**/*'],
+		'/pintura-mural': ['./outstatic/content/**/*'],
+		'/pintura-mural/[slug]': ['./outstatic/content/**/*'],
+		'/programacao': ['./outstatic/content/**/*'],
+		'/programacao/[slug]': ['./outstatic/content/**/*'],
+	},
 };
 
 export default nextConfig;
