@@ -14,10 +14,11 @@ async function getData() {
 		'coverImage',
 		'publishedAt',
 		'archive',
+		'tags',
 	]);
 }
 export default async function Arquivo() {
-	const posts = (await getData()) as ProgramacaoPost[];
+	const posts = (await getData()) as unknown as ProgramacaoPost[];
 
 	return (
 		<>

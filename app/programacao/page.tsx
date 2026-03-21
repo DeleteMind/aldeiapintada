@@ -19,7 +19,7 @@ async function getData() {
 	]);
 }
 export default async function Programacao() {
-	const posts = (await getData()) as ProgramacaoPost[];
+	const posts = (await getData()) as unknown as ProgramacaoPost[];
 	console.log('posts', posts);
 
 	return (

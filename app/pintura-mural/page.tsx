@@ -17,7 +17,7 @@ async function getData() {
 	]);
 }
 export default async function Arquivo() {
-	const posts = (await getData()) as PinturaPost[];
+	const posts = (await getData()) as unknown as PinturaPost[];
 
 	// Sort posts by publishedAt descending (most recent first)
 	const sortedPosts = posts.sort(
