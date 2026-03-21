@@ -1,6 +1,6 @@
 {
-  "commit": "6c254d55710e12d470521de8a4121d0cfdcb80c7",
-  "generated": "2026-03-21T23:08:30.771Z",
+  "commit": "4c12231f4f99d64f5a46dbb983f56e3dd0c80e67",
+  "generated": "2026-03-21T23:15:10.086Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,8 +63,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6c254d55710e12d470521de8a4121d0cfdcb80c7",
-        "hash": "1081904995",
+        "commit": "4c12231f4f99d64f5a46dbb983f56e3dd0c80e67",
+        "hash": "362978853",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
       },
       "artwork": "Pintura Mural",
