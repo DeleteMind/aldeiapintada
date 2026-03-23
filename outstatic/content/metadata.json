@@ -1,6 +1,6 @@
 {
-  "commit": "e82c8a3f0abb28de2860771592bdf1f43354a1a6",
-  "generated": "2026-03-23T14:13:56.228Z",
+  "commit": "97013423f71070caa78175d433b745f4d77344c8",
+  "generated": "2026-03-23T14:37:02.939Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,6 +148,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Túnel do Chocalho"
+    },
+    {
+      "__outstatic": {
+        "commit": "97013423f71070caa78175d433b745f4d77344c8",
+        "hash": "141650108",
+        "path": "outstatic/content/pinturas/as-resineiras.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "março, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2021-03-31T23:00:00.000Z",
+      "slug": "as-resineiras",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As Resineiras"
     }
   ]
 }
