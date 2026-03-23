@@ -1,6 +1,6 @@
 {
-  "commit": "9c905f82bf6d8c1d225f73a4bdb6bfe1127ef777",
-  "generated": "2026-03-23T21:19:35.681Z",
+  "commit": "692d7be909d8609e79fecb3b217beb19eb4d12c9",
+  "generated": "2026-03-23T21:24:47.336Z",
   "metadata": [
     {
       "__outstatic": {
@@ -214,6 +214,29 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Juntinhos a passear"
+    },
+    {
+      "__outstatic": {
+        "commit": "692d7be909d8609e79fecb3b217beb19eb4d12c9",
+        "hash": "2489279065",
+        "path": "outstatic/content/pinturas/a-escola-composicao.mdx"
+      },
+      "artwork": "Aldeia Pintada, Sandra Pereira",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "janeiro, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "parceiros": "Câmara Municipal da Batalha",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2022-01-04T00:00:00.000Z",
+      "slug": "a-escola-composicao",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "A Escola (Composição)"
     }
   ]
 }
