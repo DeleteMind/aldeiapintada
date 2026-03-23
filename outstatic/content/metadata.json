@@ -1,6 +1,6 @@
 {
-  "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
-  "generated": "2026-03-23T12:09:47.946Z",
+  "commit": "9b8c1e5fb3d8a798fd54e3a189bf40e21638231e",
+  "generated": "2026-03-23T12:10:53.366Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,28 +63,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fcd951f9a25979ebc73f4d48f4a817fa28b07c49",
-        "hash": "1992813434",
-        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
-      },
-      "artwork": "Pintura Mural",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "outubro, 2020",
-      "fotografia": "Diogo Monteiro",
-      "local": "Estrada de São João, Torre",
-      "producao": "Aldeia Pintada + Habitantes locais",
-      "publishedAt": "2020-03-18T00:00:00.000Z",
-      "slug": "o-lugarinho-da-torre",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "O Lugarinho da Torre"
-    },
-    {
-      "__outstatic": {
         "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
         "hash": "3166445923",
         "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
@@ -104,6 +82,28 @@
       "status": "draft",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Juntinhos a Passear"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b8c1e5fb3d8a798fd54e3a189bf40e21638231e",
+        "hash": "4213792951",
+        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "outubro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "producao": "Aldeia Pintada + Habitantes locais",
+      "publishedAt": "2020-03-18T00:00:00.000Z",
+      "slug": "o-lugarinho-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "O Lugarinho da Torre"
     }
   ]
 }
