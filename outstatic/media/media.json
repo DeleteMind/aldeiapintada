@@ -1,6 +1,6 @@
 {
-  "commit": "fcd951f9a25979ebc73f4d48f4a817fa28b07c49",
-  "generated": "2026-03-23T12:05:33.228Z",
+  "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
+  "generated": "2026-03-23T12:09:47.946Z",
   "media": [
     {
       "__outstatic": {
@@ -279,6 +279,39 @@
     },
     {
       "__outstatic": {
+        "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
+        "hash": "4168913970",
+        "path": "public/images/d5d9e3c7-4dd5-4fe1-aa34-b423c21037f1-EwMz.jpg"
+      },
+      "alt": "",
+      "filename": "d5d9e3c7-4dd5-4fe1-aa34-b423c21037f1-EwMz.jpg",
+      "publishedAt": "2026-03-23T12:09:47.897Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
+        "hash": "3340174092",
+        "path": "public/images/dsc_0099-g3NT.jpg"
+      },
+      "alt": "",
+      "filename": "dsc_0099-g3NT.jpg",
+      "publishedAt": "2026-03-23T12:09:47.920Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
+        "hash": "992854151",
+        "path": "public/images/dsc_0121-kzOD.jpg"
+      },
+      "alt": "",
+      "filename": "dsc_0121-kzOD.jpg",
+      "publishedAt": "2026-03-23T12:09:47.942Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
         "commit": "",
         "hash": "0",
         "path": "public/images/galeria-1.jpg"
@@ -363,6 +396,17 @@
       "alt": "",
       "filename": "galeria-8.jpg",
       "publishedAt": "2025-11-06T16:07:56.794Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
+        "hash": "1616562459",
+        "path": "public/images/juntinhos03-IxMj.jpg"
+      },
+      "alt": "",
+      "filename": "juntinhos03-IxMj.jpg",
+      "publishedAt": "2026-03-23T12:09:47.896Z",
       "type": "image"
     }
   ]
