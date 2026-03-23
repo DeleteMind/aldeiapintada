@@ -1,6 +1,6 @@
 {
-  "commit": "9c64f0dd0b8cc57be7cf0109f1ab6b0666a5d747",
-  "generated": "2026-03-23T16:51:27.541Z",
+  "commit": "04255d0f1d6e0240b3084a4753590e7035eca571",
+  "generated": "2026-03-23T21:19:08.971Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,8 +195,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9c64f0dd0b8cc57be7cf0109f1ab6b0666a5d747",
-        "hash": "610143538",
+        "commit": "04255d0f1d6e0240b3084a4753590e7035eca571",
+        "hash": "3416756190",
         "path": "outstatic/content/pinturas/as-cabras-do-ze-vieira.mdx"
       },
       "artwork": "Aldeia Pintada, Diogo Monteiro",
@@ -209,7 +209,7 @@
       "fotografia": "Diogo Monteiro",
       "local": "Rua do Bom Pastor, Torre",
       "producao": "Aldeia Pintada",
-      "publishedAt": "2026-03-23T16:47:13.435Z",
+      "publishedAt": "2021-07-20T23:00:00.000Z",
       "slug": "as-cabras-do-ze-vieira",
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
