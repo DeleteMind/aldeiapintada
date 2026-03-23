@@ -1,6 +1,6 @@
 {
-  "commit": "4c12231f4f99d64f5a46dbb983f56e3dd0c80e67",
-  "generated": "2026-03-21T23:15:10.086Z",
+  "commit": "87722d9442842ffc99bb4daa139abd6793981c6c",
+  "generated": "2026-03-23T12:03:53.632Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,8 +63,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4c12231f4f99d64f5a46dbb983f56e3dd0c80e67",
-        "hash": "362978853",
+        "commit": "87722d9442842ffc99bb4daa139abd6793981c6c",
+        "hash": "2521265051",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
       },
       "artwork": "Pintura Mural",
@@ -77,7 +77,7 @@
       "fotografia": "Diogo Monteiro",
       "local": "Estrada de São João, Torre",
       "producao": "Aldeia Pintada + Habitantes locais",
-      "publishedAt": "2026-03-21T23:06:53.149Z",
+      "publishedAt": "2020-03-18T00:00:00.000Z",
       "slug": "o-lugarinho-da-torre",
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
