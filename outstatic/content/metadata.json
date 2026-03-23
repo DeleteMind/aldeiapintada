@@ -1,6 +1,6 @@
 {
-  "commit": "04255d0f1d6e0240b3084a4753590e7035eca571",
-  "generated": "2026-03-23T21:19:08.971Z",
+  "commit": "9c905f82bf6d8c1d225f73a4bdb6bfe1127ef777",
+  "generated": "2026-03-23T21:19:35.681Z",
   "metadata": [
     {
       "__outstatic": {
@@ -60,28 +60,6 @@
           "value": "evento"
         }
       ]
-    },
-    {
-      "__outstatic": {
-        "commit": "cda2f38d4c0b1d056d27fc4f6b0f9d1bda5ccb3f",
-        "hash": "411999306",
-        "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
-      },
-      "artwork": "Aldeia Pintada, Diogo Monteiro",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "novembro, 2020",
-      "fotografia": "Diogo Monteiro",
-      "local": "Rua do Alecrim, Torre",
-      "producao": "Aldeia Pintada",
-      "publishedAt": "2020-03-30T23:00:00.000Z",
-      "slug": "juntinhos-a-passear",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "Juntinhos a Passear"
     },
     {
       "__outstatic": {
@@ -214,6 +192,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "As cabras do Zé Vieira"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c905f82bf6d8c1d225f73a4bdb6bfe1127ef777",
+        "hash": "1061721348",
+        "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "novembro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Alecrim, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2020-03-30T23:00:00.000Z",
+      "slug": "juntinhos-a-passear",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Juntinhos a passear"
     }
   ]
 }
