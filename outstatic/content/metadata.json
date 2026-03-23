@@ -1,6 +1,6 @@
 {
-  "commit": "7e4af74ae8f801946f2218dc269dcf8240062a08",
-  "generated": "2026-03-23T16:50:45.642Z",
+  "commit": "9c64f0dd0b8cc57be7cf0109f1ab6b0666a5d747",
+  "generated": "2026-03-23T16:51:27.541Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,8 +195,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7e4af74ae8f801946f2218dc269dcf8240062a08",
-        "hash": "567139707",
+        "commit": "9c64f0dd0b8cc57be7cf0109f1ab6b0666a5d747",
+        "hash": "610143538",
         "path": "outstatic/content/pinturas/as-cabras-do-ze-vieira.mdx"
       },
       "artwork": "Aldeia Pintada, Diogo Monteiro",
