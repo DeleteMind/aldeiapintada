@@ -1,6 +1,6 @@
 {
-  "commit": "321cda26b80208206077469a27ea9d1c88aebb63",
-  "generated": "2026-03-23T12:17:22.051Z",
+  "commit": "cda2f38d4c0b1d056d27fc4f6b0f9d1bda5ccb3f",
+  "generated": "2026-03-23T12:18:17.338Z",
   "metadata": [
     {
       "__outstatic": {
@@ -63,28 +63,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fbe3811ff8927f3a79513ffa71d66b57b33d26b2",
-        "hash": "3166445923",
-        "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
-      },
-      "artwork": "Aldeia Pintada, Diogo Monteiro",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "novembro, 2020",
-      "fotografia": "Diogo Monteiro",
-      "local": "Rua do Alecrim, Torre",
-      "producao": "Aldeia Pintada",
-      "publishedAt": "2020-03-30T23:00:00.000Z",
-      "slug": "juntinhos-a-passear",
-      "status": "draft",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "Juntinhos a Passear"
-    },
-    {
-      "__outstatic": {
         "commit": "47601b3803659a979fbb62485dd3f4d1d11b7880",
         "hash": "3740511850",
         "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
@@ -126,6 +104,28 @@
       "status": "draft",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Coração (Pratos na Cantareira)"
+    },
+    {
+      "__outstatic": {
+        "commit": "cda2f38d4c0b1d056d27fc4f6b0f9d1bda5ccb3f",
+        "hash": "411999306",
+        "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "novembro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Alecrim, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2020-03-30T23:00:00.000Z",
+      "slug": "juntinhos-a-passear",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Juntinhos a Passear"
     }
   ]
 }
