@@ -1,6 +1,6 @@
 {
-  "commit": "b728db03364669e5abdec52046534b797465a88f",
-  "generated": "2026-03-23T16:47:01.826Z",
+  "commit": "7e4af74ae8f801946f2218dc269dcf8240062a08",
+  "generated": "2026-03-23T16:50:45.642Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,6 +192,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Ninguém tem queixa"
+    },
+    {
+      "__outstatic": {
+        "commit": "7e4af74ae8f801946f2218dc269dcf8240062a08",
+        "hash": "567139707",
+        "path": "outstatic/content/pinturas/as-cabras-do-ze-vieira.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "junho, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Bom Pastor, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2026-03-23T16:47:13.435Z",
+      "slug": "as-cabras-do-ze-vieira",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As cabras do Zé Vieira"
     }
   ]
 }
