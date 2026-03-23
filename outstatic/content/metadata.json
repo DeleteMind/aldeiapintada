@@ -1,6 +1,6 @@
 {
-  "commit": "12203135aff8cb2ca12fb3738a2a688bde3c1f95",
-  "generated": "2026-03-23T21:27:10.895Z",
+  "commit": "03374b701ea0474f7e4306b7300975cc9f441c01",
+  "generated": "2026-03-23T22:09:23.164Z",
   "metadata": [
     {
       "__outstatic": {
@@ -259,6 +259,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "O pedreiro cheira a cal"
+    },
+    {
+      "__outstatic": {
+        "commit": "03374b701ea0474f7e4306b7300975cc9f441c01",
+        "hash": "4260021280",
+        "path": "outstatic/content/pinturas/as-raparigas-da-torre.mdx"
+      },
+      "artwork": "Eder Trop",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua da Esperança, Torre",
+      "producao": "Eder Trop",
+      "publishedAt": "2022-07-25T23:00:00.000Z",
+      "slug": "as-raparigas-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As raparigas da Torre"
     }
   ]
 }
