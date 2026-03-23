@@ -1,6 +1,6 @@
 {
-  "commit": "5804da8ad78f89c005ae7d450044eb44b0270447",
-  "generated": "2026-03-23T22:10:52.481Z",
+  "commit": "1163815c6988e63119917ac581f69683410b0e15",
+  "generated": "2026-03-23T22:15:03.885Z",
   "metadata": [
     {
       "__outstatic": {
@@ -262,8 +262,8 @@
     },
     {
       "__outstatic": {
-        "commit": "5804da8ad78f89c005ae7d450044eb44b0270447",
-        "hash": "4143062257",
+        "commit": "1163815c6988e63119917ac581f69683410b0e15",
+        "hash": "939887458",
         "path": "outstatic/content/pinturas/as-raparigas-da-torre.mdx"
       },
       "artwork": "Eder Trop",
@@ -280,7 +280,7 @@
       "slug": "as-raparigas-da-torre",
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
-      "title": "As raparigas da Torre"
+      "title": "As raparigas da Torre por Eder Trop"
     }
   ]
 }
