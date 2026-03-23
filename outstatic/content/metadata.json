@@ -1,6 +1,6 @@
 {
-  "commit": "03374b701ea0474f7e4306b7300975cc9f441c01",
-  "generated": "2026-03-23T22:09:23.164Z",
+  "commit": "5804da8ad78f89c005ae7d450044eb44b0270447",
+  "generated": "2026-03-23T22:10:52.481Z",
   "metadata": [
     {
       "__outstatic": {
@@ -262,8 +262,8 @@
     },
     {
       "__outstatic": {
-        "commit": "03374b701ea0474f7e4306b7300975cc9f441c01",
-        "hash": "4260021280",
+        "commit": "5804da8ad78f89c005ae7d450044eb44b0270447",
+        "hash": "4143062257",
         "path": "outstatic/content/pinturas/as-raparigas-da-torre.mdx"
       },
       "artwork": "Eder Trop",
