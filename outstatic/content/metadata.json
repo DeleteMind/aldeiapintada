@@ -1,6 +1,6 @@
 {
-  "commit": "64060ff63a072be491e127f95385ebff38bce7e0",
-  "generated": "2026-03-23T14:38:02.242Z",
+  "commit": "b728db03364669e5abdec52046534b797465a88f",
+  "generated": "2026-03-23T16:47:01.826Z",
   "metadata": [
     {
       "__outstatic": {
@@ -170,6 +170,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "As Resineiras"
+    },
+    {
+      "__outstatic": {
+        "commit": "b728db03364669e5abdec52046534b797465a88f",
+        "hash": "1958086134",
+        "path": "outstatic/content/pinturas/ninguem-tem-queixa.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Centro, Torre",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2021-04-27T23:00:00.000Z",
+      "slug": "ninguem-tem-queixa",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Ninguém tem queixa"
     }
   ]
 }
