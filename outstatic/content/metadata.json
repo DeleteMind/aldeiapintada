@@ -1,6 +1,6 @@
 {
-  "commit": "98acd0d115d31e02439be0ec6da0f04f9ab56b9a",
-  "generated": "2026-03-25T15:52:36.447Z",
+  "commit": "f85152707066e928e58c9a532ef91f003be1f85c",
+  "generated": "2026-03-25T15:53:20.669Z",
   "metadata": [
     {
       "__outstatic": {
@@ -441,8 +441,8 @@
     },
     {
       "__outstatic": {
-        "commit": "98acd0d115d31e02439be0ec6da0f04f9ab56b9a",
-        "hash": "416906942",
+        "commit": "f85152707066e928e58c9a532ef91f003be1f85c",
+        "hash": "144202666",
         "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mantraste.mdx"
       },
       "artwork": "Mantraste",
