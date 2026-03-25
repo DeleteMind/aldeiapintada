@@ -1,6 +1,6 @@
 {
-  "commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
-  "generated": "2026-03-25T16:03:26.009Z",
+  "commit": "e1680fae0c6d96be9567b0a12d43b512c35c46a0",
+  "generated": "2026-03-25T16:13:48.528Z",
   "media": [
     {
       "__outstatic": {
@@ -1298,6 +1298,17 @@
       "alt": "",
       "filename": "juntinhos03-IxMj.jpg",
       "publishedAt": "2026-03-23T12:09:47.896Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "e1680fae0c6d96be9567b0a12d43b512c35c46a0",
+        "hash": "724538182",
+        "path": "public/images/musica-logo-laranja-QwNT.png"
+      },
+      "alt": "",
+      "filename": "musica-logo-laranja-QwNT.png",
+      "publishedAt": "2026-03-25T16:13:48.528Z",
       "type": "image"
     },
     {
