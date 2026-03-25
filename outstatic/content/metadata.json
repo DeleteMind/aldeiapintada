@@ -1,6 +1,6 @@
 {
-  "commit": "2e56e83e13589cfc1f25e7f6cfd075c7d7203fca",
-  "generated": "2026-03-25T16:00:05.435Z",
+  "commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
+  "generated": "2026-03-25T16:03:26.009Z",
   "metadata": [
     {
       "__outstatic": {
@@ -484,6 +484,29 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Olha o Balão - Aldeia da Ribeira"
+    },
+    {
+      "__outstatic": {
+        "commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
+        "hash": "925313082",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-frio.mdx"
+      },
+      "artwork": "FRIO",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "outubro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "FRIO",
+      "publishedAt": "2024-10-22T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-frio",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - FRIO"
     }
   ]
 }
