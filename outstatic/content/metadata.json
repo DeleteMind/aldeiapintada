@@ -1,6 +1,6 @@
 {
-  "commit": "020b4852656087b7023d193a0b7e9fd99f92d67a",
-  "generated": "2026-03-25T15:59:30.506Z",
+  "commit": "de756eebba7fd378c264bdb2b9afacf8a999b79e",
+  "generated": "2026-03-25T15:59:47.650Z",
   "metadata": [
     {
       "__outstatic": {
@@ -351,28 +351,6 @@
     },
     {
       "__outstatic": {
-        "commit": "11c8aaaeb53a56d5bf3e97238918c0d926ca8191",
-        "hash": "2912204678",
-        "path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
-      },
-      "artwork": "Aldeia Pintada",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "agosto, 2024",
-      "local": "Escola Básica e Secundária da Batalha, Batalha ",
-      "parceiros": "Agrupamento de Escolas da Batalha, Clube Ubuntu AEB",
-      "producao": "Aldeia Pintada",
-      "publishedAt": "2024-03-14T00:00:00.000Z",
-      "slug": "bem-vindos-ubuntu",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "Bem-vindos - UBUNTU"
-    },
-    {
-      "__outstatic": {
         "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
         "hash": "1416535403",
         "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
@@ -484,6 +462,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural, Colagem",
       "title": "Túnel da Torre"
+    },
+    {
+      "__outstatic": {
+        "commit": "de756eebba7fd378c264bdb2b9afacf8a999b79e",
+        "hash": "1655230931",
+        "path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2024",
+      "local": "Escola Básica e Secundária da Batalha, Batalha ",
+      "parceiros": "Agrupamento de Escolas da Batalha, Clube Ubuntu AEB",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2024-03-14T00:00:00.000Z",
+      "slug": "bem-vindos-ubuntu",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Bem-vindos - UBUNTU"
     }
   ]
 }
