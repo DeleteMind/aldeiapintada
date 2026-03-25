@@ -1,6 +1,6 @@
 {
-  "commit": "179dcb1f5396803027716cd1c6ea80da2411d5b1",
-  "generated": "2026-03-25T15:58:40.649Z",
+  "commit": "57fb9a21633a5516ba6efda2a2d03856baeeb52d",
+  "generated": "2026-03-25T15:59:02.756Z",
   "metadata": [
     {
       "__outstatic": {
@@ -418,29 +418,6 @@
     },
     {
       "__outstatic": {
-        "commit": "706ddf1661ef6f451f20ec06fd193c6c5c9b0db3",
-        "hash": "1782039407",
-        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-jaime-ferraz.mdx"
-      },
-      "artwork": "Jaime Ferraz",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "setembro, 2024",
-      "fotografia": "Diogo Monteiro",
-      "local": "Largo do Pinheiro, Torre",
-      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-      "producao": "Jaime Ferraz",
-      "publishedAt": "2024-09-08T23:00:00.000Z",
-      "slug": "aldeia-pintada-por-outros-jaime-ferraz",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "Aldeia Pintada Por Outros - Jaime Ferraz"
-    },
-    {
-      "__outstatic": {
         "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
         "hash": "1416535403",
         "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
@@ -484,6 +461,29 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural, Reboco",
       "title": "Aldeia Pintada Por Outros - Mantraste"
+    },
+    {
+      "__outstatic": {
+        "commit": "57fb9a21633a5516ba6efda2a2d03856baeeb52d",
+        "hash": "2977632816",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-jaime-ferraz.mdx"
+      },
+      "artwork": "Jaime Ferraz",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Largo do Pinheiro, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "Jaime Ferraz",
+      "publishedAt": "2024-09-08T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-jaime-ferraz",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - Jaime Ferraz"
     }
   ]
 }
