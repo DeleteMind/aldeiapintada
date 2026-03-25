@@ -1,37 +1,7 @@
 {
-  "commit": "85d56a6e0351465f145a4832747873cc11ca8fef",
-  "generated": "2026-03-25T16:05:17.758Z",
+  "commit": "f535c03c626415e5b513563b81d036ffe39f6262",
+  "generated": "2026-03-25T16:06:16.291Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "150a032093d67175a3260d6f73a72e2e6798cd81",
-        "hash": "1345137659",
-        "path": "outstatic/content/programas/serracao-da-velha.mdx"
-      },
-      "archive": false,
-      "author": {
-        "name": "Tino Marques",
-        "picture": ""
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T16:05:08.621Z",
-      "slug": "serracao-da-velha",
-      "status": "draft",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "SERRAÇÃO DA VELHA",
-      "type": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ]
-    },
     {
       "__outstatic": {
         "commit": "a8a1605969bfb48b77d8423895db895ea6730c8d",
@@ -478,6 +448,35 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Aldeia Pintada Por Outros - FRIO"
+    },
+    {
+      "__outstatic": {
+        "commit": "f535c03c626415e5b513563b81d036ffe39f6262",
+        "hash": "3479154973",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "archive": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "slug": "serracao-da-velha",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "SERRAÇÃO DA VELHA",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
     }
   ]
 }
