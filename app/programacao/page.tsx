@@ -20,7 +20,6 @@ async function getData() {
 }
 export default async function Programacao() {
 	const posts = (await getData()) as unknown as ProgramacaoPost[];
-	console.log('posts', posts);
 
 	return (
 		<>
@@ -34,8 +33,8 @@ export default async function Programacao() {
 					{posts
 						.filter((p) => !p.archive)
 						.filter((p) => p.tags?.some((t) => t.value === 'evento'))
-						.map((p, i) => (
-							<PostCard key={i} post={p} collection='programas' />
+						.map((p) => (
+							<PostCard key={p.slug} post={p} collection='programas' />
 						))}
 				</section>
 
@@ -46,8 +45,8 @@ export default async function Programacao() {
 					{posts
 						.filter((p) => !p.archive)
 						.filter((p) => p.tags?.some((t) => t.value === 'oficina'))
-						.map((p, i) => (
-							<PostCard key={i} post={p} collection='programas' />
+						.map((p) => (
+							<PostCard key={p.slug} post={p} collection='programas' />
 						))}
 				</section>
 			</main>

@@ -13,6 +13,12 @@
 			"dataType": "boolean",
 			"title": "archive"
 		},
+		"aAcontecer": {
+			"required": false,
+			"fieldType": "Boolean",
+			"dataType": "boolean",
+			"title": "aAcontecer"
+		},
 		"tags": {
 			"fieldType": "Tags",
 			"dataType": "array",

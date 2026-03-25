@@ -16,23 +16,18 @@ export default async function ProgramacaoPost({
 		'slug',
 		'author',
 		'content',
-		'coverImage',
 		'archive',
 		'tags',
 	]) as unknown as ProgramacaoPostType;
-	console.log('post', post);
 
 	const content = await markdownToHtml(post?.content || '');
 
 	return (
 		<>
-			<Header src={post?.coverImage} objectPosition={60} />
+			<Header />
 
 			<article
-				className={twMerge(
-					'w-full p-6 flex flex-col gap-6 max-w-5xl mx-auto',
-					!post?.coverImage && 'pt-16',
-				)}
+				className={twMerge('w-full p-6 pt-16 flex flex-col gap-6 max-w-5xl mx-auto')}
 			>
 				<Text size='5xl' weight='bold' color='primary'>
 					{post?.title}

@@ -15,19 +15,17 @@ export default async function ArquivoPost({
 		'slug',
 		'author',
 		'content',
-		'coverImage',
 		'archive',
 		'tags',
 	]) as unknown as ProgramacaoPost;
-	console.log('post', post);
 
 	const content = await markdownToHtml(post?.content || '');
 
 	return (
 		<>
-			<Header src={post?.coverImage} objectPosition={60} />
+			<Header />
 
-			<article className='w-full p-6 flex flex-col gap-6'>
+			<article className='w-full p-6 pt-16 flex flex-col gap-6 max-w-5xl mx-auto'>
 				<Text size='5xl' weight='bold' color='primary'>
 					{post?.title}
 				</Text>

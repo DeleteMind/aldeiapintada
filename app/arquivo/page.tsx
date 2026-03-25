@@ -28,8 +28,8 @@ export default async function Arquivo() {
 				<section className='flex flex-col gap-4 w-full'>
 					{posts
 						.filter((p) => p.archive === true)
-						.map((p, i) => (
-							<PostCard key={i} post={p} collection='programas' showDate='full' />
+						.map((p) => (
+							<PostCard key={p.slug} post={p} collection='programas' showDate='full' />
 						))}
 				</section>
 			</main>

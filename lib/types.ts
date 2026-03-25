@@ -2,6 +2,7 @@ import type { OstDocument } from 'outstatic';
 
 export type ProgramacaoPost = OstDocument & {
 	archive: boolean;
+	aAcontecer?: boolean;
 	tags: { label: string; value: string }[];
 };
 
