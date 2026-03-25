@@ -1,6 +1,6 @@
 {
-  "commit": "9d561bb6196de4e088ce68000ccf2809ca17d3af",
-  "generated": "2026-03-25T15:06:41.653Z",
+  "commit": "332fc1e11aaecff28ab44f3f26216bb144a60302",
+  "generated": "2026-03-25T15:07:28.588Z",
   "metadata": [
     {
       "__outstatic": {
@@ -306,8 +306,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9d561bb6196de4e088ce68000ccf2809ca17d3af",
-        "hash": "888848270",
+        "commit": "332fc1e11aaecff28ab44f3f26216bb144a60302",
+        "hash": "2707401988",
         "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
       },
       "artwork": "Vários artistas",
@@ -320,7 +320,7 @@
       "fotografia": "Diogo Monteiro",
       "local": "Estrada de Fátima, Torre",
       "producao": "Vários artistas",
-      "publishedAt": "2026-03-25T15:01:48.337Z",
+      "publishedAt": "2023-03-01T00:00:00.000Z",
       "slug": "tunel-da-torre",
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural, Colagem",
