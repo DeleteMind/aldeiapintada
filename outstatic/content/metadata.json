@@ -1,6 +1,6 @@
 {
-  "commit": "1163815c6988e63119917ac581f69683410b0e15",
-  "generated": "2026-03-23T22:15:03.885Z",
+  "commit": "00333a545b420505a8a9bac0e059f3af8650f843",
+  "generated": "2026-03-25T15:01:16.008Z",
   "metadata": [
     {
       "__outstatic": {
@@ -281,6 +281,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "As raparigas da Torre por Eder Trop"
+    },
+    {
+      "__outstatic": {
+        "commit": "00333a545b420505a8a9bac0e059f3af8650f843",
+        "hash": "2610677772",
+        "path": "outstatic/content/pinturas/santa-iria.mdx"
+      },
+      "artwork": "Aldeia Pintada, Eva Vieira",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2022-09-14T23:00:00.000Z",
+      "slug": "santa-iria",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Santa Iria"
     }
   ]
 }
