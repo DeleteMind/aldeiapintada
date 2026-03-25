@@ -1,6 +1,6 @@
 {
-  "commit": "b88bfe57f9e3493d83199f7917a9ce8bb40bc786",
-  "generated": "2026-03-25T15:59:18.189Z",
+  "commit": "020b4852656087b7023d193a0b7e9fd99f92d67a",
+  "generated": "2026-03-25T15:59:30.506Z",
   "metadata": [
     {
       "__outstatic": {
@@ -351,28 +351,6 @@
     },
     {
       "__outstatic": {
-        "commit": "34d7e5660b27af29f708fa7923b1255cf5790436",
-        "hash": "976556871",
-        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
-      },
-      "artwork": "Vários artistas",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "abril, 2023",
-      "fotografia": "Diogo Monteiro",
-      "local": "Estrada de Fátima, Torre",
-      "producao": "Vários artistas",
-      "publishedAt": "2023-03-01T00:00:00.000Z",
-      "slug": "tunel-da-torre",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural, Colagem",
-      "title": "Túnel da Torre"
-    },
-    {
-      "__outstatic": {
         "commit": "11c8aaaeb53a56d5bf3e97238918c0d926ca8191",
         "hash": "2912204678",
         "path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
@@ -484,6 +462,28 @@
       "status": "published",
       "tipoDeIntervencao": "Graffiti",
       "title": "Aldeia Pintada Por Outros - HERA"
+    },
+    {
+      "__outstatic": {
+        "commit": "020b4852656087b7023d193a0b7e9fd99f92d67a",
+        "hash": "3736570106",
+        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
+      },
+      "artwork": "Vários artistas",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de Fátima, Torre",
+      "producao": "Vários artistas",
+      "publishedAt": "2023-03-01T00:00:00.000Z",
+      "slug": "tunel-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Colagem",
+      "title": "Túnel da Torre"
     }
   ]
 }
