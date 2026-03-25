@@ -1,6 +1,6 @@
 {
-  "commit": "00333a545b420505a8a9bac0e059f3af8650f843",
-  "generated": "2026-03-25T15:01:16.008Z",
+  "commit": "9d561bb6196de4e088ce68000ccf2809ca17d3af",
+  "generated": "2026-03-25T15:06:41.653Z",
   "metadata": [
     {
       "__outstatic": {
@@ -303,6 +303,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Santa Iria"
+    },
+    {
+      "__outstatic": {
+        "commit": "9d561bb6196de4e088ce68000ccf2809ca17d3af",
+        "hash": "888848270",
+        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
+      },
+      "artwork": "Vários artistas",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de Fátima, Torre",
+      "producao": "Vários artistas",
+      "publishedAt": "2026-03-25T15:01:48.337Z",
+      "slug": "tunel-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Colagem",
+      "title": "Túnel da Torre"
     }
   ]
 }
