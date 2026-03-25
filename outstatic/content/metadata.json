@@ -1,6 +1,6 @@
 {
-  "commit": "34d7e5660b27af29f708fa7923b1255cf5790436",
-  "generated": "2026-03-25T15:17:47.112Z",
+  "commit": "11c8aaaeb53a56d5bf3e97238918c0d926ca8191",
+  "generated": "2026-03-25T15:36:16.699Z",
   "metadata": [
     {
       "__outstatic": {
@@ -370,6 +370,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural, Colagem",
       "title": "Túnel da Torre"
+    },
+    {
+      "__outstatic": {
+        "commit": "11c8aaaeb53a56d5bf3e97238918c0d926ca8191",
+        "hash": "2912204678",
+        "path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2024",
+      "local": "Escola Básica e Secundária da Batalha, Batalha ",
+      "parceiros": "Agrupamento de Escolas da Batalha, Clube Ubuntu AEB",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2024-03-14T00:00:00.000Z",
+      "slug": "bem-vindos-ubuntu",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Bem-vindos - UBUNTU"
     }
   ]
 }
