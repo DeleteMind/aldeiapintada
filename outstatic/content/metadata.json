@@ -1,6 +1,6 @@
 {
-  "commit": "706ddf1661ef6f451f20ec06fd193c6c5c9b0db3",
-  "generated": "2026-03-25T15:46:51.531Z",
+  "commit": "98acd0d115d31e02439be0ec6da0f04f9ab56b9a",
+  "generated": "2026-03-25T15:52:36.447Z",
   "metadata": [
     {
       "__outstatic": {
@@ -438,6 +438,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Aldeia Pintada Por Outros - Jaime Ferraz"
+    },
+    {
+      "__outstatic": {
+        "commit": "98acd0d115d31e02439be0ec6da0f04f9ab56b9a",
+        "hash": "416906942",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mantraste.mdx"
+      },
+      "artwork": "Mantraste",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Costa Santo, Torre",
+      "producao": "Mantraste",
+      "publishedAt": "2024-09-24T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-mantraste",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Reboco",
+      "title": "Aldeia Pintada Por Outros - Mantraste"
     }
   ]
 }
