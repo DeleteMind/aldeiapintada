@@ -1,6 +1,6 @@
 {
-  "commit": "f535c03c626415e5b513563b81d036ffe39f6262",
-  "generated": "2026-03-25T16:06:16.291Z",
+  "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+  "generated": "2026-03-25T16:17:20.624Z",
   "metadata": [
     {
       "__outstatic": {
@@ -451,8 +451,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f535c03c626415e5b513563b81d036ffe39f6262",
-        "hash": "3479154973",
+        "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+        "hash": "2068564356",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
       "archive": false,
@@ -462,6 +462,7 @@
       },
       "collection": "programas",
       "coverImage": "",
+      "publishedAt": "2026-03-25T16:15:51.245Z",
       "slug": "serracao-da-velha",
       "status": "published",
       "tags": [

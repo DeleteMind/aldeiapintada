@@ -1,6 +1,6 @@
 {
-  "commit": "e1680fae0c6d96be9567b0a12d43b512c35c46a0",
-  "generated": "2026-03-25T16:13:48.528Z",
+  "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+  "generated": "2026-03-25T16:17:20.624Z",
   "media": [
     {
       "__outstatic": {
@@ -202,6 +202,28 @@
     },
     {
       "__outstatic": {
+        "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+        "hash": "585371897",
+        "path": "public/images/2022-czOD.jpg"
+      },
+      "alt": "",
+      "filename": "2022-czOD.jpg",
+      "publishedAt": "2026-03-25T16:17:20.608Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+        "hash": "88209805",
+        "path": "public/images/2024-cartaz-serra--o-M1OD.jpg"
+      },
+      "alt": "",
+      "filename": "2024-cartaz-serra--o-M1OD.jpg",
+      "publishedAt": "2026-03-25T16:17:20.622Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
         "commit": "",
         "hash": "0",
         "path": "public/images/202408017_Proposta 04.jpg"
@@ -209,6 +231,17 @@
       "alt": "",
       "filename": "202408017_Proposta 04.jpg",
       "publishedAt": "2025-11-06T16:07:56.795Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
+        "hash": "2472481187",
+        "path": "public/images/2025-cartaz-serra--o-QxNz.jpg"
+      },
+      "alt": "",
+      "filename": "2025-cartaz-serra--o-QxNz.jpg",
+      "publishedAt": "2026-03-25T16:17:20.607Z",
       "type": "image"
     },
     {
