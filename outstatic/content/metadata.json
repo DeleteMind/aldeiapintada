@@ -1,6 +1,6 @@
 {
-  "commit": "57fb9a21633a5516ba6efda2a2d03856baeeb52d",
-  "generated": "2026-03-25T15:59:02.756Z",
+  "commit": "b88bfe57f9e3493d83199f7917a9ce8bb40bc786",
+  "generated": "2026-03-25T15:59:18.189Z",
   "metadata": [
     {
       "__outstatic": {
@@ -395,29 +395,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f82d50d01c75bfac57d4b0fe11d5c2921decd1dc",
-        "hash": "2620330173",
-        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-hera.mdx"
-      },
-      "artwork": "HERA",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "setembro, 2024",
-      "fotografia": "Diogo Monteiro",
-      "local": "Rua do Centro, Torre",
-      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-      "producao": "HERA",
-      "publishedAt": "2024-09-03T23:00:00.000Z",
-      "slug": "aldeia-pintada-por-outros-hera",
-      "status": "published",
-      "tipoDeIntervencao": "Graffiti",
-      "title": "Aldeia Pintada Por Outros - HERA"
-    },
-    {
-      "__outstatic": {
         "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
         "hash": "1416535403",
         "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
@@ -484,6 +461,29 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Aldeia Pintada Por Outros - Jaime Ferraz"
+    },
+    {
+      "__outstatic": {
+        "commit": "b88bfe57f9e3493d83199f7917a9ce8bb40bc786",
+        "hash": "532217316",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-hera.mdx"
+      },
+      "artwork": "HERA",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Centro, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "HERA",
+      "publishedAt": "2024-09-03T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-hera",
+      "status": "published",
+      "tipoDeIntervencao": "Graffiti",
+      "title": "Aldeia Pintada Por Outros - HERA"
     }
   ]
 }
