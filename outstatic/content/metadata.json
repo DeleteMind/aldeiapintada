@@ -1,36 +1,7 @@
 {
-  "commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
-  "generated": "2026-03-25T16:03:26.009Z",
+  "commit": "85d56a6e0351465f145a4832747873cc11ca8fef",
+  "generated": "2026-03-25T16:05:17.758Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1ac07185dda222cd3ad06cc127c943dbe8aca322",
-        "hash": "2245811133",
-        "path": "outstatic/content/programas/oficina.mdx"
-      },
-      "author": {
-        "name": "Tino Marques",
-        "picture": "https://avatars.githubusercontent.com/u/59707674?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2025-11-06T18:12:37.111Z",
-      "slug": "oficina",
-      "status": "draft",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "oficina 1",
-      "type": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ]
-    },
     {
       "__outstatic": {
         "commit": "150a032093d67175a3260d6f73a72e2e6798cd81",
