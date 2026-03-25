@@ -1,6 +1,6 @@
 {
-  "commit": "ddb4e6fb1ca9ef8dc6b0709bfb5385c5650096cd",
-  "generated": "2026-03-25T16:18:56.513Z",
+  "commit": "7be23cb20c96f93bb67eb60de619d7402b76b3b2",
+  "generated": "2026-03-25T16:20:07.647Z",
   "metadata": [
     {
       "__outstatic": {
@@ -451,36 +451,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bdaaffbfb6b6fde735e991cb0c68bc084e60ec73",
-        "hash": "2068564356",
-        "path": "outstatic/content/programas/serracao-da-velha.mdx"
-      },
-      "archive": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-03-25T16:15:51.245Z",
-      "slug": "serracao-da-velha",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "SERRAÇÃO DA VELHA",
-      "type": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ]
-    },
-    {
-      "__outstatic": {
         "commit": "ddb4e6fb1ca9ef8dc6b0709bfb5385c5650096cd",
         "hash": "3785680034",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
@@ -501,6 +471,36 @@
         }
       ],
       "title": "Música na Eira"
+    },
+    {
+      "__outstatic": {
+        "commit": "7be23cb20c96f93bb67eb60de619d7402b76b3b2",
+        "hash": "841106040",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "archive": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-03-25T16:15:51.245Z",
+      "slug": "serracao-da-velha",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Serração da Velha",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
     }
   ]
 }
