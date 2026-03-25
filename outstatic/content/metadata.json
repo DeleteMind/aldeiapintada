@@ -1,6 +1,6 @@
 {
-  "commit": "4d9eeeb0b3a844b906064878239ed019d12e8ada",
-  "generated": "2026-03-25T15:16:54.701Z",
+  "commit": "b4c801453db82f0c6020252f1840c88ef4e73c31",
+  "generated": "2026-03-25T15:17:11.633Z",
   "metadata": [
     {
       "__outstatic": {
@@ -306,28 +306,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d2af81b91a4b165e8b08eca125ede290ecd6077d",
-        "hash": "1095048149",
-        "path": "outstatic/content/pinturas/paragem.mdx"
-      },
-      "artwork": "Aldeia Pintada",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "abril, 2023",
-      "fotografia": "Diogo Monteiro",
-      "local": "Rua Maria Cândida, Torre",
-      "producao": "Aldeia Pintada",
-      "publishedAt": "2023-03-23T00:00:00.000Z",
-      "slug": "paragem",
-      "status": "draft",
-      "tipoDeIntervencao": "Pintura Mural",
-      "title": "Paragem "
-    },
-    {
-      "__outstatic": {
         "commit": "b96ff95220304bc3cf87fae823792605968299c4",
         "hash": "976556871",
         "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
@@ -370,6 +348,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Olha o Balão - Aldeia da Ribeira"
+    },
+    {
+      "__outstatic": {
+        "commit": "b4c801453db82f0c6020252f1840c88ef4e73c31",
+        "hash": "3414906007",
+        "path": "outstatic/content/pinturas/paragem.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Maria Cândida, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2023-03-23T00:00:00.000Z",
+      "slug": "paragem",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Paragem "
     }
   ]
 }
