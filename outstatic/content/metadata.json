@@ -1,6 +1,6 @@
 {
-  "commit": "b4c801453db82f0c6020252f1840c88ef4e73c31",
-  "generated": "2026-03-25T15:17:11.633Z",
+  "commit": "34d7e5660b27af29f708fa7923b1255cf5790436",
+  "generated": "2026-03-25T15:17:47.112Z",
   "metadata": [
     {
       "__outstatic": {
@@ -306,28 +306,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b96ff95220304bc3cf87fae823792605968299c4",
-        "hash": "976556871",
-        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
-      },
-      "artwork": "Vários artistas",
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "pinturas",
-      "data": "abril, 2023",
-      "fotografia": "Diogo Monteiro",
-      "local": "Estrada de Fátima, Torre",
-      "producao": "Vários artistas",
-      "publishedAt": "2023-03-01T00:00:00.000Z",
-      "slug": "tunel-da-torre",
-      "status": "published",
-      "tipoDeIntervencao": "Pintura Mural, Colagem",
-      "title": "Túnel da Torre"
-    },
-    {
-      "__outstatic": {
         "commit": "4d9eeeb0b3a844b906064878239ed019d12e8ada",
         "hash": "2859305321",
         "path": "outstatic/content/pinturas/olha-o-balao-aldeia-da-ribeira.mdx"
@@ -370,6 +348,28 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Paragem "
+    },
+    {
+      "__outstatic": {
+        "commit": "34d7e5660b27af29f708fa7923b1255cf5790436",
+        "hash": "976556871",
+        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
+      },
+      "artwork": "Vários artistas",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de Fátima, Torre",
+      "producao": "Vários artistas",
+      "publishedAt": "2023-03-01T00:00:00.000Z",
+      "slug": "tunel-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Colagem",
+      "title": "Túnel da Torre"
     }
   ]
 }
