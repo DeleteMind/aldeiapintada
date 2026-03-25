@@ -1,6 +1,6 @@
 {
-  "commit": "f85152707066e928e58c9a532ef91f003be1f85c",
-  "generated": "2026-03-25T15:53:20.669Z",
+  "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
+  "generated": "2026-03-25T15:58:22.775Z",
   "metadata": [
     {
       "__outstatic": {
@@ -460,6 +460,29 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural, Reboco",
       "title": "Aldeia Pintada Por Outros - Mantraste"
+    },
+    {
+      "__outstatic": {
+        "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
+        "hash": "1416535403",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
+      },
+      "artwork": "Mariana Malhão",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Largo da Lagoa, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "Mariana Malhão",
+      "publishedAt": "2024-09-30T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-mariana-malhao",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - Mariana Malhão"
     }
   ]
 }
