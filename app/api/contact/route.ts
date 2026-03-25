@@ -42,10 +42,7 @@ export async function POST(request: NextRequest) {
 
 		if (error) {
 			console.error('Resend error:', error);
-			return NextResponse.json(
-				{ error: 'Erro ao enviar email' },
-				{ status: 500 },
-			);
+			return NextResponse.json({ error: 'Erro ao enviar email' }, { status: 500 });
 		}
 
 		return NextResponse.json(
@@ -54,9 +51,6 @@ export async function POST(request: NextRequest) {
 		);
 	} catch (error) {
 		console.error('Server error:', error);
-		return NextResponse.json(
-			{ error: 'Erro interno do servidor' },
-			{ status: 500 },
-		);
+		return NextResponse.json({ error: 'Erro interno do servidor' }, { status: 500 });
 	}
 }

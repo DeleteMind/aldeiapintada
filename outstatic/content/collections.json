@@ -1,14 +1,14 @@
 [
-  {
-    "title": "programas",
-    "slug": "programas",
-    "path": "outstatic/content/programas",
-    "children": []
-  },
-  {
-    "title": "pinturas",
-    "slug": "pinturas",
-    "path": "outstatic/content/pinturas",
-    "children": []
-  }
+	{
+		"title": "programas",
+		"slug": "programas",
+		"path": "outstatic/content/programas",
+		"children": []
+	},
+	{
+		"title": "pinturas",
+		"slug": "pinturas",
+		"path": "outstatic/content/pinturas",
+		"children": []
+	}
 ]

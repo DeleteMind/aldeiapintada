@@ -50,9 +50,7 @@ export default function Contactos() {
 					mensagem: '',
 				});
 			} else {
-				setSubmitMessage(
-					data.error || 'Erro ao enviar mensagem. Tente novamente.',
-				);
+				setSubmitMessage(data.error || 'Erro ao enviar mensagem. Tente novamente.');
 			}
 		} catch {
 			setSubmitMessage(
@@ -188,9 +186,7 @@ export default function Contactos() {
 							MORADA
 						</Text>
 						<Text size='lg'>Sede Aldeia Pintada:</Text>
-						<Text size='lg'>
-							Estrada de São João, Nº25 C, Escola Primária da Torre
-						</Text>
+						<Text size='lg'>Estrada de São João, Nº25 C, Escola Primária da Torre</Text>
 						<Text size='lg'>2440-210 Reguengo do Fetal</Text>
 						<Text size='lg'>Portugal</Text>
 					</div>

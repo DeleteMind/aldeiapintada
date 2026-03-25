@@ -1,5 +1,5 @@
 {
-  "mdExtension": "mdx",
-  "publicMediaPath": "images/",
-  "repoMediaPath": "public/images/"
+	"mdExtension": "mdx",
+	"publicMediaPath": "images/",
+	"repoMediaPath": "public/images/"
 }

@@ -36,12 +36,8 @@ export function Text({
 				size === '4xl' && 'text-4xl',
 				size === '5xl' && 'text-5xl',
 				// Color
-				color === 'primary' && [
-					invertColor ? 'text-neutral-50' : 'text-neutral-950',
-				],
-				color === 'secondary' && [
-					invertColor ? 'text-neutral-300' : 'text-neutral-700',
-				],
+				color === 'primary' && [invertColor ? 'text-neutral-50' : 'text-neutral-950'],
+				color === 'secondary' && [invertColor ? 'text-neutral-300' : 'text-neutral-700'],
 				color === 'accent' && [invertColor ? 'text-teal-500' : 'text-teal-500'],
 				// Weight
 				weight === 'normal' && 'font-normal',

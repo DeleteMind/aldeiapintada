@@ -1,41 +1,41 @@
 {
-  "title": "pinturas",
-  "type": "object",
-  "properties": {
-    "tipoDeIntervencao": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "tipoDeIntervencao"
-    },
-    "local": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "local"
-    },
-    "data": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "data"
-    },
-    "artwork": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "artwork"
-    },
-    "producao": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "producao"
-    },
-    "fotografia": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "fotografia"
-    },
-    "parceiros": {
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "parceiros"
-    }
-  }
+	"title": "pinturas",
+	"type": "object",
+	"properties": {
+		"tipoDeIntervencao": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "tipoDeIntervencao"
+		},
+		"local": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "local"
+		},
+		"data": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "data"
+		},
+		"artwork": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "artwork"
+		},
+		"producao": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "producao"
+		},
+		"fotografia": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "fotografia"
+		},
+		"parceiros": {
+			"fieldType": "String",
+			"dataType": "string",
+			"title": "parceiros"
+		}
+	}
 }
