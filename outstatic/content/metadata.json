@@ -1,6 +1,6 @@
 {
-  "commit": "8ce4e054fab2a7f1732d49102606b1aad55f8f79",
-  "generated": "2026-03-25T16:21:37.231Z",
+  "commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
+  "generated": "2026-03-25T16:23:25.460Z",
   "metadata": [
     {
       "__outstatic": {
@@ -523,6 +523,28 @@
         }
       ],
       "title": "Noite das Bruxas"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
+        "hash": "4068521602",
+        "path": "outstatic/content/programas/2022.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-03-25T16:22:13.378Z",
+      "slug": "2022",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "2022"
     }
   ]
 }
