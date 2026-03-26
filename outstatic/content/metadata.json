@@ -1,6 +1,6 @@
 {
-  "commit": "d19412acef2ec538ec8ee2f869ddd954195fc2b7",
-  "generated": "2026-03-26T12:27:26.364Z",
+  "commit": "cf464ee02cf6225ba3b60e95fbdc12268e9e969f",
+  "generated": "2026-03-26T12:27:48.868Z",
   "metadata": [
     {
       "__outstatic": {
@@ -495,11 +495,35 @@
     },
     {
       "__outstatic": {
-        "commit": "b2010490d29b58ab67338fd8bf8629c9925ed340",
-        "hash": "4011304575",
+        "commit": "d19412acef2ec538ec8ee2f869ddd954195fc2b7",
+        "hash": "1980518220",
+        "path": "outstatic/content/programas/musica-na-eira.mdx"
+      },
+      "aAcontecer": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-03-25T16:17:32.493Z",
+      "slug": "musica-na-eira",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Música na Eira"
+    },
+    {
+      "__outstatic": {
+        "commit": "cf464ee02cf6225ba3b60e95fbdc12268e9e969f",
+        "hash": "2635698044",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
       },
-      "aAcontecer": true,
+      "aAcontecer": false,
       "archive": false,
       "author": {
         "name": "",
@@ -523,30 +547,6 @@
           "value": "evento"
         }
       ]
-    },
-    {
-      "__outstatic": {
-        "commit": "d19412acef2ec538ec8ee2f869ddd954195fc2b7",
-        "hash": "1980518220",
-        "path": "outstatic/content/programas/musica-na-eira.mdx"
-      },
-      "aAcontecer": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-03-25T16:17:32.493Z",
-      "slug": "musica-na-eira",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "Música na Eira"
     }
   ]
 }
