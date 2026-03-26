@@ -1,550 +1,551 @@
 {
-	"commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
-	"generated": "2026-03-25T16:23:25.460Z",
-	"metadata": [
-		{
-			"__outstatic": {
-				"commit": "a8a1605969bfb48b77d8423895db895ea6730c8d",
-				"hash": "3702608575",
-				"path": "outstatic/content/pinturas/coracao-pratos-na-cantareira.mdx"
-			},
-			"artwork": "Aldeia Pintada",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "janeiro, 2021",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua do Centro, Torre",
-			"producao": "Aldeia Pintada, Habitantes locais",
-			"publishedAt": "2021-01-08T00:00:00.000Z",
-			"slug": "coracao-pratos-na-cantareira",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Coração (Pratos na Cantareira)"
-		},
-		{
-			"__outstatic": {
-				"commit": "cef4f9f250d78a718ae87077563a5c3cf28a62bc",
-				"hash": "1523337334",
-				"path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "outubro, 2020",
-			"fotografia": "Diogo Monteiro",
-			"local": "Estrada de São João, Torre",
-			"producao": "Aldeia Pintada, Habitantes locais",
-			"publishedAt": "2020-03-18T00:00:00.000Z",
-			"slug": "o-lugarinho-da-torre",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "O Lugarinho da Torre"
-		},
-		{
-			"__outstatic": {
-				"commit": "e82c8a3f0abb28de2860771592bdf1f43354a1a6",
-				"hash": "749618589",
-				"path": "outstatic/content/pinturas/tunel-do-chocalho.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "fevereiro, 2021",
-			"fotografia": "Diogo Monteiro",
-			"local": "Estrada de Fátima, Torre",
-			"producao": "Aldeia Pintada + habitantes locais",
-			"publishedAt": "2021-02-24T00:00:00.000Z",
-			"slug": "tunel-do-chocalho",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Túnel do Chocalho"
-		},
-		{
-			"__outstatic": {
-				"commit": "64060ff63a072be491e127f95385ebff38bce7e0",
-				"hash": "2212785094",
-				"path": "outstatic/content/pinturas/as-resineiras.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "março, 2021",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua Soares da Costa, Torre",
-			"producao": "Aldeia Pintada, Habitantes locais",
-			"publishedAt": "2021-03-31T23:00:00.000Z",
-			"slug": "as-resineiras",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "As Resineiras"
-		},
-		{
-			"__outstatic": {
-				"commit": "b728db03364669e5abdec52046534b797465a88f",
-				"hash": "1958086134",
-				"path": "outstatic/content/pinturas/ninguem-tem-queixa.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "abril, 2021",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua do Centro, Torre",
-			"producao": "Aldeia Pintada + habitantes locais",
-			"publishedAt": "2021-04-27T23:00:00.000Z",
-			"slug": "ninguem-tem-queixa",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Ninguém tem queixa"
-		},
-		{
-			"__outstatic": {
-				"commit": "04255d0f1d6e0240b3084a4753590e7035eca571",
-				"hash": "3416756190",
-				"path": "outstatic/content/pinturas/as-cabras-do-ze-vieira.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "junho, 2021",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua do Bom Pastor, Torre",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2021-07-20T23:00:00.000Z",
-			"slug": "as-cabras-do-ze-vieira",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "As cabras do Zé Vieira"
-		},
-		{
-			"__outstatic": {
-				"commit": "9c905f82bf6d8c1d225f73a4bdb6bfe1127ef777",
-				"hash": "1061721348",
-				"path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "novembro, 2020",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua do Alecrim, Torre",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2020-03-30T23:00:00.000Z",
-			"slug": "juntinhos-a-passear",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Juntinhos a passear"
-		},
-		{
-			"__outstatic": {
-				"commit": "692d7be909d8609e79fecb3b217beb19eb4d12c9",
-				"hash": "2489279065",
-				"path": "outstatic/content/pinturas/a-escola-composicao.mdx"
-			},
-			"artwork": "Aldeia Pintada, Sandra Pereira",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "janeiro, 2022",
-			"fotografia": "Diogo Monteiro",
-			"local": "Estrada de São João, Torre",
-			"parceiros": "Câmara Municipal da Batalha",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2022-01-04T00:00:00.000Z",
-			"slug": "a-escola-composicao",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "A Escola (Composição)"
-		},
-		{
-			"__outstatic": {
-				"commit": "12203135aff8cb2ca12fb3738a2a688bde3c1f95",
-				"hash": "2727699988",
-				"path": "outstatic/content/pinturas/o-pedreiro-cheira-a-cal.mdx"
-			},
-			"artwork": "Aldeia Pintada, Eva Vieira",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "abril, 2022",
-			"fotografia": "Diogo Monteiro",
-			"local": "Estrada da Fonte, Torre",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2022-03-10T00:00:00.000Z",
-			"slug": "o-pedreiro-cheira-a-cal",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "O pedreiro cheira a cal"
-		},
-		{
-			"__outstatic": {
-				"commit": "1163815c6988e63119917ac581f69683410b0e15",
-				"hash": "939887458",
-				"path": "outstatic/content/pinturas/as-raparigas-da-torre.mdx"
-			},
-			"artwork": "Eder Trop",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "agosto, 2022",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua da Esperança, Torre",
-			"producao": "Eder Trop",
-			"publishedAt": "2022-07-25T23:00:00.000Z",
-			"slug": "as-raparigas-da-torre",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "As raparigas da Torre por Eder Trop"
-		},
-		{
-			"__outstatic": {
-				"commit": "00333a545b420505a8a9bac0e059f3af8650f843",
-				"hash": "2610677772",
-				"path": "outstatic/content/pinturas/santa-iria.mdx"
-			},
-			"artwork": "Aldeia Pintada, Eva Vieira",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "agosto, 2022",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua Soares da Costa, Torre",
-			"producao": "Aldeia Pintada, Habitantes locais",
-			"publishedAt": "2022-09-14T23:00:00.000Z",
-			"slug": "santa-iria",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Santa Iria"
-		},
-		{
-			"__outstatic": {
-				"commit": "b4c801453db82f0c6020252f1840c88ef4e73c31",
-				"hash": "3414906007",
-				"path": "outstatic/content/pinturas/paragem.mdx"
-			},
-			"artwork": "Aldeia Pintada",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "abril, 2023",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua Maria Cândida, Torre",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2023-03-23T00:00:00.000Z",
-			"slug": "paragem",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Paragem "
-		},
-		{
-			"__outstatic": {
-				"commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
-				"hash": "1416535403",
-				"path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
-			},
-			"artwork": "Mariana Malhão",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "setembro, 2024",
-			"fotografia": "Diogo Monteiro",
-			"local": "Largo da Lagoa, Torre",
-			"parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-			"producao": "Mariana Malhão",
-			"publishedAt": "2024-09-30T23:00:00.000Z",
-			"slug": "aldeia-pintada-por-outros-mariana-malhao",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Aldeia Pintada Por Outros - Mariana Malhão"
-		},
-		{
-			"__outstatic": {
-				"commit": "179dcb1f5396803027716cd1c6ea80da2411d5b1",
-				"hash": "680749178",
-				"path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mantraste.mdx"
-			},
-			"artwork": "Mantraste",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "setembro, 2024",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua Costa Santo, Torre",
-			"parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-			"producao": "Mantraste",
-			"publishedAt": "2024-09-24T23:00:00.000Z",
-			"slug": "aldeia-pintada-por-outros-mantraste",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural, Reboco",
-			"title": "Aldeia Pintada Por Outros - Mantraste"
-		},
-		{
-			"__outstatic": {
-				"commit": "57fb9a21633a5516ba6efda2a2d03856baeeb52d",
-				"hash": "2977632816",
-				"path": "outstatic/content/pinturas/aldeia-pintada-por-outros-jaime-ferraz.mdx"
-			},
-			"artwork": "Jaime Ferraz",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "setembro, 2024",
-			"fotografia": "Diogo Monteiro",
-			"local": "Largo do Pinheiro, Torre",
-			"parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-			"producao": "Jaime Ferraz",
-			"publishedAt": "2024-09-08T23:00:00.000Z",
-			"slug": "aldeia-pintada-por-outros-jaime-ferraz",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Aldeia Pintada Por Outros - Jaime Ferraz"
-		},
-		{
-			"__outstatic": {
-				"commit": "b88bfe57f9e3493d83199f7917a9ce8bb40bc786",
-				"hash": "532217316",
-				"path": "outstatic/content/pinturas/aldeia-pintada-por-outros-hera.mdx"
-			},
-			"artwork": "HERA",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "setembro, 2024",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua do Centro, Torre",
-			"parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-			"producao": "HERA",
-			"publishedAt": "2024-09-03T23:00:00.000Z",
-			"slug": "aldeia-pintada-por-outros-hera",
-			"status": "published",
-			"tipoDeIntervencao": "Graffiti",
-			"title": "Aldeia Pintada Por Outros - HERA"
-		},
-		{
-			"__outstatic": {
-				"commit": "020b4852656087b7023d193a0b7e9fd99f92d67a",
-				"hash": "3736570106",
-				"path": "outstatic/content/pinturas/tunel-da-torre.mdx"
-			},
-			"artwork": "Vários artistas",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "abril, 2023",
-			"fotografia": "Diogo Monteiro",
-			"local": "Estrada de Fátima, Torre",
-			"producao": "Vários artistas",
-			"publishedAt": "2023-03-01T00:00:00.000Z",
-			"slug": "tunel-da-torre",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural, Colagem",
-			"title": "Túnel da Torre"
-		},
-		{
-			"__outstatic": {
-				"commit": "de756eebba7fd378c264bdb2b9afacf8a999b79e",
-				"hash": "1655230931",
-				"path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
-			},
-			"artwork": "Aldeia Pintada",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "agosto, 2024",
-			"local": "Escola Básica e Secundária da Batalha, Batalha ",
-			"parceiros": "Agrupamento de Escolas da Batalha, Clube Ubuntu AEB",
-			"producao": "Aldeia Pintada",
-			"publishedAt": "2024-03-14T00:00:00.000Z",
-			"slug": "bem-vindos-ubuntu",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Bem-vindos - UBUNTU"
-		},
-		{
-			"__outstatic": {
-				"commit": "2e56e83e13589cfc1f25e7f6cfd075c7d7203fca",
-				"hash": "83699898",
-				"path": "outstatic/content/pinturas/olha-o-balao-aldeia-da-ribeira.mdx"
-			},
-			"artwork": "Aldeia Pintada, Diogo Monteiro",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "maio, 2023",
-			"fotografia": "Diogo Monteiro",
-			"local": "Aldeia da Ribeira, Alcanede",
-			"parceiros": "Santa Casa da Misericórdia de Alcanede",
-			"producao": "Aldeia Pintada + habitantes locais",
-			"publishedAt": "2023-04-18T23:00:00.000Z",
-			"slug": "olha-o-balao-aldeia-da-ribeira",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Olha o Balão - Aldeia da Ribeira"
-		},
-		{
-			"__outstatic": {
-				"commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
-				"hash": "925313082",
-				"path": "outstatic/content/pinturas/aldeia-pintada-por-outros-frio.mdx"
-			},
-			"artwork": "FRIO",
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "pinturas",
-			"data": "outubro, 2024",
-			"fotografia": "Diogo Monteiro",
-			"local": "Rua Soares da Costa, Torre",
-			"parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
-			"producao": "FRIO",
-			"publishedAt": "2024-10-22T23:00:00.000Z",
-			"slug": "aldeia-pintada-por-outros-frio",
-			"status": "published",
-			"tipoDeIntervencao": "Pintura Mural",
-			"title": "Aldeia Pintada Por Outros - FRIO"
-		},
-		{
-			"__outstatic": {
-				"commit": "ddb4e6fb1ca9ef8dc6b0709bfb5385c5650096cd",
-				"hash": "3785680034",
-				"path": "outstatic/content/programas/musica-na-eira.mdx"
-			},
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "programas",
-			"coverImage": "",
-			"publishedAt": "2026-03-25T16:17:32.493Z",
-			"slug": "musica-na-eira",
-			"status": "published",
-			"tags": [
-				{
-					"label": "evento",
-					"value": "evento"
-				}
-			],
-			"title": "Música na Eira"
-		},
-		{
-			"__outstatic": {
-				"commit": "7be23cb20c96f93bb67eb60de619d7402b76b3b2",
-				"hash": "841106040",
-				"path": "outstatic/content/programas/serracao-da-velha.mdx"
-			},
-			"archive": false,
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "programas",
-			"coverImage": "",
-			"publishedAt": "2026-03-25T16:15:51.245Z",
-			"slug": "serracao-da-velha",
-			"status": "published",
-			"tags": [
-				{
-					"label": "evento",
-					"value": "evento"
-				}
-			],
-			"title": "Serração da Velha",
-			"type": [
-				{
-					"label": "evento",
-					"value": "evento"
-				}
-			]
-		},
-		{
-			"__outstatic": {
-				"commit": "8ce4e054fab2a7f1732d49102606b1aad55f8f79",
-				"hash": "641569080",
-				"path": "outstatic/content/programas/noite-das-bruxas.mdx"
-			},
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "programas",
-			"publishedAt": "2026-03-28T00:00:00.000Z",
-			"slug": "noite-das-bruxas",
-			"status": "published",
-			"tags": [
-				{
-					"label": "evento",
-					"value": "evento"
-				}
-			],
-			"title": "Noite das Bruxas"
-		},
-		{
-			"__outstatic": {
-				"commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
-				"hash": "4068521602",
-				"path": "outstatic/content/programas/2022.mdx"
-			},
-			"author": {
-				"name": "",
-				"picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-			},
-			"collection": "programas",
-			"publishedAt": "2026-03-25T16:22:13.378Z",
-			"slug": "2022",
-			"status": "published",
-			"tags": [
-				{
-					"label": "oficina",
-					"value": "oficina"
-				}
-			],
-			"title": "2022"
-		}
-	]
+  "commit": "208800380c0f7cd8ad23293e49c86b149f46c95c",
+  "generated": "2026-03-26T12:22:21.665Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "a8a1605969bfb48b77d8423895db895ea6730c8d",
+        "hash": "3702608575",
+        "path": "outstatic/content/pinturas/coracao-pratos-na-cantareira.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "janeiro, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Centro, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2021-01-08T00:00:00.000Z",
+      "slug": "coracao-pratos-na-cantareira",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Coração (Pratos na Cantareira)"
+    },
+    {
+      "__outstatic": {
+        "commit": "cef4f9f250d78a718ae87077563a5c3cf28a62bc",
+        "hash": "1523337334",
+        "path": "outstatic/content/pinturas/o-lugarinho-da-torre.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "outubro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2020-03-18T00:00:00.000Z",
+      "slug": "o-lugarinho-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "O Lugarinho da Torre"
+    },
+    {
+      "__outstatic": {
+        "commit": "e82c8a3f0abb28de2860771592bdf1f43354a1a6",
+        "hash": "749618589",
+        "path": "outstatic/content/pinturas/tunel-do-chocalho.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "fevereiro, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de Fátima, Torre",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2021-02-24T00:00:00.000Z",
+      "slug": "tunel-do-chocalho",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Túnel do Chocalho"
+    },
+    {
+      "__outstatic": {
+        "commit": "64060ff63a072be491e127f95385ebff38bce7e0",
+        "hash": "2212785094",
+        "path": "outstatic/content/pinturas/as-resineiras.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "março, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2021-03-31T23:00:00.000Z",
+      "slug": "as-resineiras",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As Resineiras"
+    },
+    {
+      "__outstatic": {
+        "commit": "b728db03364669e5abdec52046534b797465a88f",
+        "hash": "1958086134",
+        "path": "outstatic/content/pinturas/ninguem-tem-queixa.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Centro, Torre",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2021-04-27T23:00:00.000Z",
+      "slug": "ninguem-tem-queixa",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Ninguém tem queixa"
+    },
+    {
+      "__outstatic": {
+        "commit": "04255d0f1d6e0240b3084a4753590e7035eca571",
+        "hash": "3416756190",
+        "path": "outstatic/content/pinturas/as-cabras-do-ze-vieira.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "junho, 2021",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Bom Pastor, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2021-07-20T23:00:00.000Z",
+      "slug": "as-cabras-do-ze-vieira",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As cabras do Zé Vieira"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c905f82bf6d8c1d225f73a4bdb6bfe1127ef777",
+        "hash": "1061721348",
+        "path": "outstatic/content/pinturas/juntinhos-a-passear.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "novembro, 2020",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Alecrim, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2020-03-30T23:00:00.000Z",
+      "slug": "juntinhos-a-passear",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Juntinhos a passear"
+    },
+    {
+      "__outstatic": {
+        "commit": "692d7be909d8609e79fecb3b217beb19eb4d12c9",
+        "hash": "2489279065",
+        "path": "outstatic/content/pinturas/a-escola-composicao.mdx"
+      },
+      "artwork": "Aldeia Pintada, Sandra Pereira",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "janeiro, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de São João, Torre",
+      "parceiros": "Câmara Municipal da Batalha",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2022-01-04T00:00:00.000Z",
+      "slug": "a-escola-composicao",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "A Escola (Composição)"
+    },
+    {
+      "__outstatic": {
+        "commit": "12203135aff8cb2ca12fb3738a2a688bde3c1f95",
+        "hash": "2727699988",
+        "path": "outstatic/content/pinturas/o-pedreiro-cheira-a-cal.mdx"
+      },
+      "artwork": "Aldeia Pintada, Eva Vieira",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada da Fonte, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2022-03-10T00:00:00.000Z",
+      "slug": "o-pedreiro-cheira-a-cal",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "O pedreiro cheira a cal"
+    },
+    {
+      "__outstatic": {
+        "commit": "1163815c6988e63119917ac581f69683410b0e15",
+        "hash": "939887458",
+        "path": "outstatic/content/pinturas/as-raparigas-da-torre.mdx"
+      },
+      "artwork": "Eder Trop",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua da Esperança, Torre",
+      "producao": "Eder Trop",
+      "publishedAt": "2022-07-25T23:00:00.000Z",
+      "slug": "as-raparigas-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "As raparigas da Torre por Eder Trop"
+    },
+    {
+      "__outstatic": {
+        "commit": "00333a545b420505a8a9bac0e059f3af8650f843",
+        "hash": "2610677772",
+        "path": "outstatic/content/pinturas/santa-iria.mdx"
+      },
+      "artwork": "Aldeia Pintada, Eva Vieira",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2022",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "producao": "Aldeia Pintada, Habitantes locais",
+      "publishedAt": "2022-09-14T23:00:00.000Z",
+      "slug": "santa-iria",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Santa Iria"
+    },
+    {
+      "__outstatic": {
+        "commit": "b4c801453db82f0c6020252f1840c88ef4e73c31",
+        "hash": "3414906007",
+        "path": "outstatic/content/pinturas/paragem.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Maria Cândida, Torre",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2023-03-23T00:00:00.000Z",
+      "slug": "paragem",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Paragem "
+    },
+    {
+      "__outstatic": {
+        "commit": "074b9581766018c20d6a5d9a6ea6f8bc549b50f0",
+        "hash": "1416535403",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mariana-malhao.mdx"
+      },
+      "artwork": "Mariana Malhão",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Largo da Lagoa, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "Mariana Malhão",
+      "publishedAt": "2024-09-30T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-mariana-malhao",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - Mariana Malhão"
+    },
+    {
+      "__outstatic": {
+        "commit": "179dcb1f5396803027716cd1c6ea80da2411d5b1",
+        "hash": "680749178",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-mantraste.mdx"
+      },
+      "artwork": "Mantraste",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Costa Santo, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "Mantraste",
+      "publishedAt": "2024-09-24T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-mantraste",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Reboco",
+      "title": "Aldeia Pintada Por Outros - Mantraste"
+    },
+    {
+      "__outstatic": {
+        "commit": "57fb9a21633a5516ba6efda2a2d03856baeeb52d",
+        "hash": "2977632816",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-jaime-ferraz.mdx"
+      },
+      "artwork": "Jaime Ferraz",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Largo do Pinheiro, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "Jaime Ferraz",
+      "publishedAt": "2024-09-08T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-jaime-ferraz",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - Jaime Ferraz"
+    },
+    {
+      "__outstatic": {
+        "commit": "b88bfe57f9e3493d83199f7917a9ce8bb40bc786",
+        "hash": "532217316",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-hera.mdx"
+      },
+      "artwork": "HERA",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "setembro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua do Centro, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "HERA",
+      "publishedAt": "2024-09-03T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-hera",
+      "status": "published",
+      "tipoDeIntervencao": "Graffiti",
+      "title": "Aldeia Pintada Por Outros - HERA"
+    },
+    {
+      "__outstatic": {
+        "commit": "020b4852656087b7023d193a0b7e9fd99f92d67a",
+        "hash": "3736570106",
+        "path": "outstatic/content/pinturas/tunel-da-torre.mdx"
+      },
+      "artwork": "Vários artistas",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "abril, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Estrada de Fátima, Torre",
+      "producao": "Vários artistas",
+      "publishedAt": "2023-03-01T00:00:00.000Z",
+      "slug": "tunel-da-torre",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural, Colagem",
+      "title": "Túnel da Torre"
+    },
+    {
+      "__outstatic": {
+        "commit": "de756eebba7fd378c264bdb2b9afacf8a999b79e",
+        "hash": "1655230931",
+        "path": "outstatic/content/pinturas/bem-vindos-ubuntu.mdx"
+      },
+      "artwork": "Aldeia Pintada",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "agosto, 2024",
+      "local": "Escola Básica e Secundária da Batalha, Batalha ",
+      "parceiros": "Agrupamento de Escolas da Batalha, Clube Ubuntu AEB",
+      "producao": "Aldeia Pintada",
+      "publishedAt": "2024-03-14T00:00:00.000Z",
+      "slug": "bem-vindos-ubuntu",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Bem-vindos - UBUNTU"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e56e83e13589cfc1f25e7f6cfd075c7d7203fca",
+        "hash": "83699898",
+        "path": "outstatic/content/pinturas/olha-o-balao-aldeia-da-ribeira.mdx"
+      },
+      "artwork": "Aldeia Pintada, Diogo Monteiro",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "maio, 2023",
+      "fotografia": "Diogo Monteiro",
+      "local": "Aldeia da Ribeira, Alcanede",
+      "parceiros": "Santa Casa da Misericórdia de Alcanede",
+      "producao": "Aldeia Pintada + habitantes locais",
+      "publishedAt": "2023-04-18T23:00:00.000Z",
+      "slug": "olha-o-balao-aldeia-da-ribeira",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Olha o Balão - Aldeia da Ribeira"
+    },
+    {
+      "__outstatic": {
+        "commit": "6a30b40fa15552f5323458d0819ebef8f046e2d0",
+        "hash": "925313082",
+        "path": "outstatic/content/pinturas/aldeia-pintada-por-outros-frio.mdx"
+      },
+      "artwork": "FRIO",
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "pinturas",
+      "data": "outubro, 2024",
+      "fotografia": "Diogo Monteiro",
+      "local": "Rua Soares da Costa, Torre",
+      "parceiros": "Direção Geral das Artes, Município da Batalha, Junta de Freguesia do Reguengo do Fetal  ",
+      "producao": "FRIO",
+      "publishedAt": "2024-10-22T23:00:00.000Z",
+      "slug": "aldeia-pintada-por-outros-frio",
+      "status": "published",
+      "tipoDeIntervencao": "Pintura Mural",
+      "title": "Aldeia Pintada Por Outros - FRIO"
+    },
+    {
+      "__outstatic": {
+        "commit": "7be23cb20c96f93bb67eb60de619d7402b76b3b2",
+        "hash": "841106040",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "archive": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-03-25T16:15:51.245Z",
+      "slug": "serracao-da-velha",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Serração da Velha",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "8ce4e054fab2a7f1732d49102606b1aad55f8f79",
+        "hash": "641569080",
+        "path": "outstatic/content/programas/noite-das-bruxas.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-03-28T00:00:00.000Z",
+      "slug": "noite-das-bruxas",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Noite das Bruxas"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
+        "hash": "4068521602",
+        "path": "outstatic/content/programas/2022.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-03-25T16:22:13.378Z",
+      "slug": "2022",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "__outstatic": {
+        "commit": "208800380c0f7cd8ad23293e49c86b149f46c95c",
+        "hash": "3214788913",
+        "path": "outstatic/content/programas/musica-na-eira.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-03-25T16:17:32.493Z",
+      "slug": "musica-na-eira",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Música na Eira"
+    }
+  ]
 }
