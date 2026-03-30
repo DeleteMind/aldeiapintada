@@ -1,6 +1,6 @@
 {
-  "commit": "ad09702524a340e3a53fb001e5fa1d690ce434e9",
-  "generated": "2026-03-30T09:18:36.927Z",
+  "commit": "38dad59f6732c49b1936470739031439100c8a49",
+  "generated": "2026-03-30T09:22:48.411Z",
   "metadata": [
     {
       "__outstatic": {
@@ -550,8 +550,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ad09702524a340e3a53fb001e5fa1d690ce434e9",
-        "hash": "2824692890",
+        "commit": "38dad59f6732c49b1936470739031439100c8a49",
+        "hash": "3646084166",
         "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
       },
       "aAcontecer": true,
