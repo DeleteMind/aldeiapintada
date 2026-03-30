@@ -21,10 +21,10 @@ async function getData() {
 export default async function Home() {
 	const posts = (await getData()) as unknown as ProgramacaoPost[];
 	const posters = posts
-		.filter((post) => !post.archive && post.aAcontecer && post.coverImage)
+		.filter((post) => !post.archive && post.aAcontecer)
 		.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 		.map((post) => ({
-			src: post.coverImage!,
+			src: post.coverImage ?? null,
 			title: post.title,
 			date: post.publishedAt,
 			href: `/programacao/${post.slug}`,

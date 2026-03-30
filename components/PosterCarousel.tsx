@@ -10,7 +10,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 interface PosterItem {
-	src: string | StaticImageData;
+	src: string | null;
 	title: string;
 	date: string;
 	href: string;
@@ -80,12 +80,16 @@ export default function PosterCarousel({
 					>
 						<Link href={poster.href} className='group block h-full'>
 							<article className='relative h-full overflow-hidden rounded-lg bg-neutral-200'>
-								<Image
-									src={poster.src}
-									alt={poster.title}
-									fill
-									className='object-cover transition-transform duration-300 group-hover:scale-[1.02]'
-								/>
+								{poster.src ? (
+									<Image
+										src={poster.src}
+										alt={poster.title}
+										fill
+										className='object-cover transition-transform duration-300 group-hover:scale-[1.02]'
+									/>
+								) : (
+									<div className='absolute inset-0 bg-neutral-200' aria-hidden='true' />
+								)}
 
 								<div className='absolute inset-0 bg-gradient-to-t from-black/90 via-black/35 to-transparent' />
 
