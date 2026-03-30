@@ -1,6 +1,6 @@
 {
-  "commit": "414b77f57d6f4da694536a1516853bfbb6c4d567",
-  "generated": "2026-03-30T09:24:40.555Z",
+  "commit": "0db46c8deb04f35feaea37cfc7138df3cfc4e5ca",
+  "generated": "2026-03-30T10:37:58.041Z",
   "metadata": [
     {
       "__outstatic": {
@@ -473,30 +473,6 @@
     },
     {
       "__outstatic": {
-        "commit": "38dad59f6732c49b1936470739031439100c8a49",
-        "hash": "3646084166",
-        "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
-      },
-      "aAcontecer": true,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-04-10T23:00:00.000Z",
-      "slug": "atelier-de-construcao-eletronica",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
-    },
-    {
-      "__outstatic": {
         "commit": "5db1a7d06a27c4359086726f8637c7e1a482c433",
         "hash": "1937050708",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
@@ -571,6 +547,30 @@
         }
       ],
       "title": "Noite das Bruxas"
+    },
+    {
+      "__outstatic": {
+        "commit": "0db46c8deb04f35feaea37cfc7138df3cfc4e5ca",
+        "hash": "4153514454",
+        "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/atelier-barco-compress-IzMz.jpg",
+      "publishedAt": "2026-04-10T23:00:00.000Z",
+      "slug": "atelier-de-construcao-eletronica",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
     }
   ]
 }
