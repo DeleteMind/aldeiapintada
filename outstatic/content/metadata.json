@@ -1,6 +1,6 @@
 {
-  "commit": "de6128ae6af84fa7ad4d644bbe9ca0136266d34c",
-  "generated": "2026-03-30T08:57:02.648Z",
+  "commit": "ad09702524a340e3a53fb001e5fa1d690ce434e9",
+  "generated": "2026-03-30T09:18:36.927Z",
   "metadata": [
     {
       "__outstatic": {
@@ -547,6 +547,30 @@
         }
       ],
       "title": "2022"
+    },
+    {
+      "__outstatic": {
+        "commit": "ad09702524a340e3a53fb001e5fa1d690ce434e9",
+        "hash": "2824692890",
+        "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-04-10T23:00:00.000Z",
+      "slug": "atelier-de-construcao-eletronica",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
     }
   ]
 }
