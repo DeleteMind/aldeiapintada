@@ -1,6 +1,6 @@
 {
-  "commit": "5db1a7d06a27c4359086726f8637c7e1a482c433",
-  "generated": "2026-03-30T09:24:13.416Z",
+  "commit": "f7c3deee29620ea6aecfc0f17813f423cf191d5f",
+  "generated": "2026-03-30T09:24:27.277Z",
   "metadata": [
     {
       "__outstatic": {
@@ -473,37 +473,6 @@
     },
     {
       "__outstatic": {
-        "commit": "cf464ee02cf6225ba3b60e95fbdc12268e9e969f",
-        "hash": "2635698044",
-        "path": "outstatic/content/programas/serracao-da-velha.mdx"
-      },
-      "aAcontecer": false,
-      "archive": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "/images/2025-cartaz-serra--o-QxNz.jpg",
-      "publishedAt": "2026-03-25T16:15:51.245Z",
-      "slug": "serracao-da-velha",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "Serração da Velha",
-      "type": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ]
-    },
-    {
-      "__outstatic": {
         "commit": "de6128ae6af84fa7ad4d644bbe9ca0136266d34c",
         "hash": "1584028843",
         "path": "outstatic/content/programas/2022.mdx"
@@ -571,6 +540,37 @@
         }
       ],
       "title": "Música na Eira"
+    },
+    {
+      "__outstatic": {
+        "commit": "f7c3deee29620ea6aecfc0f17813f423cf191d5f",
+        "hash": "3926831708",
+        "path": "outstatic/content/programas/serracao-da-velha.mdx"
+      },
+      "aAcontecer": false,
+      "archive": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/2025-cartaz-serra--o-QxNz.jpg",
+      "publishedAt": "2026-03-25T16:15:51.245Z",
+      "slug": "serracao-da-velha",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Serração da Velha",
+      "type": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ]
     }
   ]
 }
