@@ -1,6 +1,6 @@
 {
-  "commit": "38dad59f6732c49b1936470739031439100c8a49",
-  "generated": "2026-03-30T09:22:48.411Z",
+  "commit": "5db1a7d06a27c4359086726f8637c7e1a482c433",
+  "generated": "2026-03-30T09:24:13.416Z",
   "metadata": [
     {
       "__outstatic": {
@@ -473,30 +473,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d19412acef2ec538ec8ee2f869ddd954195fc2b7",
-        "hash": "1980518220",
-        "path": "outstatic/content/programas/musica-na-eira.mdx"
-      },
-      "aAcontecer": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-03-25T16:17:32.493Z",
-      "slug": "musica-na-eira",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "Música na Eira"
-    },
-    {
-      "__outstatic": {
         "commit": "cf464ee02cf6225ba3b60e95fbdc12268e9e969f",
         "hash": "2635698044",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
@@ -571,6 +547,30 @@
         }
       ],
       "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
+    },
+    {
+      "__outstatic": {
+        "commit": "5db1a7d06a27c4359086726f8637c7e1a482c433",
+        "hash": "1937050708",
+        "path": "outstatic/content/programas/musica-na-eira.mdx"
+      },
+      "aAcontecer": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-03-25T16:17:32.493Z",
+      "slug": "musica-na-eira",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Música na Eira"
     }
   ]
 }
