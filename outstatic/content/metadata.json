@@ -1,6 +1,6 @@
 {
-  "commit": "cf464ee02cf6225ba3b60e95fbdc12268e9e969f",
-  "generated": "2026-03-26T12:27:48.868Z",
+  "commit": "de6128ae6af84fa7ad4d644bbe9ca0136266d34c",
+  "generated": "2026-03-30T08:57:02.648Z",
   "metadata": [
     {
       "__outstatic": {
@@ -473,28 +473,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9c52b14a34ce0187afc3ede4c3b137841515acff",
-        "hash": "4068521602",
-        "path": "outstatic/content/programas/2022.mdx"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "publishedAt": "2026-03-25T16:22:13.378Z",
-      "slug": "2022",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "2022"
-    },
-    {
-      "__outstatic": {
         "commit": "d19412acef2ec538ec8ee2f869ddd954195fc2b7",
         "hash": "1980518220",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
@@ -547,6 +525,28 @@
           "value": "evento"
         }
       ]
+    },
+    {
+      "__outstatic": {
+        "commit": "de6128ae6af84fa7ad4d644bbe9ca0136266d34c",
+        "hash": "1584028843",
+        "path": "outstatic/content/programas/2022.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-03-25T16:22:13.378Z",
+      "slug": "2022",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "2022"
     }
   ]
 }
