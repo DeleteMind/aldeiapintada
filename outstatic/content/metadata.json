@@ -1,6 +1,6 @@
 {
-  "commit": "d4a1bdfd5a161c893011387f77a426adb00d43fc",
-  "generated": "2026-04-22T18:40:16.869Z",
+  "commit": "b9723be5fbb30c2479d1d8f86439c6da402d1f38",
+  "generated": "2026-04-22T18:40:41.532Z",
   "metadata": [
     {
       "__outstatic": {
@@ -574,8 +574,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d4a1bdfd5a161c893011387f77a426adb00d43fc",
-        "hash": "2394241548",
+        "commit": "b9723be5fbb30c2479d1d8f86439c6da402d1f38",
+        "hash": "1217402193",
         "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
       },
       "aAcontecer": true,
@@ -590,7 +590,7 @@
       "status": "published",
       "tags": [
       ],
-      "title": "ATELIER DE CONSTRUÇÃO (Papel)"
+      "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
     }
   ]
 }
