@@ -1,6 +1,6 @@
 {
-  "commit": "92fee51c38a2af08948d725a420d7ef6e95fd074",
-  "generated": "2026-04-22T18:48:33.837Z",
+  "commit": "9e035ee6877b6b034cde54a9de2a3ee3fce05b1d",
+  "generated": "2026-04-22T18:51:24.303Z",
   "metadata": [
     {
       "__outstatic": {
@@ -550,30 +550,6 @@
     },
     {
       "__outstatic": {
-        "commit": "269a7afbbe12dda1314c2f59d1342b5cf277c62d",
-        "hash": "1295762274",
-        "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
-      },
-      "aAcontecer": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "/images/atelier-barco-compress-IzMz.jpg",
-      "publishedAt": "2026-04-10T23:00:00.000Z",
-      "slug": "atelier-de-construcao-eletronica",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
-    },
-    {
-      "__outstatic": {
         "commit": "92fee51c38a2af08948d725a420d7ef6e95fd074",
         "hash": "3263813873",
         "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
@@ -595,6 +571,30 @@
         }
       ],
       "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
+    },
+    {
+      "__outstatic": {
+        "commit": "9e035ee6877b6b034cde54a9de2a3ee3fce05b1d",
+        "hash": "1097232252",
+        "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
+      },
+      "aAcontecer": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/atelier-barco-compress-IzMz.jpg",
+      "publishedAt": "2026-04-10T23:00:00.000Z",
+      "slug": "atelier-de-construcao-eletronica",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
     }
   ]
 }
