@@ -1,6 +1,6 @@
 {
-  "commit": "ad09702524a340e3a53fb001e5fa1d690ce434e9",
-  "generated": "2026-03-30T09:18:36.927Z",
+  "commit": "d4a1bdfd5a161c893011387f77a426adb00d43fc",
+  "generated": "2026-04-22T18:40:16.869Z",
   "media": [
     {
       "__outstatic": {
@@ -506,6 +506,17 @@
       "alt": "",
       "filename": "atelier-barco-compress-IzMz.jpg",
       "publishedAt": "2026-03-30T09:18:36.924Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "d4a1bdfd5a161c893011387f77a426adb00d43fc",
+        "hash": "1397968993",
+        "path": "public/images/atelier-papel--1--Q1MD.jpg"
+      },
+      "alt": "",
+      "filename": "atelier-papel--1--Q1MD.jpg",
+      "publishedAt": "2026-04-22T18:40:16.866Z",
       "type": "image"
     },
     {
