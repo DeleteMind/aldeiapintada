@@ -1,6 +1,6 @@
 {
-  "commit": "269a7afbbe12dda1314c2f59d1342b5cf277c62d",
-  "generated": "2026-04-18T00:03:29.013Z",
+  "commit": "9dccd71d9085f536050af6de40d709874c2efcf1",
+  "generated": "2026-04-22T18:30:51.952Z",
   "metadata": [
     {
       "__outstatic": {
@@ -571,6 +571,24 @@
         }
       ],
       "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
+    },
+    {
+      "__outstatic": {
+        "commit": "9dccd71d9085f536050af6de40d709874c2efcf1",
+        "hash": "3640253870",
+        "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-04-22T18:36:32.046Z",
+      "slug": "atelier-de-construcao-papel",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (Papel)"
     }
   ]
 }
