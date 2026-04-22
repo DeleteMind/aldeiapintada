@@ -1,6 +1,6 @@
 {
-  "commit": "199a2e17df6af55c518483950593a005c7d38b5f",
-  "generated": "2026-04-22T18:43:13.809Z",
+  "commit": "681f3b7420d0d18493d58254339cdd733f286e29",
+  "generated": "2026-04-22T18:45:09.730Z",
   "metadata": [
     {
       "__outstatic": {
@@ -574,8 +574,8 @@
     },
     {
       "__outstatic": {
-        "commit": "199a2e17df6af55c518483950593a005c7d38b5f",
-        "hash": "4256525416",
+        "commit": "681f3b7420d0d18493d58254339cdd733f286e29",
+        "hash": "338689261",
         "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
       },
       "aAcontecer": true,
@@ -584,7 +584,7 @@
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
       },
       "collection": "programas",
-      "coverImage": "/images/atelier-papel--1--Q1MD.jpg",
+      "coverImage": "",
       "publishedAt": "2026-05-08T23:00:00.000Z",
       "slug": "atelier-de-construcao-papel",
       "status": "published",
