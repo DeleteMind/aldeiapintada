@@ -1,6 +1,6 @@
 {
-  "commit": "9e035ee6877b6b034cde54a9de2a3ee3fce05b1d",
-  "generated": "2026-04-22T18:51:24.303Z",
+  "commit": "7852254f85eacb91cf7b5276417fd714f6edbcc0",
+  "generated": "2026-04-22T18:54:06.653Z",
   "metadata": [
     {
       "__outstatic": {
@@ -550,30 +550,6 @@
     },
     {
       "__outstatic": {
-        "commit": "92fee51c38a2af08948d725a420d7ef6e95fd074",
-        "hash": "3263813873",
-        "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
-      },
-      "aAcontecer": true,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-05-08T23:00:00.000Z",
-      "slug": "atelier-de-construcao-papel",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
-    },
-    {
-      "__outstatic": {
         "commit": "9e035ee6877b6b034cde54a9de2a3ee3fce05b1d",
         "hash": "1097232252",
         "path": "outstatic/content/programas/atelier-de-construcao-eletronica.mdx"
@@ -595,6 +571,30 @@
         }
       ],
       "title": "ATELIER DE CONSTRUÇÃO (ELETRÓNICA)"
+    },
+    {
+      "__outstatic": {
+        "commit": "7852254f85eacb91cf7b5276417fd714f6edbcc0",
+        "hash": "3263813873",
+        "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-05-08T23:00:00.000Z",
+      "slug": "atelier-de-construcao-papel",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
     }
   ]
 }
