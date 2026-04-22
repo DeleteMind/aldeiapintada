@@ -1,6 +1,6 @@
 {
-  "commit": "b91027da4b84512a698c61f6e0322273ea269c02",
-  "generated": "2026-04-22T18:56:00.915Z",
+  "commit": "608209663d6cebdbef06297e5adffc20dde6fd3f",
+  "generated": "2026-04-22T18:58:57.479Z",
   "metadata": [
     {
       "__outstatic": {
@@ -552,30 +552,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7852254f85eacb91cf7b5276417fd714f6edbcc0",
-        "hash": "3263813873",
-        "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
-      },
-      "aAcontecer": true,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-05-08T23:00:00.000Z",
-      "slug": "atelier-de-construcao-papel",
-      "status": "published",
-      "tags": [
-        {
-          "label": "oficina",
-          "value": "oficina"
-        }
-      ],
-      "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
-    },
-    {
-      "__outstatic": {
         "commit": "b91027da4b84512a698c61f6e0322273ea269c02",
         "hash": "2180754113",
         "path": "outstatic/content/pinturas/paragem.mdx"
@@ -595,6 +571,30 @@
       "status": "published",
       "tipoDeIntervencao": "Pintura Mural",
       "title": "Paragem "
+    },
+    {
+      "__outstatic": {
+        "commit": "608209663d6cebdbef06297e5adffc20dde6fd3f",
+        "hash": "536820976",
+        "path": "outstatic/content/programas/atelier-de-construcao-papel.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/atelier-papel--1--Q1MD.jpg",
+      "publishedAt": "2026-05-08T23:00:00.000Z",
+      "slug": "atelier-de-construcao-papel",
+      "status": "published",
+      "tags": [
+        {
+          "label": "oficina",
+          "value": "oficina"
+        }
+      ],
+      "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
     }
   ]
 }
