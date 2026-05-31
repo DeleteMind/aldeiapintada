@@ -1,6 +1,6 @@
 {
-  "commit": "dfa5cbb94ce33428e801f24f9cc488a1cf106206",
-  "generated": "2026-05-12T22:07:55.323Z",
+  "commit": "cb613347c13ee7dc0336b92530848a07d472a005",
+  "generated": "2026-05-31T11:09:39.744Z",
   "metadata": [
     {
       "__outstatic": {
@@ -595,6 +595,30 @@
         }
       ],
       "title": "ATELIER DE CONSTRUÇÃO (PAPEL)"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb613347c13ee7dc0336b92530848a07d472a005",
+        "hash": "452825937",
+        "path": "outstatic/content/programas/temporada-2.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "",
+      "publishedAt": "2026-06-12T23:00:00.000Z",
+      "slug": "temporada-2",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Temporada 2"
     }
   ]
 }
