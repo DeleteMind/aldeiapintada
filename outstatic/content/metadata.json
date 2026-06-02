@@ -1,6 +1,6 @@
 {
-  "commit": "69cbedc284d68600e6f93758a15581463187d60f",
-  "generated": "2026-05-31T11:15:54.763Z",
+  "commit": "b51c9862ba0a993c0629e7dd89e9c11ec9fb651e",
+  "generated": "2026-06-02T10:26:44.471Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,8 +598,8 @@
     },
     {
       "__outstatic": {
-        "commit": "69cbedc284d68600e6f93758a15581463187d60f",
-        "hash": "4286189527",
+        "commit": "b51c9862ba0a993c0629e7dd89e9c11ec9fb651e",
+        "hash": "2116887466",
         "path": "outstatic/content/programas/temporada-2.mdx"
       },
       "aAcontecer": true,
@@ -608,7 +608,7 @@
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
       },
       "collection": "programas",
-      "coverImage": "",
+      "coverImage": "/images/t2-M5Mj.jpg",
       "publishedAt": "2026-06-12T23:00:00.000Z",
       "slug": "temporada-2",
       "status": "published",
