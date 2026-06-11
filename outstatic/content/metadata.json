@@ -1,6 +1,6 @@
 {
-  "commit": "26cb2907cfa17c84a2c5d50d428731f6c9cb9e0f",
-  "generated": "2026-06-11T22:51:52.262Z",
+  "commit": "ab5e3ec590e22b3d4e8c1b1146fc0b5e03ec9746",
+  "generated": "2026-06-11T22:55:15.784Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,8 +598,8 @@
     },
     {
       "__outstatic": {
-        "commit": "26cb2907cfa17c84a2c5d50d428731f6c9cb9e0f",
-        "hash": "2808899621",
+        "commit": "ab5e3ec590e22b3d4e8c1b1146fc0b5e03ec9746",
+        "hash": "3923251348",
         "path": "outstatic/content/programas/temporada-2.mdx"
       },
       "aAcontecer": false,
@@ -618,7 +618,7 @@
           "value": "evento"
         }
       ],
-      "title": "Temporada 2"
+      "title": "TEMPORADA 2"
     }
   ]
 }
