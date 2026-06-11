@@ -1,6 +1,6 @@
 {
-  "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
-  "generated": "2026-06-11T22:51:36.265Z",
+  "commit": "26cb2907cfa17c84a2c5d50d428731f6c9cb9e0f",
+  "generated": "2026-06-11T22:51:52.262Z",
   "metadata": [
     {
       "__outstatic": {
@@ -574,30 +574,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b51c9862ba0a993c0629e7dd89e9c11ec9fb651e",
-        "hash": "2116887466",
-        "path": "outstatic/content/programas/temporada-2.mdx"
-      },
-      "aAcontecer": true,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "/images/t2-M5Mj.jpg",
-      "publishedAt": "2026-06-12T23:00:00.000Z",
-      "slug": "temporada-2",
-      "status": "published",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "Temporada 2"
-    },
-    {
-      "__outstatic": {
         "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
         "hash": "926159889",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
@@ -619,6 +595,30 @@
         }
       ],
       "title": "MÚSICA NA EIRA "
+    },
+    {
+      "__outstatic": {
+        "commit": "26cb2907cfa17c84a2c5d50d428731f6c9cb9e0f",
+        "hash": "2808899621",
+        "path": "outstatic/content/programas/temporada-2.mdx"
+      },
+      "aAcontecer": false,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/t2-M5Mj.jpg",
+      "publishedAt": "2026-06-12T23:00:00.000Z",
+      "slug": "temporada-2",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "Temporada 2"
     }
   ]
 }
