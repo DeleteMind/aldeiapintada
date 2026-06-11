@@ -1,6 +1,6 @@
 {
-  "commit": "3c8df60da4ee88794bb41bf9f470d3276a412c44",
-  "generated": "2026-06-11T22:50:51.095Z",
+  "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
+  "generated": "2026-06-11T22:51:36.265Z",
   "media": [
     {
       "__outstatic": {
@@ -1716,6 +1716,17 @@
       "alt": "",
       "filename": "whatsapp-image-2026-06-04-at-00.06.19-QzMz.jpeg",
       "publishedAt": "2026-06-11T22:50:51.095Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
+        "hash": "1761944497",
+        "path": "public/images/whatsapp-image-2026-06-04-at-00.06.19-gyNz.jpeg"
+      },
+      "alt": "",
+      "filename": "whatsapp-image-2026-06-04-at-00.06.19-gyNz.jpeg",
+      "publishedAt": "2026-06-11T22:51:36.262Z",
       "type": "image"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "commit": "b51c9862ba0a993c0629e7dd89e9c11ec9fb651e",
-  "generated": "2026-06-02T10:26:44.471Z",
+  "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
+  "generated": "2026-06-11T22:51:36.265Z",
   "metadata": [
     {
       "__outstatic": {
@@ -451,30 +451,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5db1a7d06a27c4359086726f8637c7e1a482c433",
-        "hash": "1937050708",
-        "path": "outstatic/content/programas/musica-na-eira.mdx"
-      },
-      "aAcontecer": false,
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
-      },
-      "collection": "programas",
-      "coverImage": "",
-      "publishedAt": "2026-03-25T16:17:32.493Z",
-      "slug": "musica-na-eira",
-      "status": "draft",
-      "tags": [
-        {
-          "label": "evento",
-          "value": "evento"
-        }
-      ],
-      "title": "Música na Eira"
-    },
-    {
-      "__outstatic": {
         "commit": "f7c3deee29620ea6aecfc0f17813f423cf191d5f",
         "hash": "3926831708",
         "path": "outstatic/content/programas/serracao-da-velha.mdx"
@@ -619,6 +595,30 @@
         }
       ],
       "title": "Temporada 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "3bb76fc7d017e0978b7b15828530677d60840d9b",
+        "hash": "926159889",
+        "path": "outstatic/content/programas/musica-na-eira.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "coverImage": "/images/whatsapp-image-2026-06-04-at-00.06.19-QzMz.jpeg",
+      "publishedAt": "2026-06-12T23:00:00.000Z",
+      "slug": "musica-na-eira",
+      "status": "published",
+      "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
+      ],
+      "title": "MÚSICA NA EIRA "
     }
   ]
 }
