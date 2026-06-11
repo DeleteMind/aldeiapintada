@@ -1,6 +1,6 @@
 {
-  "commit": "cb613347c13ee7dc0336b92530848a07d472a005",
-  "generated": "2026-05-31T11:09:39.744Z",
+  "commit": "3c8df60da4ee88794bb41bf9f470d3276a412c44",
+  "generated": "2026-06-11T22:50:51.095Z",
   "media": [
     {
       "__outstatic": {
@@ -1705,6 +1705,17 @@
       "alt": "",
       "filename": "t2-final-kxND.jpg",
       "publishedAt": "2026-05-31T11:09:39.743Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "3c8df60da4ee88794bb41bf9f470d3276a412c44",
+        "hash": "1761944497",
+        "path": "public/images/whatsapp-image-2026-06-04-at-00.06.19-QzMz.jpeg"
+      },
+      "alt": "",
+      "filename": "whatsapp-image-2026-06-04-at-00.06.19-QzMz.jpeg",
+      "publishedAt": "2026-06-11T22:50:51.095Z",
       "type": "image"
     }
   ]
