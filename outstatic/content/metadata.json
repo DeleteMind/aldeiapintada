@@ -1,6 +1,6 @@
 {
-  "commit": "3194ae284f8f495b0e2cea32c91306c9a398bfa9",
-  "generated": "2026-07-11T08:33:42.149Z",
+  "commit": "abae8a04efc60c7995b7270d882e742d2cf604ed",
+  "generated": "2026-07-11T08:33:53.992Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,23 +598,27 @@
     },
     {
       "__outstatic": {
-        "commit": "3194ae284f8f495b0e2cea32c91306c9a398bfa9",
-        "hash": "1951320742",
+        "commit": "abae8a04efc60c7995b7270d882e742d2cf604ed",
+        "hash": "177263936",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
       },
-      "aAcontecer": true,
+      "aAcontecer": false,
       "author": {
         "name": "",
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
       },
       "collection": "programas",
-      "coverImage": "/images/kk-YwNj.jpeg",
-      "publishedAt": "2026-07-11T23:00:00.000Z",
+      "coverImage": "/images/whatsapp-image-2026-06-04-at-00.06.19-QzMz.jpeg",
+      "publishedAt": "2026-06-12T23:00:00.000Z",
       "slug": "musica-na-eira",
       "status": "published",
       "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
       ],
-      "title": "MÚSICA NA EIRA "
+      "title": "MÚSICA NA EIRA | Junho"
     }
   ]
 }
