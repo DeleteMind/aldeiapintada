@@ -1,6 +1,6 @@
 {
-  "commit": "3194ae284f8f495b0e2cea32c91306c9a398bfa9",
-  "generated": "2026-07-11T08:33:42.149Z",
+  "commit": "436416de2f08e68af5be1f2e42a44103cee0deea",
+  "generated": "2026-07-11T08:41:46.365Z",
   "media": [
     {
       "__outstatic": {
@@ -1375,6 +1375,17 @@
       "alt": "",
       "filename": "kk-E1Nj.jpeg",
       "publishedAt": "2026-07-11T08:33:42.147Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "436416de2f08e68af5be1f2e42a44103cee0deea",
+        "hash": "3579111781",
+        "path": "public/images/kk-MzNj.jpeg"
+      },
+      "alt": "",
+      "filename": "kk-MzNj.jpeg",
+      "publishedAt": "2026-07-11T08:41:46.363Z",
       "type": "image"
     },
     {
