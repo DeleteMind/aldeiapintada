@@ -1,6 +1,6 @@
 {
-  "commit": "436416de2f08e68af5be1f2e42a44103cee0deea",
-  "generated": "2026-07-11T08:41:46.365Z",
+  "commit": "12d7b33f37fa367ae91c38f6644b8981d1522e88",
+  "generated": "2026-08-16T22:02:09.199Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,11 +598,11 @@
     },
     {
       "__outstatic": {
-        "commit": "436416de2f08e68af5be1f2e42a44103cee0deea",
-        "hash": "2840052041",
+        "commit": "12d7b33f37fa367ae91c38f6644b8981d1522e88",
+        "hash": "1329164778",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
       },
-      "aAcontecer": true,
+      "aAcontecer": false,
       "author": {
         "name": "",
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
