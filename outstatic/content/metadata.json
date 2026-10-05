@@ -1,6 +1,6 @@
 {
-  "commit": "12d7b33f37fa367ae91c38f6644b8981d1522e88",
-  "generated": "2026-08-16T22:02:09.199Z",
+  "commit": "5ac31d2b98ab4aaeb762983d03514cb707f3bce4",
+  "generated": "2026-10-05T18:04:23.614Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,8 +598,8 @@
     },
     {
       "__outstatic": {
-        "commit": "12d7b33f37fa367ae91c38f6644b8981d1522e88",
-        "hash": "1329164778",
+        "commit": "5ac31d2b98ab4aaeb762983d03514cb707f3bce4",
+        "hash": "138660540",
         "path": "outstatic/content/programas/musica-na-eira.mdx"
       },
       "aAcontecer": false,
@@ -611,7 +611,7 @@
       "coverImage": "/images/kk-E1Nj.jpeg",
       "publishedAt": "2026-07-11T23:00:00.000Z",
       "slug": "musica-na-eira",
-      "status": "published",
+      "status": "draft",
       "tags": [
         {
           "label": "evento",
