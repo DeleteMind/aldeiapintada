@@ -1,6 +1,6 @@
 {
-  "commit": "476df38eb902b14504ecff3c16c4366852a0c2a7",
-  "generated": "2026-10-05T18:04:35.926Z",
+  "commit": "6310e655a929b17e57c9363d7b079606386eccd0",
+  "generated": "2026-10-05T18:10:17.826Z",
   "metadata": [
     {
       "__outstatic": {
@@ -619,6 +619,25 @@
         }
       ],
       "title": "TEMPORADA 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "6310e655a929b17e57c9363d7b079606386eccd0",
+        "hash": "484248210",
+        "path": "outstatic/content/programas/cluedo-teatral-o-misterio-da-pia.mdx"
+      },
+      "aAcontecer": true,
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
+      },
+      "collection": "programas",
+      "publishedAt": "2026-10-05T18:14:04.597Z",
+      "slug": "cluedo-teatral-o-misterio-da-pia",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "CLUEDO TEATRAL - O Mistério da Pia"
     }
   ]
 }
