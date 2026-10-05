@@ -1,6 +1,6 @@
 {
-  "commit": "6310e655a929b17e57c9363d7b079606386eccd0",
-  "generated": "2026-10-05T18:10:17.826Z",
+  "commit": "9132e4cfae1535554f3fdb9d9ab81bc970ab8804",
+  "generated": "2026-10-05T18:12:07.139Z",
   "metadata": [
     {
       "__outstatic": {
@@ -622,8 +622,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6310e655a929b17e57c9363d7b079606386eccd0",
-        "hash": "484248210",
+        "commit": "9132e4cfae1535554f3fdb9d9ab81bc970ab8804",
+        "hash": "1124077796",
         "path": "outstatic/content/programas/cluedo-teatral-o-misterio-da-pia.mdx"
       },
       "aAcontecer": true,
@@ -632,10 +632,15 @@
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
       },
       "collection": "programas",
-      "publishedAt": "2026-10-05T18:14:04.597Z",
+      "coverImage": "",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
       "slug": "cluedo-teatral-o-misterio-da-pia",
       "status": "published",
       "tags": [
+        {
+          "label": "evento",
+          "value": "evento"
+        }
       ],
       "title": "CLUEDO TEATRAL - O Mistério da Pia"
     }
