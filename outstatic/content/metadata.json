@@ -1,6 +1,6 @@
 {
-  "commit": "bfdc6b66784019a14e22601ccc52576aeb7da5ab",
-  "generated": "2026-10-05T18:13:09.972Z",
+  "commit": "9c799340bac1a75559bb0205b8de5bf3ffe59e47",
+  "generated": "2026-10-05T18:19:24.081Z",
   "metadata": [
     {
       "__outstatic": {
@@ -622,8 +622,8 @@
     },
     {
       "__outstatic": {
-        "commit": "bfdc6b66784019a14e22601ccc52576aeb7da5ab",
-        "hash": "30685272",
+        "commit": "9c799340bac1a75559bb0205b8de5bf3ffe59e47",
+        "hash": "1342543699",
         "path": "outstatic/content/programas/cluedo-teatral-o-misterio-da-pia.mdx"
       },
       "aAcontecer": true,
@@ -632,7 +632,7 @@
         "picture": "https://avatars.githubusercontent.com/u/244244297?v=4"
       },
       "collection": "programas",
-      "coverImage": "/images/whatsapp-image-2026-10-04-at-08.51.29-Y3Nj.jpeg",
+      "coverImage": "/images/whatsapp-image-2026-10-04-at-08.45.12-c4Nj.jpeg",
       "publishedAt": "2026-10-31T00:00:00.000Z",
       "slug": "cluedo-teatral-o-misterio-da-pia",
       "status": "published",
