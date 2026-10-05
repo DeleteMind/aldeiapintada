@@ -1,6 +1,6 @@
 {
-  "commit": "9c799340bac1a75559bb0205b8de5bf3ffe59e47",
-  "generated": "2026-10-05T18:19:24.081Z",
+  "commit": "49057f9bc5a11756d4098dccbae1986aa62451c6",
+  "generated": "2026-10-05T19:18:41.639Z",
   "metadata": [
     {
       "__outstatic": {
@@ -622,8 +622,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9c799340bac1a75559bb0205b8de5bf3ffe59e47",
-        "hash": "1342543699",
+        "commit": "49057f9bc5a11756d4098dccbae1986aa62451c6",
+        "hash": "863765636",
         "path": "outstatic/content/programas/cluedo-teatral-o-misterio-da-pia.mdx"
       },
       "aAcontecer": true,
@@ -642,7 +642,7 @@
           "value": "evento"
         }
       ],
-      "title": "CLUEDO TEATRAL - O Mistério da Pia"
+      "title": "31/10 | CLUEDO TEATRAL - O Mistério da Pia"
     }
   ]
 }
