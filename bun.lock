@@ -17,10 +17,10 @@
         "resend": "^6.9.4",
         "swiper": "^12.1.2",
         "tailwind-merge": "3.5.0 ",
-        "vinext": "^1.1.0",
+        "vinext": "1.1.0",
       },
       "devDependencies": {
-        "@cloudflare/vite-plugin": "^2.0.0-beta.sha-91c870c02",
+        "@cloudflare/vite-plugin": "2.0.0-beta.sha-91c870c02",
         "@tailwindcss/postcss": "^4",
         "@tailwindcss/typography": "^0.5.19",
         "@types/node": "^20",
@@ -37,6 +37,9 @@
         "vite": "8.3.0",
       },
     },
+  },
+  "patchedDependencies": {
+    "vinext@1.1.0": "patches/vinext@1.1.0.patch",
   },
   "packages": {
     "@ai-sdk/gateway": ["@ai-sdk/gateway@3.0.77", "", { "dependencies": { "@ai-sdk/provider": "3.0.8", "@ai-sdk/provider-utils": "4.0.21", "@vercel/oidc": "3.1.0" }, "peerDependencies": { "zod": "^3.25.76 || ^4.1.8" } }, "sha512-UdwIG2H2YMuntJQ5L+EmED5XiwnlvDT3HOmKfVFxR4Nq/RSLFA/HcchhwfNXHZ5UJjyuL2VO0huLbWSZ9ijemQ=="],

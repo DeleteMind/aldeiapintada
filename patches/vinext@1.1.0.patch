@@ -1,0 +1,22 @@
+diff --git a/dist/shims/image.js b/dist/shims/image.js
+index 95e637afadb9c6895920b12575d20ee8d61fe301..93d661b0c5f1f90e9247d4b0013bf3c12cb3f3b4 100644
+--- a/dist/shims/image.js
++++ b/dist/shims/image.js
+@@ -521,7 +521,7 @@ const Image = forwardRef(function Image({ src: srcProp, alt, width, height, fill
+ 	}
+ 	const imgQuality = typeof quality === "string" ? Number(quality) : quality ?? 75;
+ 	const skipOptimization = isSvgUrl(src) && !__dangerouslyAllowSVG;
+-	const optimizedAttributes = imgWidth && !fill && !skipOptimization ? generateImageAttributes(src, imgWidth, imgQuality, sizes) : void 0;
++	const optimizedAttributes = (imgWidth || fill) && !skipOptimization ? generateImageAttributes(src, imgWidth, imgQuality, sizes ?? (fill ? "100vw" : void 0)) : void 0;
+ 	const srcSet = optimizedAttributes ? optimizedAttributes.srcSet : imgWidth && !fill ? RESPONSIVE_WIDTHS.filter((w) => w <= imgWidth * 2).map((w) => `${src} ${w}w`).join(", ") || `${src} ${imgWidth}w` : void 0;
+ 	const optimizedSrc = skipOptimization ? src : optimizedAttributes ? optimizedAttributes.src : imageOptimizationUrl(src, RESPONSIVE_WIDTHS[0], imgQuality);
+ 	const sanitizedLocalBlur = imgBlurDataURL ? sanitizeBlurDataURL(imgBlurDataURL) : void 0;
+@@ -620,7 +620,7 @@ function getImageProps(props) {
+ 		quality: imgQuality
+ 	}) : src;
+ 	const skipOpt = isSvgUrl(resolvedSrc) && !__dangerouslyAllowSVG || blockedInProd || !!loader || isRemoteUrl(resolvedSrc);
+-	const optimizedAttributes = imgWidth && !fill && !skipOpt ? generateImageAttributes(resolvedSrc, imgWidth, imgQuality, sizes) : null;
++	const optimizedAttributes = (imgWidth || fill) && !skipOpt ? generateImageAttributes(resolvedSrc, imgWidth, imgQuality, sizes ?? (fill ? "100vw" : void 0)) : null;
+ 	const optimizedSrc = skipOpt ? resolvedSrc : optimizedAttributes ? optimizedAttributes.src : imageOptimizationUrl(resolvedSrc, RESPONSIVE_WIDTHS[0], imgQuality);
+ 	const srcSet = optimizedAttributes?.srcSet;
+ 	const sanitizedBlurURL = imgBlurDataURL ? sanitizeBlurDataURL(imgBlurDataURL) : void 0;
