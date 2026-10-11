@@ -1,10 +1,16 @@
-import { getDocumentBySlug } from 'outstatic/server';
+import { getDocumentBySlug, getDocumentSlugs } from 'outstatic/server';
 import { twMerge } from 'tailwind-merge';
 import Header from '@/components/Header';
 import { Text } from '@/components/Text';
 import { markdownToHtml } from '@/lib/markdownToHtml';
 import type { PinturaPost } from '@/lib/types';
 import { pinturaPostFieldLabels } from '@/lib/types';
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+	return getDocumentSlugs('pinturas').map((slug) => ({ slug }));
+}
 
 export default async function PinturaMuralPost({
 	params,

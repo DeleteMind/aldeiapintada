@@ -23,6 +23,7 @@
 		}
 	},
 	"include": [
+		".cloudflare/types",
 		"next-env.d.ts",
 		"**/*.ts",
 		"**/*.tsx",

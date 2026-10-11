@@ -1,8 +1,14 @@
-import { getDocumentBySlug } from 'outstatic/server';
+import { getDocumentBySlug, getDocumentSlugs } from 'outstatic/server';
 import Header from '@/components/Header';
 import { Text } from '@/components/Text';
 import { markdownToHtml } from '@/lib/markdownToHtml';
 import type { ProgramacaoPost } from '@/lib/types';
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+	return getDocumentSlugs('programas').map((slug) => ({ slug }));
+}
 
 export default async function ArquivoPost({
 	params,
