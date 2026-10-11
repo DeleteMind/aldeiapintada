@@ -1,6 +1,6 @@
 {
-  "commit": "ff808be95a571c490eb7e5a9ca2acb625961ac78",
-  "generated": "2026-10-11T19:53:23.922Z",
+  "commit": "1caeb9b803f691323f88cb386d34802efad72b31",
+  "generated": "2026-10-11T21:38:30.956Z",
   "metadata": [
     {
       "__outstatic": {
@@ -643,6 +643,22 @@
         }
       ],
       "title": "31/10 | CLUEDO TEATRAL - O Mistério da Pia"
+    },
+    {
+      "__outstatic": {
+        "commit": "1caeb9b803f691323f88cb386d34802efad72b31",
+        "hash": "3860780433",
+        "path": "outstatic/content/pinturas/test.mdx"
+      },
+      "author": {
+        "name": "Filipe Santos Cordeiro",
+        "picture": "https://avatars.githubusercontent.com/u/167776782?v=4"
+      },
+      "collection": "pinturas",
+      "publishedAt": "2026-10-11T21:44:24.367Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "test"
     }
   ]
 }
