@@ -1,4 +1,4 @@
-import { bindings, defineConfig, defineWorker } from 'cf/config';
+import { bindings, defineConfig, defineWorker, triggers } from 'cf/config';
 
 export default defineConfig({
 	worker: defineWorker({
@@ -7,6 +7,10 @@ export default defineConfig({
 		compatibilityDate: '2026-10-11',
 		compatibilityFlags: ['nodejs_compat'],
 		assets: { notFoundHandling: 'none', runWorkerFirst: ['/_vinext/static-cache/*'] },
+		triggers: [
+			triggers.fetch({ pattern: 'aldeiapintada.com/*', zone: 'aldeiapintada.com' }),
+			triggers.fetch({ pattern: 'www.aldeiapintada.com/*', zone: 'aldeiapintada.com' }),
+		],
 		env: {
 			ASSETS: bindings.assets(),
 			IMAGES: bindings.images(),
