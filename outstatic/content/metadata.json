@@ -1,6 +1,6 @@
 {
-  "commit": "49057f9bc5a11756d4098dccbae1986aa62451c6",
-  "generated": "2026-10-05T19:18:41.639Z",
+  "commit": "ff808be95a571c490eb7e5a9ca2acb625961ac78",
+  "generated": "2026-10-11T19:53:23.922Z",
   "metadata": [
     {
       "__outstatic": {
@@ -622,8 +622,8 @@
     },
     {
       "__outstatic": {
-        "commit": "49057f9bc5a11756d4098dccbae1986aa62451c6",
-        "hash": "863765636",
+        "commit": "ff808be95a571c490eb7e5a9ca2acb625961ac78",
+        "hash": "501839639",
         "path": "outstatic/content/programas/cluedo-teatral-o-misterio-da-pia.mdx"
       },
       "aAcontecer": true,
