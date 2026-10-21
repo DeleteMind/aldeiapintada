@@ -3,7 +3,7 @@ import { bindings, defineConfig, defineWorker, triggers } from 'cf/config';
 export default defineConfig({
 	worker: defineWorker({
 		name: 'aldeiapintada-app',
-		entrypoint: 'vinext/server/fetch-handler',
+		entrypoint: './worker/index.ts',
 		compatibilityDate: '2026-10-11',
 		compatibilityFlags: ['nodejs_compat'],
 		assets: { notFoundHandling: 'none', runWorkerFirst: ['/_vinext/static-cache/*'] },
