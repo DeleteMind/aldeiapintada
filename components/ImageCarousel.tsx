@@ -16,7 +16,7 @@ interface ImageItem {
 
 interface ImageCarouselProps {
 	images: ImageItem[];
-	imageHeight?: number; // Now only used for container height class, not individual images
+	imageHeight?: number; // Slide height in pixels; also drives each image's sizes
 	slidesPerView?: number;
 	spaceBetween?: number;
 	autoplayDelay?: number;

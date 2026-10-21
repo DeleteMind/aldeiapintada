@@ -17,7 +17,7 @@ function optimizeImages(content: string) {
 			fill: true,
 			sizes: contentImageSizes,
 		});
-		return `<img src="${escapeAttribute(props.src)}" srcset="${escapeAttribute(props.srcSet)}" sizes="${escapeAttribute(props.sizes)}" loading="lazy" decoding="async"`;
+		return `<img src="${escapeAttribute(props.src)}" srcset="${escapeAttribute(props.srcSet)}" sizes="${contentImageSizes}" loading="lazy" decoding="async"`;
 	});
 }
 
