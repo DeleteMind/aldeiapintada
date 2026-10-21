@@ -204,7 +204,16 @@ export default function Header({ src, objectPosition, invertTextColor }: HeaderP
 				className='relative w-full h-96'
 				style={{ marginTop: headerHeight ? -headerHeight : 0 }}
 			>
-				<Image src={src} alt='' fill className={imageClassName} priority />
+				{/* On narrow screens object-cover sizes a landscape photo by the 384px
+				height (~576px wide), not by the viewport. */}
+				<Image
+					src={src}
+					alt=''
+					fill
+					sizes='max(576px, 100vw)'
+					className={imageClassName}
+					priority
+				/>
 			</div>
 		</>
 	);

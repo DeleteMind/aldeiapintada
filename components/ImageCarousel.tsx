@@ -43,6 +43,13 @@ export default function ImageCarousel({
 	},
 	className = 'pb-8',
 }: ImageCarouselProps) {
+	// Slides have a fixed height and object-cover, so a landscape photo renders at
+	// imageHeight × its aspect ratio until the three-column slides outgrow that.
+	const slideSizes = (src: ImageItem['src']) =>
+		typeof src === 'string'
+			? undefined
+			: `max(${Math.ceil((imageHeight * src.width) / src.height)}px, 33vw)`;
+
 	return (
 		<section className='w-full mx-auto'>
 			<Swiper
@@ -68,7 +75,13 @@ export default function ImageCarousel({
 						style={{ height: `${imageHeight}px` }}
 					>
 						<div className='relative w-full h-full rounded-lg overflow-hidden'>
-							<Image src={image.src} alt={image.alt} fill className='object-cover' />
+							<Image
+								src={image.src}
+								alt={image.alt}
+								fill
+								sizes={slideSizes(image.src)}
+								className='object-cover'
+							/>
 						</div>
 					</SwiperSlide>
 				))}

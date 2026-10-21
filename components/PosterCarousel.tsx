@@ -54,6 +54,10 @@ export default function PosterCarousel({
 	},
 	className = 'pb-8',
 }: PosterCarouselProps) {
+	// Portrait posters cover a fixed-height card, so from two columns up they render
+	// about 0.9 × posterHeight wide rather than at the column width.
+	const posterSizes = `(min-width: 640px) ${Math.ceil(posterHeight * 0.9)}px, 100vw`;
+
 	return (
 		<section className='w-full mx-auto'>
 			<Swiper
@@ -85,6 +89,7 @@ export default function PosterCarousel({
 										src={poster.src}
 										alt={poster.title}
 										fill
+										sizes={posterSizes}
 										className='object-cover transition-transform duration-300 group-hover:scale-[1.02]'
 									/>
 								) : (
